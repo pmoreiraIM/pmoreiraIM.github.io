@@ -1,0 +1,866 @@
+ID,Link,Name,Backlog,Committed,Elaboration,Build,QA,Done,Type,Status,Resolution,Blocked Days
+FAB-25197,https://immediateco.atlassian.net/browse/FAB-25197,Site verification,2019-12-09,,,,,,Story,Define Task,,0
+FAB-25196,https://immediateco.atlassian.net/browse/FAB-25196,Tests,,,2019-12-09,2019-12-09,,,Sub-Task,In Progress,,0
+FAB-25195,https://immediateco.atlassian.net/browse/FAB-25195,Truncation,,,2019-12-09,2019-12-09,,,Sub-Task,In Progress,,0
+FAB-25194,https://immediateco.atlassian.net/browse/FAB-25194,Vertical card description truncation,2019-12-09,,,,,,Story,Define Task,,0
+FAB-25192,https://immediateco.atlassian.net/browse/FAB-25192,Alexa: Filter Search Results,2019-12-09,,,,,,Story,Define Task,,0
+FAB-25191,https://immediateco.atlassian.net/browse/FAB-25191,Alexa: View Unfiltered Search Page Results,2019-12-09,,,,,,Story,Define Task,,0
+FAB-25190,https://immediateco.atlassian.net/browse/FAB-25190,My hub navigation indicates the page you are on,2019-12-09,,,,,,Story,Define Task,,0
+FAB-25189,https://immediateco.atlassian.net/browse/FAB-25189,Alexa translation healthcheck,2019-12-09,,,,,,Story,Define Task,,0
+FAB-25188,https://immediateco.atlassian.net/browse/FAB-25188,GF/Mig - Test Migration of Editorial Recipe Collection into PRODUCTION,2019-12-09,2019-12-09,2019-12-09,,,,Story,Ready For Development,,0
+FAB-25179,https://immediateco.atlassian.net/browse/FAB-25179,Images that represent my user collections,2019-12-06,,,,,,Story,Define Task,,0
+FAB-25170,https://immediateco.atlassian.net/browse/FAB-25170,MyHub dropdown is hard to close in landscape,,,2019-12-06,,,2019-12-09,Bug (subtask),Closed,Done,0
+FAB-25169,https://immediateco.atlassian.net/browse/FAB-25169,MyHub dropdown doesn't scroll in landscape,,,2019-12-06,2019-12-06,,,Bug (subtask),In Progress,,0
+FAB-25168,https://immediateco.atlassian.net/browse/FAB-25168,Order recipes in collections by most recently added,2019-12-05,,,,,,Story,Define Task,,0
+FAB-25165,https://immediateco.atlassian.net/browse/FAB-25165,GF users password decryption,2019-12-05,,,,,,Story,Define Task,,0
+FAB-25157,https://immediateco.atlassian.net/browse/FAB-25157,"Create new Clients for Recipe, My Hub and WordPress",2019-12-05,,,,,,Story,Preparation,,0
+FAB-25155,https://immediateco.atlassian.net/browse/FAB-25155,Print recipe from step-by-step recipe on Fabric page,2019-12-05,2019-12-05,,,,,Story,Ready For Shaping,,0
+FAB-25151,https://immediateco.atlassian.net/browse/FAB-25151,Tests,,,,2019-12-05,,2019-12-06,Sub-Task,Complete,Done,0
+FAB-25150,https://immediateco.atlassian.net/browse/FAB-25150,Build pipeline,,,,2019-12-05,,2019-12-05,Sub-Task,Complete,Done,0
+FAB-25146,https://immediateco.atlassian.net/browse/FAB-25146,Spec Add to Collection component,2019-12-05,,,,,,Discovery Design Story,Preparation,,0
+FAB-25145,https://immediateco.atlassian.net/browse/FAB-25145,Design Add to Collection component,2019-12-05,,,,,,Discovery Design Story,Preparation,,0
+FAB-25144,https://immediateco.atlassian.net/browse/FAB-25144,Define UX of Add to Collection component,,,2019-12-05,2019-12-09,,,Discovery Story,In Progress,,0
+FAB-25143,https://immediateco.atlassian.net/browse/FAB-25143,Create backend card adapter,2019-12-05,2019-12-05,2019-12-05,,,,Story,Ready For Development,,0
+FAB-25142,https://immediateco.atlassian.net/browse/FAB-25142,Create frontend card builder,2019-12-05,2019-12-05,2019-12-05,,,,Story,Ready For Development,,0
+FAB-25141,https://immediateco.atlassian.net/browse/FAB-25141,Create base card components,2019-12-05,2019-12-05,2019-12-05,,,,Story,Ready For Development,,0
+FAB-25136,https://immediateco.atlassian.net/browse/FAB-25136,Added as part of 24328,,,2019-12-04,,,2019-12-04,Sub-Task,Complete,Done,0
+FAB-25133,https://immediateco.atlassian.net/browse/FAB-25133,StepxStep recipes should have Hide from pages option,2019-12-04,2019-12-04,,,,,Story,Ready For Shaping,,0
+FAB-25132,https://immediateco.atlassian.net/browse/FAB-25132,"Servings range group for above 8 is displayed as 9-servings instead of ""More than 8""",,,,2019-12-05,2019-12-09,,Bug (subtask),Ready For Packaging,,0
+FAB-25126,https://immediateco.atlassian.net/browse/FAB-25126,Terraform - Authorisation Refactor,2019-12-04,2019-12-04,2019-12-04,,,,Story,Ready For Development,,0
+FAB-25123,https://immediateco.atlassian.net/browse/FAB-25123,Data-driven tests - UGR Client,2019-12-04,2019-12-04,,,,,Dev Task,Ready For Shaping,,0
+FAB-25122,https://immediateco.atlassian.net/browse/FAB-25122,Data-driven tests - Recipes,2019-12-04,2019-12-04,,,,,Dev Task,Ready For Shaping,,0
+FAB-25120,https://immediateco.atlassian.net/browse/FAB-25120,Data-driven tests - Social Network Settings,2019-12-04,2019-12-04,,,,,Dev Task,Ready For Shaping,,0
+FAB-25119,https://immediateco.atlassian.net/browse/FAB-25119,Data-driven tests - Footer Settings,2019-12-04,2019-12-04,,,,,Dev Task,Ready For Shaping,,0
+FAB-25118,https://immediateco.atlassian.net/browse/FAB-25118,Service - Recipes Frontend,2019-12-04,2019-12-04,2019-12-04,2019-12-04,2019-12-04,2019-12-04,Story,Complete,Done,0
+FAB-25117,https://immediateco.atlassian.net/browse/FAB-25117,Service - My Hub Frontend,2019-12-04,2019-12-04,2019-12-04,2019-12-04,2019-12-04,2019-12-04,Story,Complete,Done,0
+FAB-25116,https://immediateco.atlassian.net/browse/FAB-25116,Service - Content API ,2019-12-04,2019-12-04,2019-12-04,2019-12-04,2019-12-04,2019-12-04,Story,Complete,Done,0
+FAB-25115,https://immediateco.atlassian.net/browse/FAB-25115,Service - Collections API,2019-12-04,2019-12-04,2019-12-04,2019-12-04,2019-12-04,2019-12-04,Story,Complete,Done,0
+FAB-25107,https://immediateco.atlassian.net/browse/FAB-25107,Data-driven tests - Menus,2019-12-04,2019-12-04,,,,,Dev Task,Ready For Shaping,,0
+FAB-25106,https://immediateco.atlassian.net/browse/FAB-25106,Data-driven tests - Header Settings,2019-12-04,2019-12-04,2019-12-05,,,,Dev Task,Ready For Development,,0
+FAB-25104,https://immediateco.atlassian.net/browse/FAB-25104,Data-driven tests - Site Config,2019-12-04,2019-12-04,,,,,Dev Task,Ready For Shaping,,0
+FAB-25091,https://immediateco.atlassian.net/browse/FAB-25091,GF/Mig/Reactions - Investigate Transformation and Reassociation of Reactions to Posts and Users,2019-12-03,2019-12-03,2019-12-03,,,,Spike,Ready For Development,,0
+FAB-25088,https://immediateco.atlassian.net/browse/FAB-25088,GF/Mig - Migration of Articles into PRODUCTION,2019-12-03,2019-12-03,2019-12-03,2019-12-03,2019-12-05,2019-12-09,Story,Ready For Release,Done,0
+FAB-25084,https://immediateco.atlassian.net/browse/FAB-25084,Create taxonomies from seasonal data ,2019-12-03,2019-12-05,,,,,Story,Ready For Shaping,,0
+FAB-25083,https://immediateco.atlassian.net/browse/FAB-25083,Reactions/ReadArticle - Add Reactions to Fabric Article,2019-12-03,2019-12-04,,,,,Story,Ready For Shaping,,0
+FAB-25082,https://immediateco.atlassian.net/browse/FAB-25082,Reactions/ReadArticle - Add Twig Hooks for Reactions,2019-12-03,2019-12-04,,,,,Story,Ready For Shaping,,0
+FAB-25081,https://immediateco.atlassian.net/browse/FAB-25081,Reactions/ReadArticle - Display Reactions on Articles,2019-12-03,2019-12-04,,,,,Epic,Ready For Shaping,,0
+FAB-25080,https://immediateco.atlassian.net/browse/FAB-25080,Reactions/Read - Provide recipe data to secondary components,2019-12-04,2019-12-04,2019-12-06,,,,Story,Ready For Development,,0
+FAB-25079,https://immediateco.atlassian.net/browse/FAB-25079,Reactions/Read - Create library of secondary features,2019-12-03,2019-12-04,,,,,Story,Ready For Shaping,,0
+FAB-25078,https://immediateco.atlassian.net/browse/FAB-25078,Reactions/Read - Implement standard pattern for dynamically loaded components,2019-12-03,2019-12-04,,,,,Story,Ready For Shaping,,0
+FAB-25077,https://immediateco.atlassian.net/browse/FAB-25077,Reactions/Read - Design Reactions pre-load state,2019-12-03,2019-12-04,,,,,Design Story,Ready For Shaping,,0
+FAB-25076,https://immediateco.atlassian.net/browse/FAB-25076,Reactions/Read - Dynamically load pocket components,2019-12-03,2019-12-04,,,,,Epic,Ready For Shaping,,0
+FAB-25075,https://immediateco.atlassian.net/browse/FAB-25075,Reactions/ReadEdRec - Add Reactions to Recipe pocket (fixed config),2019-12-04,2019-12-04,2019-12-06,,,,Story,Ready For Development,,0
+FAB-25074,https://immediateco.atlassian.net/browse/FAB-25074,Reactions/ReadEdRec - Add Pockets to Recipe Template,2019-12-04,2019-12-04,2019-12-06,,,,Story,Ready For Development,,0
+FAB-25073,https://immediateco.atlassian.net/browse/FAB-25073,Reactions/ReadEdRec - Recipe pockets design specifications,2019-12-03,2019-12-04,,,,,Design Story,Ready For Shaping,,0
+FAB-25072,https://immediateco.atlassian.net/browse/FAB-25072,Reactions/Read - Display on Recipe Template,2019-12-03,2019-12-04,,,,,Epic,Ready For Shaping,,0
+FAB-25068,https://immediateco.atlassian.net/browse/FAB-25068,Stop it adding duplicate events,2019-12-03,,,,,,Story,Define Task,,0
+FAB-25067,https://immediateco.atlassian.net/browse/FAB-25067,Limit number of events,2019-12-03,,,,,,Story,Define Task,,0
+FAB-25051,https://immediateco.atlassian.net/browse/FAB-25051,Pull Replies data from the API,,,,2019-12-03,,2019-12-03,Sub-Task,Complete,Done,0
+FAB-25050,https://immediateco.atlassian.net/browse/FAB-25050,Pull Reactions data from the API,,,,2019-12-03,,2019-12-03,Sub-Task,Complete,Done,0
+FAB-25049,https://immediateco.atlassian.net/browse/FAB-25049,Write docs for setting up Reactions with Bucketchucker,,,,2019-12-03,,2019-12-04,Sub-Task,Complete,Done,0
+FAB-25048,https://immediateco.atlassian.net/browse/FAB-25048,Tidy up package and simplify settings,,,,2019-12-03,,2019-12-03,Sub-Task,Complete,Done,0
+FAB-25037,https://immediateco.atlassian.net/browse/FAB-25037,Production Runbooks for Disaster Scenarios,2019-12-04,2019-12-04,2019-12-04,,,,Story,Ready For Development,,0
+FAB-25036,https://immediateco.atlassian.net/browse/FAB-25036,Production Readiness Checklist,2019-12-04,2019-12-04,2019-12-04,,,,Story,Ready For Development,,0
+FAB-25031,https://immediateco.atlassian.net/browse/FAB-25031,Reactions/ReadFeed - Refactor patchwork components to adhere to new requirements,2019-12-02,2019-12-02,2019-12-02,2019-12-04,2019-12-09,,Story,Ready for Testing,,0
+FAB-25029,https://immediateco.atlassian.net/browse/FAB-25029,"Tasks to lead to a Production ""Ready"" cluster, including monitoring, logging and runbooks.",,2019-12-02,2019-12-04,,,,Epic,Ready For Development,,0
+FAB-25027,https://immediateco.atlassian.net/browse/FAB-25027,1/2 day - Investigation into possible migration of wcp-platform-packages-config,2019-12-04,2019-12-04,2019-12-04,,,,Spike,Ready For Development,,0
+FAB-25026,https://immediateco.atlassian.net/browse/FAB-25026,Service - User Recipes API,2019-12-04,2019-12-04,2019-12-04,2019-12-05,,,Story,In Progress,,0
+FAB-25025,https://immediateco.atlassian.net/browse/FAB-25025,Service - Settings API,2019-12-04,2019-12-04,2019-12-04,,,,Story,Ready For Development,,0
+FAB-25024,https://immediateco.atlassian.net/browse/FAB-25024,Service - Search API,2019-12-04,2019-12-04,2019-12-04,2019-12-04,,,Story,In Progress,,0
+FAB-25022,https://immediateco.atlassian.net/browse/FAB-25022,1 day - Observability - Alerting (PagerDuty?),2019-12-04,2019-12-04,2019-12-04,,,,Spike,Ready For Development,,0
+FAB-25021,https://immediateco.atlassian.net/browse/FAB-25021,1 day - Observability - Logging,2019-12-04,2019-12-04,2019-12-04,,,,Spike,Ready For Development,,0
+FAB-25020,https://immediateco.atlassian.net/browse/FAB-25020,1 day - Observability - Monitoring (Metrics),2019-12-04,2019-12-04,2019-12-04,,,,Spike,Ready For Development,,0
+FAB-25018,https://immediateco.atlassian.net/browse/FAB-25018,Documentation for Good Foods Infrastructure (Self Service Potential),2019-12-04,2019-12-04,2019-12-04,2019-12-04,2019-12-04,,Story,Ready For Review,,0
+FAB-25009,https://immediateco.atlassian.net/browse/FAB-25009,404s should route to editorial curated 404 page,2019-12-02,,,,,,Story,Define Task,,0
+FAB-25003,https://immediateco.atlassian.net/browse/FAB-25003,GF/Mig - Fix possible failures from Recipe Test run result,2019-11-29,2019-11-29,2019-11-29,2019-12-03,2019-12-03,2019-12-03,Bug,Ready For Release,Done,0
+FAB-25002,https://immediateco.atlassian.net/browse/FAB-25002,GF/Mig - Test Migration of Editorial Recipe into PRODUCTION,2019-11-29,2019-11-29,2019-12-05,2019-12-05,2019-12-09,,Story,Ready for Testing,,0
+FAB-25001,https://immediateco.atlassian.net/browse/FAB-25001,Restrict Glossary link search,2019-11-29,2019-11-29,2019-12-02,2019-12-04,,,Story,In Progress,,0
+FAB-24998,https://immediateco.atlassian.net/browse/FAB-24998,GF/Mig/Reactions - Transform and Import,2019-11-29,2019-11-29,,,,,Story,Ready For Shaping,,0
+FAB-24995,https://immediateco.atlassian.net/browse/FAB-24995,Author and date on List posts,2019-11-29,,,,,,Epic,Define Task,,0
+FAB-24994,https://immediateco.atlassian.net/browse/FAB-24994,Lists of lists,,2019-11-29,2019-12-02,2019-12-02,,,Epic,In Progress,,0
+FAB-24983,https://immediateco.atlassian.net/browse/FAB-24983,Reactions/Read - Design Success,2019-11-28,2019-11-28,2019-11-28,2019-12-09,,,Design Story,In Progress,,0
+FAB-24982,https://immediateco.atlassian.net/browse/FAB-24982,Reactions/Read - Design Skeleton,2019-11-28,2019-11-28,2019-11-28,2019-12-09,,,Design Story,In Progress,,0
+FAB-24981,https://immediateco.atlassian.net/browse/FAB-24981,Reactions/Read - Design Spinner,2019-11-28,2019-11-28,2019-11-28,2019-12-09,,,Design Story,In Progress,,0
+FAB-24974,https://immediateco.atlassian.net/browse/FAB-24974,List search optimisation,,2019-11-28,2019-12-02,,,,Epic,Ready For Development,,0
+FAB-24972,https://immediateco.atlassian.net/browse/FAB-24972,Header spacing when author and date are hidden,2019-11-28,2019-11-28,2019-12-05,,,,Story,Ready For Development,,0
+FAB-24966,https://immediateco.atlassian.net/browse/FAB-24966,Restrict search in Lists to titles only,2019-11-28,2019-11-28,2019-12-02,,,,Story,Ready For Development,,0
+FAB-24962,https://immediateco.atlassian.net/browse/FAB-24962,Update Action Scheduler CRON to Only Run on Sites with AS Enabled,2019-11-28,2019-11-28,2019-11-28,2019-11-28,2019-11-28,2019-11-29,Technical Debt,Ready For Release,Done,0
+FAB-24960,https://immediateco.atlassian.net/browse/FAB-24960,Reactions/ReadMast - Display Number of Reactions as Skiplink in Masthead on Standalone,2019-11-28,2019-11-28,2019-11-29,,,,Story,Ready For Development,,0
+FAB-24958,https://immediateco.atlassian.net/browse/FAB-24958,Reactions/ReadFeed - Switch from MongoDB to MySQL,2019-11-28,2019-11-28,2019-11-28,2019-12-03,2019-12-06,2019-12-06,Story,Ready For Release,Done,0
+FAB-24955,https://immediateco.atlassian.net/browse/FAB-24955,Mock ratings data,,,,2019-12-03,2019-12-03,2019-12-06,Sub-Task,Ready For Release,Done,0
+FAB-24954,https://immediateco.atlassian.net/browse/FAB-24954,Reactions/ReadMast - Provide Number of Reactions data via API for Display,2019-11-28,2019-11-28,2019-11-29,2019-12-03,2019-12-06,2019-12-06,Story,Ready For Release,Done,0
+FAB-24952,https://immediateco.atlassian.net/browse/FAB-24952,Reactions/ReadFeed - Select GF Default Avatar,,2019-11-27,2019-11-28,2019-12-09,,,Design Story,In Progress,,0
+FAB-24951,https://immediateco.atlassian.net/browse/FAB-24951,Hide Lists from pages,2019-11-29,2019-12-05,2019-12-05,,,,Story,Ready For Development,,0
+FAB-24950,https://immediateco.atlassian.net/browse/FAB-24950,Reactions/Schema - Investigate how to implement Schema.org schemas,2019-11-27,2019-11-27,2019-11-27,,,,Spike,Ready For Development,,0
+FAB-24948,https://immediateco.atlassian.net/browse/FAB-24948,Action Scheduler: Limit Number of Simultaneous Cron Runs ,2019-12-03,2019-12-03,2019-12-03,2019-12-03,2019-12-03,2019-12-03,Dev Task,Ready For Release,Done,0
+FAB-24946,https://immediateco.atlassian.net/browse/FAB-24946,Configure and populate seasonal calendar,2019-11-27,,,,,,Story,Define Task,,0
+FAB-24934,https://immediateco.atlassian.net/browse/FAB-24934,Create a Code Ownership in the UGR API,2019-11-27,2019-11-27,2019-11-27,2019-11-27,2019-11-27,2019-11-27,Dev Task,Complete,Done,0
+FAB-24933,https://immediateco.atlassian.net/browse/FAB-24933,Create a Code Ownership in the Settings API,2019-11-27,2019-11-27,2019-11-27,2019-11-27,2019-11-27,2019-11-27,Dev Task,Complete,Done,0
+FAB-24932,https://immediateco.atlassian.net/browse/FAB-24932,(Desktop) Search icon disappears when clicked,,,,,2019-11-27,2019-11-28,Bug (subtask),Ready For Release,Done,0
+FAB-24931,https://immediateco.atlassian.net/browse/FAB-24931,(Mobile) Right search button open and close icons are missing,,,,,2019-11-27,2019-11-28,Bug (subtask),Ready For Release,Done,0
+FAB-24930,https://immediateco.atlassian.net/browse/FAB-24930,(Mobile) Left hamburger open and close icons are missing,,,,,2019-11-27,2019-11-28,Bug (subtask),Ready For Release,Done,0
+FAB-24927,https://immediateco.atlassian.net/browse/FAB-24927,Update header navigations,2019-11-27,2019-11-27,2019-11-27,2019-11-27,2019-11-27,2019-11-28,Story,Ready For Release,Done,0
+FAB-24925,https://immediateco.atlassian.net/browse/FAB-24925,Print Recipe : design,2019-11-26,2019-11-26,2019-11-26,2019-12-03,,,Design Story,In Progress,,0
+FAB-24917,https://immediateco.atlassian.net/browse/FAB-24917,Reactions/ReadFeed - Display relative time on Reactions and Replies,2019-11-26,2019-11-29,2019-11-29,2019-12-03,2019-12-06,2019-12-09,Story,Ready For Release,Done,0
+FAB-24916,https://immediateco.atlassian.net/browse/FAB-24916,Eyebrow Drop Down Menu - Mobile Drawer,2019-11-26,2019-11-26,2019-11-26,2019-12-02,2019-12-04,,Story,In Test,,0
+FAB-24913,https://immediateco.atlassian.net/browse/FAB-24913,Reactions/ReadRate - Display Rating Data in Masthead on Standalone ('Pill'),2019-11-26,2019-11-27,2019-11-29,,,,Story,Ready For Development,,0
+FAB-24910,https://immediateco.atlassian.net/browse/FAB-24910,Mock ratings data,,,,2019-12-03,2019-12-03,2019-12-06,Sub-Task,Ready For Release,Done,0
+FAB-24857,https://immediateco.atlassian.net/browse/FAB-24857,"All browsers: Breadcrumb appears in page content, instead of in header",,,,,2019-11-22,2019-11-25,Bug (subtask),Closed,Done,0
+FAB-24856,https://immediateco.atlassian.net/browse/FAB-24856,IE: Eyebrow nav appears at the very top of the page,,,,2019-11-25,2019-11-25,2019-11-27,Bug (subtask),Ready For Release,Done,0
+FAB-24855,https://immediateco.atlassian.net/browse/FAB-24855,Edge + IE: Placeholder text should be light grey but appears very dark,,,,2019-11-25,2019-11-25,2019-11-27,Bug (subtask),Ready For Release,Done,0
+FAB-24854,https://immediateco.atlassian.net/browse/FAB-24854,IE: Megamenu has a scrollbar and doesn't expand when hovered over,,,,2019-11-25,2019-11-25,2019-11-27,Bug (subtask),Ready For Release,Done,0
+FAB-24843,https://immediateco.atlassian.net/browse/FAB-24843,Deploy UGR API to Staging,2019-11-21,2019-12-05,2019-12-06,2019-12-06,,,Story,In Progress,,0
+FAB-24842,https://immediateco.atlassian.net/browse/FAB-24842,Decide on the approach for building cards,2019-11-21,2019-11-21,2019-11-21,2019-12-05,,,Spike,In Progress,,0
+FAB-24834,https://immediateco.atlassian.net/browse/FAB-24834,Frontend,,,2019-11-21,2019-12-05,,,Sub-Task,In Progress,,0
+FAB-24833,https://immediateco.atlassian.net/browse/FAB-24833,Backend,,,2019-11-21,2019-12-04,,,Sub-Task,In Progress,,0
+FAB-24824,https://immediateco.atlassian.net/browse/FAB-24824,Collections API: Update to use IM Service Authorisation,2019-11-20,2019-11-20,2019-11-21,2019-12-02,2019-12-05,2019-12-06,Story,Ready For Release,Done,0
+FAB-24817,https://immediateco.atlassian.net/browse/FAB-24817,Reactions/ReadFeed - Ensure Frontend uses Settings API (Platform),2019-11-20,,,,,,Story,Preparation,,0
+FAB-24816,https://immediateco.atlassian.net/browse/FAB-24816,GFMig/UserData - Setup SFTP Server for User Image Transfer,2019-11-20,2019-11-20,2019-11-20,2019-11-20,2019-11-20,2019-11-20,Story,Ready For Release,Done,0
+FAB-24813,https://immediateco.atlassian.net/browse/FAB-24813,Reactions/AddReaction - Provide Create Operations for a Reaction of Type 'Question' via POST request to API,2019-11-20,2019-11-20,,,,,Story,Ready For Shaping,,0
+FAB-24812,https://immediateco.atlassian.net/browse/FAB-24812,Reactions/AddReaction - Provide Create Operations for a Reaction of Type 'Rating' via POST request to API,2019-11-20,2019-11-20,,,,,Story,Ready For Shaping,,0
+FAB-24811,https://immediateco.atlassian.net/browse/FAB-24811,Reactions/AddReaction - Provide Create Operations for a Reaction of Type 'Tip' via POST request to API,2019-11-20,2019-11-20,,,,,Story,Ready For Shaping,,0
+FAB-24805,https://immediateco.atlassian.net/browse/FAB-24805,GF/Mig - Update IFT to handle API-Platform,2019-11-20,2019-11-20,2019-11-20,2019-11-21,2019-11-21,2019-11-25,Dev Task,Ready For Release,Done,0
+FAB-24795,https://immediateco.atlassian.net/browse/FAB-24795,Edit an existing Collection from within a Collection,2019-11-19,,,,,,Story,Define Task,,0
+FAB-24794,https://immediateco.atlassian.net/browse/FAB-24794,Edit an existing Collection from on the Collections section via the 3 dot button,2019-11-19,,,,,,Story,Define Task,,0
+FAB-24793,https://immediateco.atlassian.net/browse/FAB-24793,Delete an existing Collection from on the Collections section via the 3 dot button,2019-11-19,,,,,,Story,Define Task,,0
+FAB-24792,https://immediateco.atlassian.net/browse/FAB-24792,Delete an existing Collection from within a Collection,2019-11-19,,,,,,Story,Define Task,,0
+FAB-24791,https://immediateco.atlassian.net/browse/FAB-24791,Create a new Collection in the hub,2019-11-19,,,,,,Story,Define Task,,0
+FAB-24790,https://immediateco.atlassian.net/browse/FAB-24790,Add the Create new Collection button to the in-hub navigation,2019-11-19,,,,,,Story,Define Task,,0
+FAB-24789,https://immediateco.atlassian.net/browse/FAB-24789,Create a new collection from within my Add to Collections component,2019-11-19,,,,,,Story,Define Task,,0
+FAB-24788,https://immediateco.atlassian.net/browse/FAB-24788,Show my latest Own Recipes on my Hub overview,2019-11-19,2019-12-05,,,,,Story,Ready For Shaping,,0
+FAB-24787,https://immediateco.atlassian.net/browse/FAB-24787,Show my latest Collections on my Hub overview,2019-11-19,2019-12-05,,,,,Story,Ready For Shaping,,0
+FAB-24786,https://immediateco.atlassian.net/browse/FAB-24786,Show my latest Saved Recipes on my Hub overview,2019-11-19,2019-12-05,,,,,Story,Ready For Shaping,,0
+FAB-24785,https://immediateco.atlassian.net/browse/FAB-24785,Show User Avatar within the hub navigation,2019-11-19,,,,,,Story,Define Task,,0
+FAB-24784,https://immediateco.atlassian.net/browse/FAB-24784,Show User Avatar in the Eyebrow,2019-11-19,,,,,,Story,Define Task,,0
+FAB-24783,https://immediateco.atlassian.net/browse/FAB-24783,Design: Ads placement within the sections of my Hub,2019-11-19,,,,,,Discovery Design Story,Preparation,,0
+FAB-24782,https://immediateco.atlassian.net/browse/FAB-24782,Show User Recipes in my Collections,2019-11-19,2019-11-19,,,,,Story,Ready For Shaping,,0
+FAB-24781,https://immediateco.atlassian.net/browse/FAB-24781,Show User Recipes in my Saved Recipes section,2019-11-19,2019-11-19,,,,,Story,Ready For Shaping,,0
+FAB-24780,https://immediateco.atlassian.net/browse/FAB-24780,Show my previously created Recipes within my Own Recipes section,2019-11-19,2019-11-19,,,,,Story,Ready For Shaping,,0
+FAB-24779,https://immediateco.atlassian.net/browse/FAB-24779,Apply pagination,2019-11-19,2019-11-19,2019-12-03,,,,Story,Ready For Development,,0
+FAB-24778,https://immediateco.atlassian.net/browse/FAB-24778,Apply page layout and styling to the hub,2019-11-19,,,,,,Story,Define Task,,0
+FAB-24777,https://immediateco.atlassian.net/browse/FAB-24777,Spec: Page layout and styling,2019-11-19,,,,,,Discovery Design Story,Preparation,,0
+FAB-24776,https://immediateco.atlassian.net/browse/FAB-24776,Design: Page layout and styling,2019-11-19,,,,,,Discovery Design Story,Preparation,,0
+FAB-24774,https://immediateco.atlassian.net/browse/FAB-24774,Show my recipes within a selected Collection,2019-11-19,2019-11-19,2019-12-03,,,,Story,Ready For Development,,0
+FAB-24772,https://immediateco.atlassian.net/browse/FAB-24772,Show my Collections Overview,2019-11-19,2019-11-19,2019-11-26,,,,Story,Ready For Development,,0
+FAB-24771,https://immediateco.atlassian.net/browse/FAB-24771,Show 4 most recently created collections in the hub's left nav (desktop),2019-11-19,2019-11-19,2019-12-03,,,,Story,Ready For Development,,0
+FAB-24770,https://immediateco.atlassian.net/browse/FAB-24770,Desktop-only Hub navigation,2019-11-19,2019-11-19,2019-11-21,2019-11-21,2019-11-27,2019-11-28,Story,Ready For Release,Done,0
+FAB-24766,https://immediateco.atlassian.net/browse/FAB-24766,Reactions/ReadFeed - Investigate GraphQL ,2019-11-19,2019-11-19,2019-11-19,,,,Spike,Ready For Development,,0
+FAB-24765,https://immediateco.atlassian.net/browse/FAB-24765,Reactions/ReadFeed - Fix CodeSniffer Inspection Issues,2019-11-19,2019-11-19,,,,,Story,Ready For Shaping,,0
+FAB-24758,https://immediateco.atlassian.net/browse/FAB-24758,Reactions/Schema - Reaction Type 'Rating' to use AggregateRating Schema,2019-11-19,2019-11-19,,,,,Story,Ready For Shaping,,0
+FAB-24756,https://immediateco.atlassian.net/browse/FAB-24756,Reactions/Schema - Reaction Type 'Question' to use Q&A Schema,2019-11-19,2019-11-19,,,,,Story,Ready For Shaping,,0
+FAB-24755,https://immediateco.atlassian.net/browse/FAB-24755,Reactions/Schema - Reaction Type 'Tip' to use Comment Schema,2019-11-19,2019-11-19,,,,,Story,Ready For Shaping,,0
+FAB-24753,https://immediateco.atlassian.net/browse/FAB-24753,Reactions/Schema - Reaction Type 'User Review' to use User Review Schema,2019-11-19,2019-11-19,,,,,Story,Ready For Shaping,,0
+FAB-24737,https://immediateco.atlassian.net/browse/FAB-24737,GF/Mig - Test Migration of Editorial Recipe Collection into RELEASE,2019-11-19,2019-11-19,2019-11-19,,,,Story,Ready For Development,,0
+FAB-24734,https://immediateco.atlassian.net/browse/FAB-24734,Understand The Impact of how the OpenIDConnection Plugin Works,2019-11-19,2019-11-19,2019-11-19,,,,Spike,Ready For Development,,0
+FAB-24722,https://immediateco.atlassian.net/browse/FAB-24722,Mixed list: Recipe icons duplicated on cards for other posts,2019-11-18,2019-12-05,2019-12-05,2019-12-05,2019-12-06,,Bug,Ready For Review,,0
+FAB-24721,https://immediateco.atlassian.net/browse/FAB-24721,Reactions/Schema - Reaction Type 'Comment' to use Comment Schema,2019-11-18,2019-11-19,,,,,Story,Ready For Shaping,,0
+FAB-24720,https://immediateco.atlassian.net/browse/FAB-24720,List posts for Fabric,2019-11-18,,,,,,Epic,Define Task,,0
+FAB-24718,https://immediateco.atlassian.net/browse/FAB-24718,GF/Mig - Remove HTML tags from Description field - Editorial Lists,2019-11-18,2019-11-18,2019-11-19,2019-12-03,2019-12-05,2019-12-09,Bug,Ready For Release,Done,0
+FAB-24714,https://immediateco.atlassian.net/browse/FAB-24714,Reactions - Enable Schema.org Schemas by Reaction Type,2019-11-18,2019-11-19,,,,,Epic,Ready For Shaping,,0
+FAB-24707,https://immediateco.atlassian.net/browse/FAB-24707,Terraform scripts refactor and Production environment on Ireland,2019-11-18,2019-11-18,2019-11-18,2019-11-20,2019-11-28,2019-11-29,Story,Closed,Done,0
+FAB-24706,https://immediateco.atlassian.net/browse/FAB-24706,Create CodePipeline Pre-Prod AWS and Mongodb Atlas,2019-11-18,2019-11-18,2019-11-18,2019-11-19,,,Story,In Progress,,0
+FAB-24694,https://immediateco.atlassian.net/browse/FAB-24694,Good food Search tab layout,2019-11-18,2019-11-18,2019-11-18,,,,Story,Ready For Development,,0
+FAB-24693,https://immediateco.atlassian.net/browse/FAB-24693,Cleanup unused GoodFood Mongo Atlas clusters,2019-11-18,2019-11-18,2019-11-18,2019-11-20,2019-11-20,2019-11-20,Story,Ready For Release,Done,0
+FAB-24692,https://immediateco.atlassian.net/browse/FAB-24692,Cleanup unused AWS resources,2019-11-18,2019-11-18,2019-11-18,2019-11-27,2019-12-03,,Story,In Test,,0
+FAB-24691,https://immediateco.atlassian.net/browse/FAB-24691,Terraform Workspaces Cleanup,2019-11-18,2019-11-18,2019-11-18,2019-12-04,2019-12-06,2019-12-06,Story,Ready For Release,Done,0
+FAB-24685,https://immediateco.atlassian.net/browse/FAB-24685,Reactions/AdminDash - Design ‘removed’ reaction/reply state (Placeholder),2019-11-15,2019-11-15,,,,,Design Story,Ready For Shaping,,0
+FAB-24684,https://immediateco.atlassian.net/browse/FAB-24684,Reactions/AdminDash - Enable Publish/Unpublish (API Platform),2019-11-15,2019-11-15,,,,,Story,Ready For Shaping,,0
+FAB-24682,https://immediateco.atlassian.net/browse/FAB-24682,Reactions/AdminDash - Configure API-Platform Admin Dashboard to Administer Reactions API,2019-11-15,2019-11-15,2019-11-18,2019-11-19,2019-11-27,2019-11-27,Story,Ready For Release,Done,0
+FAB-24678,https://immediateco.atlassian.net/browse/FAB-24678,Reactions - Set-up build pipeline for PRODUCTION,2019-11-15,2019-11-15,2019-11-15,2019-11-22,2019-11-22,,Story,Ready For Review,,0
+FAB-24677,https://immediateco.atlassian.net/browse/FAB-24677,Reactions/Prototype - Add Reply and Show/Hide Reply  ,2019-11-15,2019-11-15,2019-11-15,2019-11-28,2019-11-28,2019-11-28,Story,Ready For Release,Done,0
+FAB-24676,https://immediateco.atlassian.net/browse/FAB-24676,Reactions/AddReaction - Provide Create Operations for a Reaction of Type 'Review' via POST request to API,2019-11-15,2019-11-15,,,,,Story,Ready For Shaping,,0
+FAB-24675,https://immediateco.atlassian.net/browse/FAB-24675,My Hub : Show Collection images on cards and pages,2019-11-15,,,,,,Epic,Define Task,,0
+FAB-24674,https://immediateco.atlassian.net/browse/FAB-24674,Reactions/ReadFeed - Display 'Show All Replies' / 'Hide All Replies' Standalone,2019-11-15,2019-11-15,2019-11-29,,,,Story,Ready For Development,,0
+FAB-24673,https://immediateco.atlassian.net/browse/FAB-24673,Apps : Alexa Cookalong,2019-11-15,,,,,,Epic,Define Task,,0
+FAB-24669,https://immediateco.atlassian.net/browse/FAB-24669,UC API: Rename collection-items to saved-items,2019-11-19,2019-11-19,2019-11-19,2019-12-09,2019-12-09,,Dev Task,Ready for Testing,,0
+FAB-24666,https://immediateco.atlassian.net/browse/FAB-24666,"Design the -you're not logged in- page, for redirecting users to sign in via Identity",2019-11-15,,2019-11-15,,,,Discovery Design Story,Ready For Development,,0
+FAB-24654,https://immediateco.atlassian.net/browse/FAB-24654,Reactions/Search - Create GET Ratings endpoint by Brand and Post Type ,2019-11-15,2019-11-20,,,,,Story,Ready For Shaping,,0
+FAB-24650,https://immediateco.atlassian.net/browse/FAB-24650,Show User Recipes in my Hub,2019-11-15,2019-11-19,,,,,Epic,Ready For Shaping,,0
+FAB-24649,https://immediateco.atlassian.net/browse/FAB-24649,Routing : Headless application routing (FULL),2019-11-15,,,,,,Story,Define Task,,0
+FAB-24635,https://immediateco.atlassian.net/browse/FAB-24635,Reactions/ReadFeed - Complete Accessibility Audit of Reactions,2019-11-14,2019-11-14,2019-11-15,2019-11-27,2019-11-29,2019-11-29,Spike,Complete,Done,0
+FAB-24633,https://immediateco.atlassian.net/browse/FAB-24633,My Hub : Pagination of content,,2019-11-14,2019-12-03,,,,Epic,Ready For Development,,0
+FAB-24632,https://immediateco.atlassian.net/browse/FAB-24632,My Hub : Page layout and styling,2019-11-14,,,,,,Epic,Define Task,,0
+FAB-24629,https://immediateco.atlassian.net/browse/FAB-24629,Reactions/AddReaction - Provide Create Operations for a Reaction of Type 'Comment' via POST request to API,2019-11-14,2019-11-14,2019-11-14,,,,Story,Ready For Development,,0
+FAB-24628,https://immediateco.atlassian.net/browse/FAB-24628,Ordering of Saved Recipes to Most Recently added,2019-11-15,2019-11-15,2019-11-21,2019-11-21,2019-11-21,2019-11-25,Story,Ready For Release,Done,0
+FAB-24623,https://immediateco.atlassian.net/browse/FAB-24623,Enable icons on static components in WP environment,2019-11-15,2019-11-15,2019-11-18,2019-11-18,2019-11-26,2019-11-28,Story,Ready For Release,Done,1
+FAB-24622,https://immediateco.atlassian.net/browse/FAB-24622,Sign In and Out via Eyebrow,2019-11-15,2019-11-15,2019-11-19,,,,Story,Ready For Development,,0
+FAB-24619,https://immediateco.atlassian.net/browse/FAB-24619,Show my saved recipes in the Saved Recipes page,2019-11-15,2019-11-15,2019-11-21,,,,Story,Ready For Development,,0
+FAB-24615,https://immediateco.atlassian.net/browse/FAB-24615,Users can delete their avatar in User Settings,2019-11-13,2019-11-13,2019-11-28,2019-12-03,2019-12-09,,Story,Ready For Review,,0
+FAB-24614,https://immediateco.atlassian.net/browse/FAB-24614,Users can upload an avatar in User Settings,2019-11-13,2019-11-13,2019-11-18,2019-11-21,2019-12-03,2019-12-04,Story,Ready For Release,Done,0
+FAB-24613,https://immediateco.atlassian.net/browse/FAB-24613,Users can see a default avatar in User Settings,2019-11-13,2019-11-13,2019-11-18,2019-11-19,2019-11-27,2019-11-27,Story,Complete,Done,0
+FAB-24607,https://immediateco.atlassian.net/browse/FAB-24607,Reactions/ReadRate - Provide Ratings data via API for Display,2019-11-13,2019-11-13,2019-11-13,2019-12-03,2019-12-06,2019-12-09,Story,Ready For Release,Done,0
+FAB-24603,https://immediateco.atlassian.net/browse/FAB-24603,Add sticky behaviour for Static header on wordpress,2019-11-14,2019-11-14,2019-11-18,2019-11-18,2019-11-18,2019-11-20,Story,Ready For Release,Done,3
+FAB-24602,https://immediateco.atlassian.net/browse/FAB-24602,Sign Out via hub skeleton navigation,2019-11-15,2019-11-15,2019-11-19,,,,Story,Ready For Development,,0
+FAB-24601,https://immediateco.atlassian.net/browse/FAB-24601,Add Account Settings to hub skeleton navigation,2019-11-14,2019-11-14,2019-12-05,,,,Story,Ready For Development,,0
+FAB-24600,https://immediateco.atlassian.net/browse/FAB-24600,Show signed-in username on hub skeleton navigation,2019-11-14,2019-11-14,2019-11-19,,,,Story,Ready For Development,,0
+FAB-24599,https://immediateco.atlassian.net/browse/FAB-24599,Redirect to Sign In if accessing via Hub urls,2019-11-14,2019-11-14,2019-11-19,2019-11-22,,,Story,In Progress,,0
+FAB-24597,https://immediateco.atlassian.net/browse/FAB-24597,GF/Mig/UserData - Migrate User Images to S3 bucket,2019-11-13,2019-11-13,2019-11-13,2019-11-19,2019-12-03,2019-12-03,Story,Ready For Release,Done,0
+FAB-24596,https://immediateco.atlassian.net/browse/FAB-24596,Prevent CSS style clashes between static components and WP environment,2019-11-14,2019-11-14,2019-11-18,2019-11-19,2019-11-20,2019-11-27,Story,Ready For Release,Done,2
+FAB-24594,https://immediateco.atlassian.net/browse/FAB-24594,Member recipe cards,2019-11-13,2019-11-13,,,,,Design Story,Ready For Shaping,,0
+FAB-24593,https://immediateco.atlassian.net/browse/FAB-24593,Published user recipes should display in search results tab,2019-11-13,2019-11-13,,,,,Story,Ready For Shaping,,0
+FAB-24592,https://immediateco.atlassian.net/browse/FAB-24592,Users can search their own uploaded recipes in the hub,2019-11-13,2019-11-13,,,,,Story,Ready For Shaping,,0
+FAB-24591,https://immediateco.atlassian.net/browse/FAB-24591,User recipe search,2019-11-13,2019-11-13,,,,,Epic,Ready For Shaping,,0
+FAB-24589,https://immediateco.atlassian.net/browse/FAB-24589,Icon spacing on mobile,,,,2019-11-13,2019-11-13,2019-11-13,Bug (subtask),Ready For Release,Done,0
+FAB-24588,https://immediateco.atlassian.net/browse/FAB-24588,Icon order on List cards,2019-11-18,2019-11-18,2019-11-18,2019-11-18,2019-11-25,2019-11-27,Story,Complete,Done,0
+FAB-24587,https://immediateco.atlassian.net/browse/FAB-24587,Recipe Save button (Logged out),2019-11-12,,2019-11-12,,,,Discovery Design Story,Ready For Development,,0
+FAB-24586,https://immediateco.atlassian.net/browse/FAB-24586,Recipe Save button,2019-11-12,,2019-11-12,,,,Discovery Design Story,Ready For Development,,0
+FAB-24585,https://immediateco.atlassian.net/browse/FAB-24585,Research into Glossary landing page,,,2019-11-12,2019-12-03,,,Discovery Research,In Progress,,0
+FAB-24584,https://immediateco.atlassian.net/browse/FAB-24584,postman/newman tests,,,2019-11-12,,,,Sub-Task,Ready For Development,,0
+FAB-24583,https://immediateco.atlassian.net/browse/FAB-24583,Create reply paginator filter or endpoint,,,2019-11-12,,,,Sub-Task,Ready For Development,,0
+FAB-24582,https://immediateco.atlassian.net/browse/FAB-24582,Postman/Newman tests of replies,,,,2019-11-27,2019-11-28,2019-11-29,Sub-Task,Ready For Release,Done,0
+FAB-24581,https://immediateco.atlassian.net/browse/FAB-24581,"Mock reply data, or use CSV export data",,,,2019-11-19,2019-11-22,2019-11-29,Sub-Task,Ready For Release,Done,0
+FAB-24580,https://immediateco.atlassian.net/browse/FAB-24580,"Enforce/Make configurable max. reply ""nesting"" level",,,,,2019-11-12,2019-11-29,Sub-Task,Ready For Release,Done,0
+FAB-24579,https://immediateco.atlassian.net/browse/FAB-24579,"Define Reaction relationship - 1:n parent:replies, 1:1 replies:parent",,,,2019-11-21,2019-11-22,2019-11-29,Sub-Task,Ready For Release,Done,0
+FAB-24574,https://immediateco.atlassian.net/browse/FAB-24574,MyHub: Un-save Recipe (Logged In),2019-11-12,2019-11-12,,,,,Story,Ready For Shaping,,0
+FAB-24573,https://immediateco.atlassian.net/browse/FAB-24573,MyHub: Revisit a Recipe and seeing it Saved,2019-11-12,2019-11-12,,,,,Story,Ready For Shaping,,0
+FAB-24571,https://immediateco.atlassian.net/browse/FAB-24571,GF to use new search API (switch) IM-search backend and front end.,2019-11-12,2019-11-12,2019-11-15,2019-11-25,,,Story,In Progress,,0
+FAB-24570,https://immediateco.atlassian.net/browse/FAB-24570,Add Validation Tags to each Document's properties,,,2019-11-12,,,,Sub-Task,Ready For Development,,0
+FAB-24569,https://immediateco.atlassian.net/browse/FAB-24569,Review @Groups annotations,,,2019-11-12,,,,Sub-Task,Ready For Development,,0
+FAB-24568,https://immediateco.atlassian.net/browse/FAB-24568,"Ensure Document properties are mapped to the appropriate type, e.g. integers should not be strings",,,2019-11-12,,,,Sub-Task,Ready For Development,,0
+FAB-24567,https://immediateco.atlassian.net/browse/FAB-24567,Ensure each Document $id is an auto-incrementing integer,,,2019-11-12,,,,Sub-Task,Ready For Development,,0
+FAB-24564,https://immediateco.atlassian.net/browse/FAB-24564,SXS Recipe: We should use the default content input,2019-11-12,2019-11-12,2019-11-12,2019-11-26,2019-11-27,2019-11-28,Technical Debt,Ready For Release,Done,0
+FAB-24562,https://immediateco.atlassian.net/browse/FAB-24562,Choose solution for implementation of Visual Diff testing,2019-11-12,2019-11-12,,,,,Spike,Ready For Shaping,,0
+FAB-24559,https://immediateco.atlassian.net/browse/FAB-24559,Draft Recipe ,2019-11-12,,,,,,Discovery Design Story,Preparation,,0
+FAB-24557,https://immediateco.atlassian.net/browse/FAB-24557,Investigate Failing Postman Tests on Remote Env,2019-11-12,2019-11-12,2019-11-12,2019-11-12,2019-11-13,2019-11-13,Spike,Complete,Done,0
+FAB-24553,https://immediateco.atlassian.net/browse/FAB-24553,MyHub: Save Recipe (Logged out/Unregistered),2019-11-12,2019-11-12,,,,,Story,Ready For Shaping,,0
+FAB-24552,https://immediateco.atlassian.net/browse/FAB-24552,MyHub: Save Recipe (Logged In),2019-11-12,2019-11-12,,,,,Story,Ready For Shaping,,0
+FAB-24550,https://immediateco.atlassian.net/browse/FAB-24550,Support caption on embed images for Content API,2019-11-11,,,,,,Story,Define Task,,0
+FAB-24530,https://immediateco.atlassian.net/browse/FAB-24530,Displaying user avatar in hub & header,2019-11-11,,,,,,Epic,Define Task,,0
+FAB-24528,https://immediateco.atlassian.net/browse/FAB-24528,Performance Optimisation,2019-11-11,,,,,,Epic,Define Task,,0
+FAB-24526,https://immediateco.atlassian.net/browse/FAB-24526,Indexing relevant facet and filter data for SXS recipe post type,2019-11-11,2019-11-11,2019-11-13,2019-11-19,2019-11-22,,Story,In Test,,0
+FAB-24525,https://immediateco.atlassian.net/browse/FAB-24525,My Hub : Ads,2019-11-11,,,,,,Epic,Define Task,,0
+FAB-24524,https://immediateco.atlassian.net/browse/FAB-24524,My Hub : Cards,2019-11-11,2019-11-19,,,,,Epic,Ready For Shaping,,0
+FAB-24523,https://immediateco.atlassian.net/browse/FAB-24523,Reactions/ReadFeed - Run and Review CodeSniffer Inspections,,2019-11-15,2019-11-19,2019-12-06,,2019-12-06,Story,Ready For Release,Done,0
+FAB-24522,https://immediateco.atlassian.net/browse/FAB-24522,Reactions/ReadFeed - Review and Amend Validation Annotations,2019-11-11,2019-11-15,,,,,Story,Ready For Shaping,,0
+FAB-24520,https://immediateco.atlassian.net/browse/FAB-24520,Investigate and resolve why the options aren't appearing for Slate on Develop/Release,,,,2019-11-11,2019-11-13,2019-11-13,Bug (subtask),Ready For Release,Done,0
+FAB-24515,https://immediateco.atlassian.net/browse/FAB-24515,Reusable user auth package,2019-11-14,2019-11-14,2019-11-14,2019-11-18,2019-11-19,2019-11-22,Story,Ready For Release,Done,0
+FAB-24511,https://immediateco.atlassian.net/browse/FAB-24511,Reapply the styles to the renamed components,,,,2019-11-08,,2019-11-11,Sub-Task,Complete,Done,0
+FAB-24506,https://immediateco.atlassian.net/browse/FAB-24506,Reactions/ReadRate - Display Rating Data in Feed on Standalone ,2019-11-08,2019-11-08,2019-11-27,,,,Story,Ready For Development,,0
+FAB-24494,https://immediateco.atlassian.net/browse/FAB-24494,Reactions/ReadRate - Design Star Ratings Ensuring Accessibility,2019-11-08,2019-11-08,2019-11-08,2019-12-09,,,Design Story,In Progress,,0
+FAB-24491,https://immediateco.atlassian.net/browse/FAB-24491,Reactions/ReadFeed - Define Indexes on MongoDB Documents ,2019-11-14,2019-11-14,2019-11-14,2019-11-19,2019-11-19,2019-11-20,Story,Ready For Release,Done,0
+FAB-24489,https://immediateco.atlassian.net/browse/FAB-24489,Reactions - Create App to Export Package to Bucket,2019-11-08,2019-11-08,2019-11-08,2019-11-08,2019-11-15,2019-11-15,Spike,Complete,Done,0
+FAB-24488,https://immediateco.atlassian.net/browse/FAB-24488,Rename 'CommentsList' to 'ReactionsList',,,,2019-11-08,,2019-11-08,Sub-Task,Complete,Done,0
+FAB-24486,https://immediateco.atlassian.net/browse/FAB-24486,Rename 'Reactions' to 'ReactionsFeed',,,,2019-11-08,,2019-11-08,Sub-Task,Complete,Done,0
+FAB-24484,https://immediateco.atlassian.net/browse/FAB-24484,Rename 'Comment' to 'Reaction',,,2019-11-08,2019-11-08,,2019-11-08,Sub-Task,Complete,Done,0
+FAB-24474,https://immediateco.atlassian.net/browse/FAB-24474,Collections API: Authenticated Users Can Only Access Their Own Data,2019-11-07,2019-11-07,2019-11-07,,,,Story,Ready For Development,,0
+FAB-24473,https://immediateco.atlassian.net/browse/FAB-24473,Design vertical cards for Lists,2019-11-07,2019-11-07,2019-11-07,2019-11-19,2019-11-29,2019-11-29,Design Story,Complete,Done,0
+FAB-24472,https://immediateco.atlassian.net/browse/FAB-24472,Postman - Refactor all Collections-API tests to be under a single collection,2019-11-07,2019-11-07,2019-11-07,,,,Dev Task,Ready For Development,,0
+FAB-24469,https://immediateco.atlassian.net/browse/FAB-24469,Reactions/ReadFeed - Provide Replies data via API for Display,2019-11-07,2019-11-07,2019-11-07,2019-11-21,2019-11-25,2019-11-29,Story,Ready For Release,Done,0
+FAB-24467,https://immediateco.atlassian.net/browse/FAB-24467,Collections API: Accessible By Authorised Applications Only,2019-11-07,,,,,,Story,Preparation,,0
+FAB-24465,https://immediateco.atlassian.net/browse/FAB-24465,Extract Content API Authentication into a reusable package,2019-11-07,2019-11-07,2019-11-07,2019-11-18,2019-11-20,2019-11-25,Dev Task,Ready For Release,Done,0
+FAB-24464,https://immediateco.atlassian.net/browse/FAB-24464,Service to Service Auth Available Across Services,,,2019-11-07,2019-11-22,,,Epic,In Progress,,0
+FAB-24463,https://immediateco.atlassian.net/browse/FAB-24463,iPhone- Bottom phone navigation blocks last menuitem,,,,2019-11-07,2019-11-07,2019-11-08,Bug (subtask),Ready For Release,Done,0
+FAB-24462,https://immediateco.atlassian.net/browse/FAB-24462,Fully Map Common Reaction Properties in ReactionBase,,,,2019-11-07,2019-11-12,2019-11-12,Sub-Task,Complete,Done,0
+FAB-24461,https://immediateco.atlassian.net/browse/FAB-24461,Sponsor data syncing.  ,,,,2019-11-07,2019-11-25,,Bug (subtask),Ready For Packaging,,0
+FAB-24460,https://immediateco.atlassian.net/browse/FAB-24460,Gap appears between menuitems and quicklinks,,,,2019-11-07,2019-11-07,2019-11-08,Bug (subtask),Ready For Release,Done,0
+FAB-24455,https://immediateco.atlassian.net/browse/FAB-24455,MyHub: Un-styled sidebar,2019-11-12,2019-11-12,2019-11-12,2019-11-18,2019-11-18,2019-11-19,Story,Ready For Release,Done,0
+FAB-24454,https://immediateco.atlassian.net/browse/FAB-24454,MyHub: Add blank pages for all known routes,2019-11-18,2019-11-18,2019-11-18,2019-11-18,2019-11-18,2019-11-19,Story,Ready For Release,Done,0
+FAB-24449,https://immediateco.atlassian.net/browse/FAB-24449,Change Author/User from EmbeddedDocument to ReferencedDocument,,,,2019-11-06,,2019-11-06,Sub-Task,Complete,Done,0
+FAB-24447,https://immediateco.atlassian.net/browse/FAB-24447,Mobile menu 2nd level is distorted,,,,,2019-11-06,2019-11-08,Bug (subtask),Ready For Release,Done,0
+FAB-24446,https://immediateco.atlassian.net/browse/FAB-24446,Create Base Reaction mapped superclass,,,,2019-11-06,,2019-11-07,Sub-Task,Complete,Done,0
+FAB-24444,https://immediateco.atlassian.net/browse/FAB-24444,Add Show more button information to Lists endpoint,2019-11-07,2019-11-12,2019-11-12,2019-12-03,2019-12-04,2019-12-05,Story,Ready For Release,Done,0
+FAB-24443,https://immediateco.atlassian.net/browse/FAB-24443,Add Schema Choice and Recipe Schema information to Lists endpoint,2019-11-07,2019-11-12,2019-11-12,2019-12-04,2019-12-04,2019-12-05,Story,Ready For Release,Done,0
+FAB-24434,https://immediateco.atlassian.net/browse/FAB-24434,Reactions/Filter - Display Standalone (Placeholder),2019-11-06,,,,,,Story,Define Task,,0
+FAB-24433,https://immediateco.atlassian.net/browse/FAB-24433,Reactions/AddRating - Display,2019-11-06,,,,,,Story,Define Task,,0
+FAB-24431,https://immediateco.atlassian.net/browse/FAB-24431,Reactions/AddReply - Display,2019-11-06,,,,,,Story,Define Task,,0
+FAB-24423,https://immediateco.atlassian.net/browse/FAB-24423,Style the Comment organism,,,,2019-11-06,,2019-11-06,Sub-Task,Complete,Done,0
+FAB-24419,https://immediateco.atlassian.net/browse/FAB-24419,Columns are vertically misaligned,,,,,2019-11-06,2019-11-08,Bug (subtask),Ready For Release,Done,0
+FAB-24418,https://immediateco.atlassian.net/browse/FAB-24418,Large blank space appears in dropdown menu items,,,,,2019-11-06,2019-11-08,Bug (subtask),Ready For Release,Done,0
+FAB-24417,https://immediateco.atlassian.net/browse/FAB-24417,Large screen causes megamenu to misalign,,,,,2019-11-06,2019-11-08,Bug (subtask),Ready For Release,Done,0
+FAB-24399,https://immediateco.atlassian.net/browse/FAB-24399,Reactions/ReadFeed - Remove Postgres service from docker-compose.yml breaks PHP-FPM,2019-11-14,2019-11-14,2019-11-19,2019-12-06,2019-12-06,2019-12-06,Bug,Ready For Release,Done,0
+FAB-24396,https://immediateco.atlassian.net/browse/FAB-24396,Style the buttons,,,2019-11-08,2019-11-11,,2019-11-11,Sub-Task,Complete,Done,0
+FAB-24394,https://immediateco.atlassian.net/browse/FAB-24394,Style the ProfileDetails molecule,,,,2019-11-05,,2019-11-06,Sub-Task,Complete,Done,0
+FAB-24389,https://immediateco.atlassian.net/browse/FAB-24389,Reactions - Read only Ratings Standalone,,2019-11-13,2019-11-13,2019-12-03,,,Epic,In Progress,,0
+FAB-24388,https://immediateco.atlassian.net/browse/FAB-24388,Firefox/Safari - Pressing Tab while on page is never selecting megamenu,,,,2019-11-05,2019-11-05,2019-11-06,Bug (subtask),Closed,Done,0
+FAB-24387,https://immediateco.atlassian.net/browse/FAB-24387,Reactions/NonHeadless - Building Reactions Component in WPC Core (Placeholder),2019-11-05,,,,,2019-12-04,Story,Closed,Done,0
+FAB-24386,https://immediateco.atlassian.net/browse/FAB-24386,Reactions/NonHeadless - Enable Developers to Configure Reactions for Non-headless post types (Placeholder),2019-11-05,,,,,,Story,Define Task,,0
+FAB-24384,https://immediateco.atlassian.net/browse/FAB-24384,Reactions/NonHeadless - Determine positioning on post types (Placeholder),2019-11-05,,,,,,UX Story,Define Task,,0
+FAB-24383,https://immediateco.atlassian.net/browse/FAB-24383,Reactions/NonHeadless - Surface on Non-headless post types,2019-11-15,2019-11-15,,,,2019-12-04,Story,Closed,Done,0
+FAB-24382,https://immediateco.atlassian.net/browse/FAB-24382,Reactions/NonHeadless - Investigate Surfacing ReactJS Component on Non-headless post types,2019-12-03,2019-12-03,2019-12-03,,,2019-12-04,Spike,Closed,Done,0
+FAB-24377,https://immediateco.atlassian.net/browse/FAB-24377,[SPIKE] Research - api-platform.com docs - advanced techniques and overriding behaviour,,,,2019-11-05,,2019-11-11,Sub-Task,Complete,Done,0
+FAB-24372,https://immediateco.atlassian.net/browse/FAB-24372,Other post types should display taxonomies in Tag manager in GF admin,2019-11-04,2019-11-04,2019-11-07,2019-12-02,,,Story,In Progress,,0
+FAB-24371,https://immediateco.atlassian.net/browse/FAB-24371,"[SPIKE] Research - MongoDB (relationships?), feasibility of GraphQL",,,,2019-11-04,,2019-11-06,Sub-Task,Complete,Done,0
+FAB-24369,https://immediateco.atlassian.net/browse/FAB-24369,Write API backend tests (PHPUnit),,,2019-11-04,,,2019-11-12,Sub-Task,Complete,Done,0
+FAB-24368,https://immediateco.atlassian.net/browse/FAB-24368,Source/Create test data for mocking,,,,2019-11-04,,2019-11-12,Sub-Task,Complete,Done,0
+FAB-24367,https://immediateco.atlassian.net/browse/FAB-24367,Reactions/ReadFeed - Investigate Routes/Endpoints and What They Expect/Accept,,2019-11-15,2019-11-19,2019-12-09,,,Spike,In Progress,,0
+FAB-24362,https://immediateco.atlassian.net/browse/FAB-24362,Get up to speed with current state of codebase,,,,2019-11-04,,2019-11-06,Sub-Task,Complete,Done,0
+FAB-24361,https://immediateco.atlassian.net/browse/FAB-24361,Webpack config for [im-gf-static-components] plugin,2019-11-04,2019-11-04,2019-11-04,,,2019-11-06,Story,Closed,Done,0
+FAB-24358,https://immediateco.atlassian.net/browse/FAB-24358,GF/Mig - Test Migration of content going into Article ,2019-11-04,2019-11-04,2019-11-04,2019-11-11,2019-11-11,2019-11-11,Story,Ready For Release,Done,0
+FAB-24353,https://immediateco.atlassian.net/browse/FAB-24353,Content API: Enforce authentication on GET requests,2019-11-04,,,,,,Story,Define Task,,0
+FAB-24351,https://immediateco.atlassian.net/browse/FAB-24351,Logo on header should lead to homepage,2019-11-04,2019-11-04,,,,2019-12-06,Story,Closed,Done,0
+FAB-24348,https://immediateco.atlassian.net/browse/FAB-24348,Edge - Keyboard navigation can not navigate to next menu item,,,,,2019-11-04,2019-11-06,Bug (subtask),Closed,Done,0
+FAB-24347,https://immediateco.atlassian.net/browse/FAB-24347,Other child items are incorrectly appearing when scrolling down,,,,2019-11-04,2019-11-05,2019-11-08,Bug (subtask),Ready For Release,Done,0
+FAB-24346,https://immediateco.atlassian.net/browse/FAB-24346,Custom source repo for CI/CD,2019-11-04,2019-11-04,2019-11-04,2019-11-04,2019-11-06,2019-11-12,Story,Ready For Release,Done,0
+FAB-24329,https://immediateco.atlassian.net/browse/FAB-24329,Create static markup compiler,2019-11-04,2019-11-04,2019-11-04,2019-11-04,2019-11-12,2019-11-14,Story,Ready For Release,Done,0
+FAB-24328,https://immediateco.atlassian.net/browse/FAB-24328,Reactions/ReadFeed - Display Reactions/Replies in Feed on Standalone,2019-11-07,2019-11-07,2019-11-27,2019-12-03,2019-12-06,2019-12-09,Story,Ready For Release,Done,0
+FAB-24326,https://immediateco.atlassian.net/browse/FAB-24326,Create header and footer data provider package,2019-11-04,2019-11-04,2019-11-04,2019-11-06,2019-11-07,2019-11-12,Story,Ready For Release,Done,0
+FAB-24323,https://immediateco.atlassian.net/browse/FAB-24323,Reactions/UserIdentInt -  Create User REST Endpoint,2019-11-01,2019-11-14,,,,,Story,Ready For Shaping,,0
+FAB-24321,https://immediateco.atlassian.net/browse/FAB-24321,Create php plugin to enable static components,2019-11-04,2019-11-04,2019-11-04,2019-11-04,2019-11-07,2019-11-14,Story,Ready For Release,Done,7
+FAB-24320,https://immediateco.atlassian.net/browse/FAB-24320,Reactions/ReadFeed - Provide Reactions data via API for Display,2019-11-01,2019-11-01,2019-11-01,2019-11-06,2019-11-12,2019-11-13,Story,Ready For Release,Done,0
+FAB-24318,https://immediateco.atlassian.net/browse/FAB-24318,Reactions/ReadFeed/Pag - Add and Style 'Show more' Reactions Paginator to Storybook,2019-11-01,2019-11-01,2019-11-05,2019-11-21,2019-11-25,2019-11-26,Story,Ready For Release,Done,0
+FAB-24316,https://immediateco.atlassian.net/browse/FAB-24316,IE11 - Mobile menu does not close when logo is clicked,,,2019-11-01,,,2019-11-04,Bug (subtask),Closed,Done,0
+FAB-24313,https://immediateco.atlassian.net/browse/FAB-24313,Mobile menu incorrect tab index order,,,2019-11-01,,,2019-11-04,Bug (subtask),Closed,Done,0
+FAB-24312,https://immediateco.atlassian.net/browse/FAB-24312,Multiple highlighted menu items,,,2019-11-01,,,2019-11-04,Bug (subtask),Closed,Done,0
+FAB-24310,https://immediateco.atlassian.net/browse/FAB-24310,IE11 - Keyboard navigation can not jump to next menu item,,,,,2019-11-01,2019-11-06,Bug (subtask),Closed,Done,0
+FAB-24309,https://immediateco.atlassian.net/browse/FAB-24309,GF/Mig - Update Taxonomy Hierarchy,2019-11-01,2019-11-01,2019-11-01,2019-11-12,2019-11-15,2019-11-15,Story,Ready For Release,Done,0
+FAB-24308,https://immediateco.atlassian.net/browse/FAB-24308,"JS disabled Keyboard navigation does not work
+",,,2019-11-01,,,2019-11-04,Bug (subtask),Closed,Done,0
+FAB-24306,https://immediateco.atlassian.net/browse/FAB-24306,Slim menu when JS is disabled on IE11,,,2019-11-01,,,2019-11-04,Bug (subtask),Closed,Done,0
+FAB-24305,https://immediateco.atlassian.net/browse/FAB-24305,GF/Mig - Migrate List Schema Options,2019-11-01,2019-11-01,2019-11-01,2019-11-05,2019-11-08,2019-11-11,Story,Ready For Release,Done,0
+FAB-24295,https://immediateco.atlassian.net/browse/FAB-24295,Image and description not showing on preview mode for masthead/ headline led and image led.,2019-10-31,2019-10-31,2019-12-05,,,,Story,Ready For Development,,0
+FAB-24291,https://immediateco.atlassian.net/browse/FAB-24291,Firefox: Truncated text when JS is disabled,,,,,2019-10-31,2019-10-31,Bug (subtask),Closed,Done,0
+FAB-24290,https://immediateco.atlassian.net/browse/FAB-24290,(Storybook) Submenu items with long names are truncated without '...',,,,,2019-10-31,2019-10-31,Bug (subtask),Closed,Done,0
+FAB-24288,https://immediateco.atlassian.net/browse/FAB-24288,Parent menu item isn't highlighted while navigating through child submenu,,,,2019-10-31,2019-10-31,2019-11-05,Bug (subtask),Ready For Release,Done,0
+FAB-24285,https://immediateco.atlassian.net/browse/FAB-24285,Reactions/ReadFeed - Truncate reaction and reply text,2019-10-31,2019-11-01,2019-12-02,2019-12-06,,,Story,In Progress,,0
+FAB-24284,https://immediateco.atlassian.net/browse/FAB-24284,Reactions/ReadFeed - Style Reply in Storybook,2019-10-31,2019-10-31,2019-11-01,2019-11-13,2019-11-14,2019-11-15,Story,Ready For Release,Done,0
+FAB-24282,https://immediateco.atlassian.net/browse/FAB-24282,Overflow when last item of the mega menu expand,,,,2019-11-04,2019-11-05,2019-11-08,Bug (subtask),Ready For Release,Done,0
+FAB-24281,https://immediateco.atlassian.net/browse/FAB-24281,Reactions/ReadFeed - Display Reactions Standalone,2019-10-31,2019-10-31,2019-11-01,2019-11-18,2019-11-21,2019-11-21,Story,Ready For Release,Done,0
+FAB-24279,https://immediateco.atlassian.net/browse/FAB-24279,Reactions/ReadFeed - Style Reaction in Storybook,2019-10-31,2019-10-31,2019-10-31,2019-11-05,2019-11-12,2019-11-13,Story,Ready For Release,Done,0
+FAB-24275,https://immediateco.atlassian.net/browse/FAB-24275,Create 'Social Share' settings Resource,2019-10-31,2019-10-31,2019-11-12,,,,Story,Ready For Development,,0
+FAB-24273,https://immediateco.atlassian.net/browse/FAB-24273,Create 'Site Config' settings Resource,2019-10-31,2019-10-31,2019-11-12,2019-11-18,2019-11-20,2019-11-20,Story,Complete,Done,0
+FAB-24271,https://immediateco.atlassian.net/browse/FAB-24271,Create 'Site General' settings Resource,2019-10-31,2019-10-31,2019-11-12,,,,Story,Ready For Development,,0
+FAB-24262,https://immediateco.atlassian.net/browse/FAB-24262,Recipe Tips overlap content below,,,,2019-10-31,2019-10-31,2019-10-31,Bug (subtask),Ready For Release,Done,0
+FAB-24254,https://immediateco.atlassian.net/browse/FAB-24254,MyHub: Add header and footer,2019-11-12,2019-11-12,2019-11-12,2019-11-18,2019-11-18,2019-11-19,Story,Ready For Release,Done,0
+FAB-24253,https://immediateco.atlassian.net/browse/FAB-24253,MyHub: Basic infrastructure,2019-11-07,2019-11-07,2019-11-07,2019-11-18,2019-11-18,2019-11-19,Story,Ready For Release,Done,0
+FAB-24252,https://immediateco.atlassian.net/browse/FAB-24252,MyHub: Setup initial application,2019-11-07,2019-11-07,2019-11-07,2019-11-18,2019-11-18,2019-11-19,Story,Ready For Release,Done,0
+FAB-24245,https://immediateco.atlassian.net/browse/FAB-24245,mobile nav menu - last green menu items are not reachable,,,,2019-10-30,2019-10-30,2019-10-31,Bug (subtask),Ready For Release,Done,0
+FAB-24244,https://immediateco.atlassian.net/browse/FAB-24244,Hovering mouse over menu items causes background to flicker between grey and white,,,,2019-10-31,2019-10-31,2019-10-31,Bug (subtask),Closed,Done,0
+FAB-24242,https://immediateco.atlassian.net/browse/FAB-24242,Keyboard Navigation - Pressing Esc is not closing menuitem,,,,2019-10-30,2019-10-30,2019-10-31,Bug (subtask),Closed,Done,0
+FAB-24241,https://immediateco.atlassian.net/browse/FAB-24241,Change character limit for truncated menu items on mobile nav,,,,2019-10-30,2019-10-31,2019-10-31,Bug (subtask),Closed,Done,0
+FAB-24239,https://immediateco.atlassian.net/browse/FAB-24239,Non-JS keyboard navigation cannot get main nav to display on desktop,,,2019-10-30,,,2019-10-31,Bug (subtask),Closed,Done,0
+FAB-24232,https://immediateco.atlassian.net/browse/FAB-24232,Static Header and Footer across WP and Headless,2019-11-01,2019-11-01,2019-11-06,2019-11-06,,2019-11-28,Epic,Ready For Release,Done,0
+FAB-24226,https://immediateco.atlassian.net/browse/FAB-24226,Edge / IE11 - Search bar has 2 dismiss icons,,,,2019-10-30,2019-10-30,2019-10-30,Bug (subtask),Ready For Release,Done,0
+FAB-24224,https://immediateco.atlassian.net/browse/FAB-24224,IE11 - Search icon doesn't switch to an X when search bar opens,,,,2019-10-30,2019-10-31,2019-10-31,Bug (subtask),Closed,Done,0
+FAB-24220,https://immediateco.atlassian.net/browse/FAB-24220,Create 'Header' settings Resource,2019-10-30,2019-10-30,2019-11-12,2019-11-20,2019-11-25,2019-11-26,Story,Complete,Done,0
+FAB-24213,https://immediateco.atlassian.net/browse/FAB-24213,Glossary A-Z navigation in AMP,2019-10-30,2019-11-07,2019-11-12,2019-12-02,2019-12-04,2019-12-06,Story,Ready For Release,Done,0
+FAB-24190,https://immediateco.atlassian.net/browse/FAB-24190,Reactions/ReadFeed/Pag - React pagination logic in package,2019-10-29,,,,,2019-11-05,Spike,Closed,Done,0
+FAB-24177,https://immediateco.atlassian.net/browse/FAB-24177,Incorrect border radius on search box,,,,2019-10-25,2019-10-25,2019-10-30,Bug (subtask),Ready For Release,Done,0
+FAB-24174,https://immediateco.atlassian.net/browse/FAB-24174,Placeholder text not aligned vertically,,,,2019-10-25,,2019-10-25,Bug (subtask),Closed,Done,0
+FAB-24166,https://immediateco.atlassian.net/browse/FAB-24166,Postman - Create and document process for company-wide use of Postman Pro,2019-10-25,2019-10-25,2019-11-07,,,,Spike,Ready For Development,,0
+FAB-24165,https://immediateco.atlassian.net/browse/FAB-24165,Postman - Refactor all Content-API tests to populate their own fixtures,2019-10-25,2019-10-25,2019-11-07,2019-12-03,,,Dev Task,In Progress,,0
+FAB-24153,https://immediateco.atlassian.net/browse/FAB-24153,Incentives ??,,,2019-10-24,,,2019-11-21,Sub-Task,Closed,Done,0
+FAB-24133,https://immediateco.atlassian.net/browse/FAB-24133,Postman - Refactor all Content-API tests to be under a single collection,2019-10-25,2019-10-25,2019-11-07,2019-11-18,2019-11-18,2019-11-18,Dev Task,Ready For Release,Done,0
+FAB-24124,https://immediateco.atlassian.net/browse/FAB-24124,Style Glossary navigation,2019-10-23,2019-10-23,2019-11-04,2019-11-05,2019-11-06,2019-11-20,Story,Complete,Done,0
+FAB-24123,https://immediateco.atlassian.net/browse/FAB-24123,Swap free Ninja Tables version for Pro version,2019-10-23,2019-10-23,2019-10-23,2019-10-24,2019-11-07,2019-11-14,Dev Task,Complete,Done,0
+FAB-24103,https://immediateco.atlassian.net/browse/FAB-24103,Make pronunciation a required field,2019-10-23,2019-10-23,2019-11-04,2019-11-07,2019-11-07,2019-11-08,Story,Complete,Done,0
+FAB-24101,https://immediateco.atlassian.net/browse/FAB-24101,"AMP List ""See More"" CTA have the wrong CTA colour",2019-10-23,2019-10-23,2019-10-23,2019-11-08,2019-11-08,2019-11-13,Bug,Complete,Done,0
+FAB-24100,https://immediateco.atlassian.net/browse/FAB-24100,(iOS) Doesn't autofocus to keyboard when search icon is clicked,,,,2019-10-23,2019-10-24,2019-10-25,Bug (subtask),Closed,Done,0
+FAB-24099,https://immediateco.atlassian.net/browse/FAB-24099,Search icon isn't changing back to green when closed,,,,2019-10-23,2019-10-23,2019-10-25,Bug (subtask),Ready For Release,Done,0
+FAB-24098,https://immediateco.atlassian.net/browse/FAB-24098,Set up tachyon and an S3 bucket for UGR user image uploads,2019-11-12,2019-11-12,2019-12-05,2019-12-06,2019-12-06,,Dev Task,In Test,,0
+FAB-24097,https://immediateco.atlassian.net/browse/FAB-24097,Consent forms,,,,2019-11-20,2019-11-20,2019-11-28,Sub-Task,Complete,Done,0
+FAB-24096,https://immediateco.atlassian.net/browse/FAB-24096,Feedback capturing form / mechanism,,,,2019-10-30,2019-11-07,2019-11-19,Sub-Task,Complete,Done,0
+FAB-24095,https://immediateco.atlassian.net/browse/FAB-24095,Script,,,,2019-10-30,2019-11-06,2019-11-19,Sub-Task,Complete,Done,0
+FAB-24094,https://immediateco.atlassian.net/browse/FAB-24094,Post Menu settings from WP to Settings API,2019-10-23,,,,,,Story,Define Task,,0
+FAB-24093,https://immediateco.atlassian.net/browse/FAB-24093,Menu settings in Settings API,2019-10-23,,,,,,Epic,Define Task,,0
+FAB-24092,https://immediateco.atlassian.net/browse/FAB-24092,Update prototype with visuals,,,,2019-10-31,2019-11-20,2019-11-28,Sub-Task,Complete,Done,0
+FAB-24091,https://immediateco.atlassian.net/browse/FAB-24091,BBC Good Food Show : Prototype,,,2019-10-23,2019-10-23,2019-11-21,2019-11-28,Discovery Story,Complete,Done,0
+FAB-24090,https://immediateco.atlassian.net/browse/FAB-24090,Branded clothing / lanyards etc,,,2019-10-23,,,2019-11-21,Sub-Task,Complete,Done,0
+FAB-24088,https://immediateco.atlassian.net/browse/FAB-24088,Upload prototype onto devices ,,,,,2019-10-23,2019-11-28,Sub-Task,Complete,Done,0
+FAB-24084,https://immediateco.atlassian.net/browse/FAB-24084,Contact event organisers (Sophie),,,2019-10-23,,,2019-11-05,Sub-Task,Closed,Done,0
+FAB-24083,https://immediateco.atlassian.net/browse/FAB-24083,Transport & Accommodation(?),,,,,2019-10-23,2019-11-20,Sub-Task,Complete,Done,0
+FAB-24082,https://immediateco.atlassian.net/browse/FAB-24082,Post Social settings from WP to Settings API,2019-10-23,,,,,,Story,Define Task,,0
+FAB-24081,https://immediateco.atlassian.net/browse/FAB-24081,Social settings in Settings API,2019-10-23,,,,,,Epic,Define Task,,0
+FAB-24076,https://immediateco.atlassian.net/browse/FAB-24076,Establish the components of the image handler service for the UGR API,2019-10-23,2019-10-23,2019-10-23,2019-10-23,2019-11-14,2019-11-14,Spike,Complete,Done,0
+FAB-24071,https://immediateco.atlassian.net/browse/FAB-24071,Review Glossary navigation design,2019-10-22,2019-10-22,2019-10-22,2019-10-23,2019-10-23,2019-10-30,Design Story,Complete,Done,0
+FAB-24070,https://immediateco.atlassian.net/browse/FAB-24070,Investigate content API with a view to including Lists,2019-10-22,2019-10-22,2019-10-22,2019-10-24,2019-10-28,2019-10-28,Spike,Complete,Done,0
+FAB-24045,https://immediateco.atlassian.net/browse/FAB-24045,Brightcove videos in content block for recipes frontend,,,,2019-10-25,2019-11-06,2019-11-12,Sub-Task,Ready For Release,Done,0
+FAB-24044,https://immediateco.atlassian.net/browse/FAB-24044,Send embed Brightcove in step-by-step recipe to the Content API,,,,2019-10-21,2019-10-21,2019-11-12,Sub-Task,Ready For Release,Done,0
+FAB-24043,https://immediateco.atlassian.net/browse/FAB-24043,Allow brightcove videos in content blocks for Content API,,,,2019-10-21,2019-10-21,2019-11-12,Sub-Task,Ready For Release,Done,0
+FAB-24033,https://immediateco.atlassian.net/browse/FAB-24033,Add sponsor data to SponsorBuilder in step-by-step,,,,,2019-10-21,,Sub-Task,Ready For Packaging,,0
+FAB-24014,https://immediateco.atlassian.net/browse/FAB-24014,Enable vertical cards for Lists,2019-10-22,2019-10-22,2019-11-07,2019-12-02,2019-12-06,,Story,Ready For Review,,0
+FAB-24009,https://immediateco.atlassian.net/browse/FAB-24009,Reactions/AddReply - Enable via API,2019-10-17,2019-10-17,,,,,Story,Ready For Shaping,,0
+FAB-23991,https://immediateco.atlassian.net/browse/FAB-23991,Document work required for App API - Recipes,2019-11-18,2019-11-18,2019-11-19,,,,Spike,Ready For Development,,0
+FAB-23990,https://immediateco.atlassian.net/browse/FAB-23990,Document work required for App API - Ratings,2019-10-16,,,,,,Spike,Define Task,,0
+FAB-23989,https://immediateco.atlassian.net/browse/FAB-23989,Document work required for App API - Search,2019-10-16,,,,,,Spike,Define Task,,0
+FAB-23988,https://immediateco.atlassian.net/browse/FAB-23988,Document work required for App API - User Collections,2019-10-16,,,,,,Spike,Define Task,,0
+FAB-23979,https://immediateco.atlassian.net/browse/FAB-23979,GF/Mig/UserRec - Build Tooling for UGR Migration,2019-10-21,2019-10-21,2019-11-29,,,,Story,Ready For Development,,0
+FAB-23973,https://immediateco.atlassian.net/browse/FAB-23973,Admin for Recipe Category Page,2019-10-23,,,,,,Discovery Story,Preparation,,0
+FAB-23970,https://immediateco.atlassian.net/browse/FAB-23970,Reactions - Set-up Mongo Database for PRODUCTION,2019-10-16,2019-10-17,2019-11-15,2019-11-21,2019-11-22,,Story,Ready For Review,,0
+FAB-23969,https://immediateco.atlassian.net/browse/FAB-23969,Update author and date placement for List posts,2019-10-16,2019-11-29,,,,,Story,Ready For Shaping,,0
+FAB-23963,https://immediateco.atlassian.net/browse/FAB-23963,test/confirm that the new deployment is up and working,,,,2019-11-19,2019-11-19,2019-11-20,Sub-Task,Ready For Release,Done,0
+FAB-23962,https://immediateco.atlassian.net/browse/FAB-23962,deploy the new image with the TD,,,,,2019-10-16,2019-11-19,Sub-Task,Complete,Done,0
+FAB-23940,https://immediateco.atlassian.net/browse/FAB-23940,Illustrate the user flow for users saving a recipe & creating a collection,,,,2019-10-15,2019-10-15,2019-10-22,Discovery Story,Complete,Done,0
+FAB-23936,https://immediateco.atlassian.net/browse/FAB-23936,BBC Good Food Show : Logistics,,,2019-10-14,2019-10-21,,2019-11-28,Discovery Story,Closed,Done,0
+FAB-23932,https://immediateco.atlassian.net/browse/FAB-23932,Allow only authenticated user to upload images,2019-10-14,,,,,,Story,Preparation,,0
+FAB-23930,https://immediateco.atlassian.net/browse/FAB-23930,Image upload to Tachyon,2019-10-14,,,,,,Story,Preparation,,0
+FAB-23929,https://immediateco.atlassian.net/browse/FAB-23929,Reactions - Set-up Mongo Database for STAGING,2019-10-15,2019-10-15,2019-10-15,2019-10-18,2019-11-15,2019-12-03,Story,Ready For Release,Done,0
+FAB-23922,https://immediateco.atlassian.net/browse/FAB-23922,Prop type errors when running tests on patchwork,2019-10-14,,,,,,Bug,Define Task,,0
+FAB-23894,https://immediateco.atlassian.net/browse/FAB-23894,Slower internet incorrectly causes ad to pop-down for less than a second,,,,2019-10-14,2019-10-14,2019-10-21,Bug (subtask),Closed,Done,0
+FAB-23892,https://immediateco.atlassian.net/browse/FAB-23892,Recipe schema available in headless Recipes,2019-10-11,2019-10-28,2019-10-29,,,,Story,Ready For Development,,0
+FAB-23891,https://immediateco.atlassian.net/browse/FAB-23891,Recipe schema in Content API,2019-10-11,2019-10-29,2019-10-29,,,2019-12-02,Story,Closed,Done,0
+FAB-23890,https://immediateco.atlassian.net/browse/FAB-23890,Add recipe schema to step-by-step recipes,2019-10-11,2019-10-29,2019-10-29,,,2019-11-18,Story,Closed,Done,0
+FAB-23888,https://immediateco.atlassian.net/browse/FAB-23888,Nothing happens when the hamburger icon is clicked,,,,2019-10-14,2019-10-14,2019-10-14,Bug (subtask),Ready For Release,Done,0
+FAB-23886,https://immediateco.atlassian.net/browse/FAB-23886,Hamburger menu doesn't expand fully when clicked,,,,2019-10-14,2019-10-14,2019-10-17,Bug (subtask),Ready For Release,Done,0
+FAB-23885,https://immediateco.atlassian.net/browse/FAB-23885,Scrolling down the page incorrectly reveals the breadcrumb,,,,2019-10-11,2019-10-15,2019-10-17,Bug (subtask),Ready For Release,Done,0
+FAB-23882,https://immediateco.atlassian.net/browse/FAB-23882,(Landscape mode) Hamburger and search icons have too much padding against left and right borders,,,,2019-10-11,,2019-10-11,Bug (subtask),Closed,Done,0
+FAB-23862,https://immediateco.atlassian.net/browse/FAB-23862,Headless FE: Images should conform to site settings for Aspect,2019-10-10,,,,,,Epic,Define Task,,0
+FAB-23858,https://immediateco.atlassian.net/browse/FAB-23858,Users will need Avatars,,2019-11-19,2019-11-19,2019-11-19,,,Epic,In Progress,,0
+FAB-23857,https://immediateco.atlassian.net/browse/FAB-23857,Allow Public Image Uploads,2019-10-10,,,,,,Epic,Define Task,,0
+FAB-23856,https://immediateco.atlassian.net/browse/FAB-23856,DevOps: Set up fresh Tachyon Installation for User Images,2019-10-10,,,,,,Epic,Define Task,,0
+FAB-23855,https://immediateco.atlassian.net/browse/FAB-23855,Add a new menuLocation to a client without sending existing menuLocations,2019-10-10,2019-10-15,2019-11-12,2019-12-02,2019-12-09,,Story,Ready For Review,,0
+FAB-23852,https://immediateco.atlassian.net/browse/FAB-23852,Add Recipe icons to cards for Editorial List,2019-10-28,2019-10-28,,,,2019-10-30,Story,Closed,Done,0
+FAB-23834,https://immediateco.atlassian.net/browse/FAB-23834,Reactions - Feed,,2019-10-10,2019-10-10,2019-10-10,,2019-10-28,Epic,Ready For Release,Done,0
+FAB-23827,https://immediateco.atlassian.net/browse/FAB-23827,Reactions - STAGING Infrastructure and Pipeline,,2019-10-08,2019-10-08,2019-10-08,,2019-12-03,Epic,Ready For Release,Done,0
+FAB-23823,https://immediateco.atlassian.net/browse/FAB-23823,Reactions - Set-up PRODUCTION environment,2019-11-14,2019-11-14,2019-11-15,2019-11-21,2019-11-22,,Story,Ready For Review,,0
+FAB-23809,https://immediateco.atlassian.net/browse/FAB-23809,validate the version and and commit hash in fargate,,,,2019-11-19,2019-11-19,2019-11-20,Sub-Task,Ready For Release,Done,0
+FAB-23802,https://immediateco.atlassian.net/browse/FAB-23802,List posts return a 404 with a fresh vagrant box until setting -> permalinks is saved,2019-10-08,,,,,,Bug,Define Task,,0
+FAB-23792,https://immediateco.atlassian.net/browse/FAB-23792,Reactions/Filter - Styleguide and component library (Desktop/Mobile),2019-10-07,2019-10-07,2019-10-17,,,,Design Story,Ready For Development,,0
+FAB-23791,https://immediateco.atlassian.net/browse/FAB-23791,Reactions/Filter - Design (Desktop/Mobile),2019-10-07,2019-10-07,2019-10-17,,,,Design Story,Ready For Development,,0
+FAB-23788,https://immediateco.atlassian.net/browse/FAB-23788,Reactions - Filter,,2019-10-07,2019-10-10,2019-11-13,,,Epic,In Progress,,0
+FAB-23755,https://immediateco.atlassian.net/browse/FAB-23755,extract commit details and map into template,,,,,2019-10-07,2019-11-19,Sub-Task,Complete,Done,0
+FAB-23752,https://immediateco.atlassian.net/browse/FAB-23752,Create dynamic TD template,,,,,2019-10-07,2019-11-20,Sub-Task,Ready For Release,Done,0
+FAB-23744,https://immediateco.atlassian.net/browse/FAB-23744,Implement developers rules for dev & prod DB:Fixtures and Postman tests,2019-10-14,2019-10-14,2019-10-14,2019-11-08,2019-11-08,2019-11-14,Story,Ready For Release,Done,0
+FAB-23742,https://immediateco.atlassian.net/browse/FAB-23742,Parameterise TF to support cross Account CodePipeline,2019-10-09,2019-10-09,2019-10-09,,,,Story,Ready For Development,,0
+FAB-23732,https://immediateco.atlassian.net/browse/FAB-23732,Reactions - Add Reply,,2019-10-07,2019-10-10,2019-11-13,,,Epic,In Progress,,0
+FAB-23716,https://immediateco.atlassian.net/browse/FAB-23716,Reactions/ReadFeed/Pag - Styleguide and component library (Desktop/Mobile),2019-10-04,2019-10-04,2019-10-04,2019-10-31,2019-10-31,2019-11-01,Design Story,Complete,Done,0
+FAB-23715,https://immediateco.atlassian.net/browse/FAB-23715,Reactions/ReadFeed/Pag - Design (Desktop/Mobile),2019-10-04,2019-10-04,2019-10-04,2019-10-18,2019-10-25,2019-11-01,Design Story,Complete,Done,0
+FAB-23714,https://immediateco.atlassian.net/browse/FAB-23714,Reactions/ReadFeed/Pag - Wireframes + Notes (Desktop),2019-10-04,2019-10-04,2019-10-04,2019-10-17,2019-10-17,2019-10-18,UX Story,Complete,Done,0
+FAB-23713,https://immediateco.atlassian.net/browse/FAB-23713,Reactions/ReadFeed/Pag - Wireframes + Notes (Mobile),2019-10-04,2019-10-04,2019-10-04,2019-10-15,2019-10-17,2019-10-18,UX Story,Complete,Done,0
+FAB-23711,https://immediateco.atlassian.net/browse/FAB-23711,Reactions - Read only Feed Standalone,,,2019-10-04,2019-11-21,,,Epic,In Progress,,0
+FAB-23710,https://immediateco.atlassian.net/browse/FAB-23710,Reactions/Rating - Styleguide and component library (Desktop/Mobile),2019-10-04,2019-10-04,2019-10-04,2019-10-15,2019-10-18,2019-10-18,Design Story,Complete,Done,0
+FAB-23709,https://immediateco.atlassian.net/browse/FAB-23709,Reactions/Rating - Design (Desktop/Mobile),2019-10-04,2019-10-04,2019-10-04,2019-10-07,2019-10-18,2019-10-18,Design Story,Complete,Done,0
+FAB-23708,https://immediateco.atlassian.net/browse/FAB-23708,Reactions/Rating - Wireframes + Notes (Desktop),2019-10-04,2019-10-04,2019-10-04,2019-10-09,2019-10-15,2019-10-18,UX Story,Complete,Done,0
+FAB-23707,https://immediateco.atlassian.net/browse/FAB-23707,Reactions/Rating - Wireframes + Notes (Mobile),2019-10-04,2019-10-04,2019-10-04,2019-10-09,2019-10-10,2019-10-18,UX Story,Complete,Done,0
+FAB-23706,https://immediateco.atlassian.net/browse/FAB-23706,Reactions/Rating - User Flow for Masthead Rating and Feed Rating,2019-10-04,2019-10-04,2019-10-04,2019-10-09,2019-10-09,2019-10-18,UX Story,Complete,Done,0
+FAB-23692,https://immediateco.atlassian.net/browse/FAB-23692,Do recipes need identifying as being in an unpublished state?,2019-10-22,,2019-11-05,2019-11-05,2019-11-06,2019-11-12,Discovery Story,Complete,Done,0
+FAB-23686,https://immediateco.atlassian.net/browse/FAB-23686,Illustrate the user flow for users accessing account settings,,,2019-10-03,2019-10-07,2019-10-14,2019-10-14,Discovery Story,Complete,Done,0
+FAB-23685,https://immediateco.atlassian.net/browse/FAB-23685,Illustrate the user flow for users signing in to My Good Food / Hub,,,2019-10-03,2019-10-07,2019-10-10,2019-10-14,Discovery Story,Complete,Done,0
+FAB-23655,https://immediateco.atlassian.net/browse/FAB-23655,create lazy-loading 'Higher order component',2019-10-02,,,,,2019-10-10,Story,Closed,Done,0
+FAB-23654,https://immediateco.atlassian.net/browse/FAB-23654,Reactions - Add Rating (Masthead and Feed),,2019-10-04,2019-10-08,2019-10-08,,,Epic,In Progress,,0
+FAB-23649,https://immediateco.atlassian.net/browse/FAB-23649,Add description and icons to List cards,2019-10-15,2019-10-15,2019-10-15,2019-10-23,2019-11-08,2019-11-13,Story,Complete,Done,0
+FAB-23643,https://immediateco.atlassian.net/browse/FAB-23643,Create LL logic for recipes frontend,2019-10-02,,,,,,Story,Define Task,,0
+FAB-23642,https://immediateco.atlassian.net/browse/FAB-23642,"Admin : Manage the promoted collections, categories and most popular recipes in the Native app",,,2019-10-02,2019-10-03,2019-10-14,2019-10-16,Discovery Story,Complete,Done,0
+FAB-23639,https://immediateco.atlassian.net/browse/FAB-23639,Define how LL components will work between F/E & B/E,2019-10-02,,,,,,Spike,Define Task,,0
+FAB-23638,https://immediateco.atlassian.net/browse/FAB-23638,Design for skeleton layout while LL components are loading,2019-10-23,,,,,,Discovery Design Story,Preparation,,0
+FAB-23637,https://immediateco.atlassian.net/browse/FAB-23637,Identify lazy-loaded components/Widgets,2019-10-02,,,,,,Spike,Define Task,,0
+FAB-23635,https://immediateco.atlassian.net/browse/FAB-23635,Implement UGR storage,2019-11-12,,,,,,Story,Preparation,,0
+FAB-23634,https://immediateco.atlassian.net/browse/FAB-23634,Install and evaluate Ninja Tables Pro,2019-10-02,2019-10-07,2019-10-07,2019-10-09,2019-10-14,2019-10-14,Spike,Complete,Done,0
+FAB-23627,https://immediateco.atlassian.net/browse/FAB-23627,Establish whether refactoring is needed for Collections API,2019-10-30,2019-10-30,2019-11-12,2019-11-13,2019-11-15,2019-11-15,Spike,Complete,Done,0
+FAB-23618,https://immediateco.atlassian.net/browse/FAB-23618,Full scope handling in Content API using voters,2019-10-01,2019-10-01,2019-10-01,2019-10-15,2019-10-16,2019-10-29,Story,Complete,Done,0
+FAB-23606,https://immediateco.atlassian.net/browse/FAB-23606,Recipe Tip spacing,2019-10-01,2019-10-01,2019-10-01,2019-10-22,2019-10-29,2019-10-31,Bug,Complete,Done,0
+FAB-23605,https://immediateco.atlassian.net/browse/FAB-23605,(Mobile) Page does not prevent scrolling past top-level nav items,,,,,2019-09-30,2019-10-31,Bug (subtask),Closed,Done,0
+FAB-23603,https://immediateco.atlassian.net/browse/FAB-23603,Fixtures for Main Menu & Quick Links,2019-09-30,2019-10-15,2019-11-12,,,,Story,Ready For Development,,0
+FAB-23594,https://immediateco.atlassian.net/browse/FAB-23594,Service Infrastructure Disaster Recovery,2019-09-30,,,,,,Epic,Define Task,,0
+FAB-23572,https://immediateco.atlassian.net/browse/FAB-23572,Sync command fails to retrieve media domain on remote Fabric,2019-09-27,,,,,,Bug,Define Task,,0
+FAB-23571,https://immediateco.atlassian.net/browse/FAB-23571,Sponsor admin taxo to pass through to content API,2019-09-27,2019-09-27,2019-10-16,2019-10-23,2019-11-27,,Story,Ready For Packaging,,0
+FAB-23541,https://immediateco.atlassian.net/browse/FAB-23541,List category search,2019-09-27,2019-10-15,2019-11-07,2019-11-20,2019-12-02,2019-12-02,Discovery Research,Complete,Done,0
+FAB-23513,https://immediateco.atlassian.net/browse/FAB-23513,My Hub : Lazy Loading (LL) widgets/components,2019-10-22,,,,,,Epic,Define Task,,0
+FAB-23511,https://immediateco.atlassian.net/browse/FAB-23511,My Hub : User Authentication / Identity,,2019-11-13,2019-11-19,2019-11-25,,,Epic,In Progress,,0
+FAB-23510,https://immediateco.atlassian.net/browse/FAB-23510,My Hub : Architecture,2019-10-22,2019-10-30,2019-11-12,2019-11-19,,2019-11-19,Epic,Ready For Release,Done,0
+FAB-23507,https://immediateco.atlassian.net/browse/FAB-23507,Investigate how to implement dynamic related content,2019-09-26,2019-09-26,2019-09-26,2019-09-26,,2019-10-03,Spike,Closed,Done,0
+FAB-23458,https://immediateco.atlassian.net/browse/FAB-23458,GF/Mig - Test Migration of Editorial Recipe into RELEASE,2019-09-25,2019-09-25,2019-09-26,2019-11-19,2019-11-29,2019-12-03,Story,Ready For Release,Done,0
+FAB-23432,https://immediateco.atlassian.net/browse/FAB-23432,Reactions/ReadFeed/Pag - Display 'Show More' Reactions Paginator Standalone,2019-10-28,2019-10-31,2019-11-07,,,,Story,Ready For Development,,0
+FAB-23415,https://immediateco.atlassian.net/browse/FAB-23415,Footer widget area for Glossary post,2019-09-24,2019-09-30,2019-09-30,2019-10-21,2019-10-21,2019-10-24,Story,Complete,Done,0
+FAB-23414,https://immediateco.atlassian.net/browse/FAB-23414,Sidebar widget area for Glossary post,2019-09-24,2019-09-30,2019-09-30,2019-10-21,2019-10-21,2019-10-24,Story,Complete,Done,0
+FAB-23409,https://immediateco.atlassian.net/browse/FAB-23409,Fix header when OOPA is active,2019-09-24,,,,,,Bug,Define Task,,0
+FAB-23408,https://immediateco.atlassian.net/browse/FAB-23408,Hide sign-in/register links in eyebrow menu,2019-09-30,2019-09-30,2019-10-01,2019-10-07,2019-10-07,2019-10-08,Story,Complete,Done,0
+FAB-23406,https://immediateco.atlassian.net/browse/FAB-23406,Create header search field on mobile 😃,2019-09-30,2019-09-30,2019-10-01,2019-10-07,2019-10-16,2019-10-25,Story,Complete,Done,0
+FAB-23405,https://immediateco.atlassian.net/browse/FAB-23405,Propose non-JS version of mobile navigation,2019-09-30,2019-09-30,,,,2019-10-03,Story,Closed,Done,0
+FAB-23400,https://immediateco.atlassian.net/browse/FAB-23400,Glossary posts in AMP,2019-09-24,2019-09-30,2019-09-30,2019-10-23,2019-10-28,2019-10-29,Story,Complete,Done,0
+FAB-23373,https://immediateco.atlassian.net/browse/FAB-23373,Update List headers with author and date,2019-09-23,2019-09-23,2019-09-23,2019-09-24,2019-09-24,2019-09-27,Design Story,Complete,Done,0
+FAB-23364,https://immediateco.atlassian.net/browse/FAB-23364,Deploy phase (manual approval production)for CodePipeline,2019-10-14,2019-10-14,2019-10-14,2019-11-04,2019-11-05,2019-11-07,Story,Ready For Release,Done,0
+FAB-23363,https://immediateco.atlassian.net/browse/FAB-23363,Test phase of CodePipeline,2019-10-14,2019-10-14,2019-10-14,2019-11-04,2019-11-13,2019-11-14,Story,Ready For Release,Done,0
+FAB-23360,https://immediateco.atlassian.net/browse/FAB-23360,Create 'Social Network' settings Resource,2019-09-23,2019-09-23,2019-09-23,2019-10-23,2019-10-23,2019-10-25,Story,Complete,Done,0
+FAB-23359,https://immediateco.atlassian.net/browse/FAB-23359,Easy difficulty for a recipe displays as 'Chicken' on production,2019-09-23,2019-09-23,2019-09-23,2019-09-23,2019-09-27,2019-09-27,Bug,Complete,Done,0
+FAB-23353,https://immediateco.atlassian.net/browse/FAB-23353,UX : Iterate 'Add to Collection' component,,,2019-09-23,2019-09-23,2019-09-30,2019-10-03,Discovery Story,Complete,Done,0
+FAB-23351,https://immediateco.atlassian.net/browse/FAB-23351,Spec : Navigation for My Good Food - desktop,2019-09-23,,2019-10-25,2019-11-11,2019-11-11,2019-11-13,Discovery Design Story,Complete,Done,0
+FAB-23350,https://immediateco.atlassian.net/browse/FAB-23350,Spec : Navigation for My Hub Slate - desktop,2019-09-23,,2019-10-25,2019-11-05,2019-11-11,2019-11-13,Discovery Design Story,Complete,Done,0
+FAB-23346,https://immediateco.atlassian.net/browse/FAB-23346,Spec : Navigation for My Good Food - header,,,2019-09-23,2019-10-24,2019-10-31,2019-10-31,Discovery Design Story,Closed,Done,0
+FAB-23345,https://immediateco.atlassian.net/browse/FAB-23345,Spec : Navigation for My Hub Slate - header,,,2019-09-23,2019-10-24,2019-10-31,2019-10-31,Discovery Design Story,Closed,Done,0
+FAB-23343,https://immediateco.atlassian.net/browse/FAB-23343,Design : Navigation for My Hub - desktop,2019-09-23,,2019-10-09,2019-10-09,2019-10-24,2019-10-24,Discovery Design Story,Complete,Done,0
+FAB-23338,https://immediateco.atlassian.net/browse/FAB-23338,Reactions/Rating - Create 'Masthead Rating' ReactJS,2019-09-23,2019-09-23,2019-09-23,2019-09-26,2019-10-11,2019-10-11,Story,Complete,Done,0
+FAB-23325,https://immediateco.atlassian.net/browse/FAB-23325,Add SEO Optimised Site Title and Description,2019-09-21,2019-12-09,,,,,Story,Ready For Shaping,,0
+FAB-23322,https://immediateco.atlassian.net/browse/FAB-23322,GF/Mig - Test Migrations and IFT Framework Enhancements2,,2019-11-21,2019-11-21,2019-11-21,,,Epic,In Progress,,0
+FAB-23313,https://immediateco.atlassian.net/browse/FAB-23313,Recipe Routing,2019-09-20,,,,,,Story,Define Task,,0
+FAB-23312,https://immediateco.atlassian.net/browse/FAB-23312,Out of Process Caching,2019-09-20,,,,,,Story,Define Task,,0
+FAB-23311,https://immediateco.atlassian.net/browse/FAB-23311,Disaster Recovery,2019-09-20,,,,,,Story,Define Task,,0
+FAB-23306,https://immediateco.atlassian.net/browse/FAB-23306,Review the security threat of the production environment & the linkage between development and production,2019-09-20,,,,,,Story,Define Task,,0
+FAB-23289,https://immediateco.atlassian.net/browse/FAB-23289,My Hub : User Navigation,2019-10-22,2019-11-19,2019-11-22,2019-11-26,,,Epic,In Progress,,0
+FAB-23282,https://immediateco.atlassian.net/browse/FAB-23282,Production hardening,2019-09-19,,,,,,Epic,Define Task,,0
+FAB-23278,https://immediateco.atlassian.net/browse/FAB-23278,Cross account CodePipeline,2019-09-23,2019-09-23,2019-09-23,2019-09-26,2019-10-03,2019-10-04,Spike,Complete,Done,0
+FAB-23257,https://immediateco.atlassian.net/browse/FAB-23257,Reactions/ReadFeed/Pag - Create 'Paginator' button,2019-09-19,2019-09-19,2019-09-19,2019-10-28,2019-11-01,2019-11-13,Story,Closed,Done,0
+FAB-23254,https://immediateco.atlassian.net/browse/FAB-23254,Turning on dynamic related content plugin should disable the current related articles meta,2019-09-20,2019-09-25,,,,2019-11-06,Story,Closed,Done,0
+FAB-23253,https://immediateco.atlassian.net/browse/FAB-23253,Dynamic related content widget in admin should display dynamic suggestions,2019-09-25,2019-09-25,2019-11-06,2019-11-21,2019-11-21,2019-11-21,Story,Ready For Release,Done,0
+FAB-23252,https://immediateco.atlassian.net/browse/FAB-23252,Unfilled slots in Dynamic related content should be backfilled,2019-09-25,2019-09-25,2019-10-03,,,,Story,Ready For Development,,0
+FAB-23251,https://immediateco.atlassian.net/browse/FAB-23251,Editors want to overwrite dynamic related content,2019-09-25,2019-09-25,2019-09-25,2019-11-05,2019-11-11,2019-11-13,Story,Ready For Release,Done,0
+FAB-23250,https://immediateco.atlassian.net/browse/FAB-23250,Dynamic related content widget needs to get content that matches the post,2019-09-25,2019-09-25,2019-10-03,2019-12-09,,,Story,In Progress,,0
+FAB-23249,https://immediateco.atlassian.net/browse/FAB-23249,Dynamic related content widget should display on the front end,2019-09-19,2019-09-19,2019-11-25,,,,Story,Ready For Development,,0
+FAB-23248,https://immediateco.atlassian.net/browse/FAB-23248,Be able to configure a search endpoint to use for the dynamic related content widget,2019-09-19,2019-09-19,2019-09-25,2019-10-08,2019-10-17,2019-10-30,Story,Closed,Done,0
+FAB-23247,https://immediateco.atlassian.net/browse/FAB-23247,New Dynamic related articles widget,2019-09-19,2019-09-19,2019-10-03,2019-10-08,2019-10-17,2019-11-11,Story,Ready For Release,Done,0
+FAB-23244,https://immediateco.atlassian.net/browse/FAB-23244,Related articles for headless and WP with dynamic results,,2019-09-19,2019-10-03,2019-10-16,,,Epic,In Progress,,0
+FAB-23242,https://immediateco.atlassian.net/browse/FAB-23242,Update SXS to 404 on WordPress,2019-09-18,2019-09-18,2019-09-18,2019-09-18,2019-09-18,2019-09-18,Technical Debt,Complete,Done,0
+FAB-23238,https://immediateco.atlassian.net/browse/FAB-23238,Update Step by Step Recipe to use IM Asset Registration,2019-09-18,2019-09-18,2019-09-23,2019-09-23,2019-09-23,2019-09-24,Technical Debt,Complete,Done,0
+FAB-23236,https://immediateco.atlassian.net/browse/FAB-23236,Performance Caching for app,2019-09-18,,,,,,Story,Define Task,,0
+FAB-23221,https://immediateco.atlassian.net/browse/FAB-23221,Design : Navigation for My Hub - mobile,,,2019-09-23,2019-09-23,2019-10-24,2019-10-24,Discovery Design Story,Complete,Done,0
+FAB-23182,https://immediateco.atlassian.net/browse/FAB-23182,"Adaptive ""See more"" button length",2019-09-16,2019-10-15,2019-10-15,2019-11-05,2019-11-06,2019-11-06,UX Story,Complete,Done,0
+FAB-23180,https://immediateco.atlassian.net/browse/FAB-23180,"Increase margin on ""See more"" button",2019-09-16,2019-11-08,2019-11-12,2019-11-21,2019-11-21,2019-11-22,Story,Complete,Done,0
+FAB-23175,https://immediateco.atlassian.net/browse/FAB-23175,Remove preview button in admin,2019-09-16,2019-09-16,2019-09-24,,,,Story,Ready For Development,,0
+FAB-23174,https://immediateco.atlassian.net/browse/FAB-23174,"Lists: ""See more"" button",,,2019-09-24,2019-10-16,,2019-12-04,Epic,Complete,Done,0
+FAB-23173,https://immediateco.atlassian.net/browse/FAB-23173,Update Front End to Set No Index Flag on Non-Published Content,2019-09-16,2019-09-16,2019-09-19,,,,Dev Task,Ready For Development,,0
+FAB-23172,https://immediateco.atlassian.net/browse/FAB-23172,List / collection endpoint,,,2019-09-16,2019-11-21,,,Epic,In Progress,,0
+FAB-23171,https://immediateco.atlassian.net/browse/FAB-23171,Update WordPress to Send Non-Published Content,2019-09-16,2019-09-16,2019-09-19,,,,Story,Ready For Development,,0
+FAB-23168,https://immediateco.atlassian.net/browse/FAB-23168,Reactions - Coordinate set-up of build pipeline,2019-09-16,2019-09-16,2019-09-16,2019-11-05,2019-11-12,2019-11-14,Story,Ready For Release,Done,0
+FAB-23157,https://immediateco.atlassian.net/browse/FAB-23157,List item count styling should match design,2019-09-16,2019-09-16,2019-09-16,2019-09-24,2019-09-24,2019-09-27,Story,Complete,Done,0
+FAB-23143,https://immediateco.atlassian.net/browse/FAB-23143,Action Scheduler for launch,2019-09-13,,,,,,Epic,Define Task,,0
+FAB-23142,https://immediateco.atlassian.net/browse/FAB-23142,Search API Service - Integration with Fabric,,,2019-09-13,,,,Epic,Ready For Development,,0
+FAB-23121,https://immediateco.atlassian.net/browse/FAB-23121,Write data-driven tests for Client & Advertisement endpoints,2019-09-12,2019-09-12,2019-09-30,2019-10-21,2019-10-31,2019-11-04,Dev Task,Complete,Done,0
+FAB-23107,https://immediateco.atlassian.net/browse/FAB-23107,List cards are duplicated and a list item is missing,2019-09-12,2019-09-12,2019-09-12,2019-09-12,2019-09-12,2019-09-16,Bug,Complete,Done,0
+FAB-23103,https://immediateco.atlassian.net/browse/FAB-23103,Header (tablet up) - Add sticky behaviour & change content when scrolling down page.,2019-09-12,2019-09-12,2019-09-24,2019-10-15,2019-10-16,2019-10-17,Story,Complete,Done,0
+FAB-23085,https://immediateco.atlassian.net/browse/FAB-23085,Reactions - Set-up build pipeline for STAGING,2019-09-11,2019-09-11,2019-09-16,2019-09-25,2019-11-15,2019-12-03,Story,Ready For Release,Done,0
+FAB-23073,https://immediateco.atlassian.net/browse/FAB-23073,XSS & code injection prevention at API level,2019-09-10,2019-09-10,2019-09-30,,,,Story,Ready For Development,,0
+FAB-23065,https://immediateco.atlassian.net/browse/FAB-23065,Document approach for widget areas,2019-09-10,2019-09-10,2019-09-10,2019-10-01,2019-10-10,2019-10-15,Spike,Complete,Done,0
+FAB-23061,https://immediateco.atlassian.net/browse/FAB-23061,Reactions - Deliver Style Guide/Component Library (Read Only),2019-09-09,2019-09-09,2019-09-09,2019-10-03,2019-10-04,2019-10-04,Design Story,Complete,Done,0
+FAB-23058,https://immediateco.atlassian.net/browse/FAB-23058,Summarise feedback from user testing @ GF Show,,,2019-12-03,2019-12-03,2019-12-06,,Discovery Story,Ready For Review,,0
+FAB-23053,https://immediateco.atlassian.net/browse/FAB-23053,Reactions/Rating - Deliver Feed and Masthead Rating UI (Read Only),2019-09-09,2019-09-09,2019-09-09,2019-09-12,2019-09-20,2019-09-20,Design Story,Closed,Done,0
+FAB-23032,https://immediateco.atlassian.net/browse/FAB-23032,SPEC: Slate Mega Menu,,,2019-09-09,2019-09-10,,2019-09-23,Discovery Design Story,Closed,Done,0
+FAB-23025,https://immediateco.atlassian.net/browse/FAB-23025,RecipesFE & Storybook: Issue with resolving special characters,2019-09-06,,,,,,Bug,Define Task,,0
+FAB-23001,https://immediateco.atlassian.net/browse/FAB-23001,Implement client-side hydration in recipes frontend,2019-09-05,2019-09-05,2019-09-05,2019-09-23,2019-09-23,2019-10-09,Story,Complete,Done,0
+FAB-23000,https://immediateco.atlassian.net/browse/FAB-23000,Determine approach for running React applications on the client,2019-09-05,2019-09-05,2019-09-05,2019-09-09,2019-09-10,2019-09-16,Spike,Complete,Done,0
+FAB-22998,https://immediateco.atlassian.net/browse/FAB-22998,Fix UGR schema tests,2019-09-05,2019-09-05,2019-09-30,2019-12-03,2019-12-03,2019-12-04,Dev Task,Ready For Release,Done,0
+FAB-22997,https://immediateco.atlassian.net/browse/FAB-22997,Refactor Settings schema tests,2019-09-05,2019-09-05,2019-09-30,2019-10-07,2019-10-07,2019-10-08,Dev Task,Complete,Done,0
+FAB-22982,https://immediateco.atlassian.net/browse/FAB-22982,Basic analytics support,2019-09-05,2019-09-05,2019-09-05,2019-09-13,2019-09-13,2019-09-19,Story,Complete,Done,0
+FAB-22978,https://immediateco.atlassian.net/browse/FAB-22978,build and deploy the api using codebuild,2019-09-04,2019-09-04,2019-09-06,2019-09-10,2019-09-18,2019-09-19,Story,Complete,Done,0
+FAB-22977,https://immediateco.atlassian.net/browse/FAB-22977,create github branch from previous tag for production,2019-09-04,2019-09-04,2019-09-06,2019-09-10,2019-09-18,2019-09-19,Story,Complete,Done,0
+FAB-22976,https://immediateco.atlassian.net/browse/FAB-22976,Protect SEO performance,2019-09-05,2019-09-05,2019-09-05,2019-09-18,2019-09-19,2019-09-19,Story,Complete,Done,0
+FAB-22965,https://immediateco.atlassian.net/browse/FAB-22965,Whitelist new IPs,2019-09-04,2019-09-04,2019-09-06,2019-09-10,2019-09-10,2019-09-10,Dev Task,Complete,Done,0
+FAB-22962,https://immediateco.atlassian.net/browse/FAB-22962,Push page data into GTM,2019-09-17,2019-09-17,2019-09-17,2019-09-24,2019-09-30,2019-10-02,Story,Complete,Done,0
+FAB-22957,https://immediateco.atlassian.net/browse/FAB-22957,allocate eips per environment,2019-09-04,2019-09-04,2019-09-06,2019-09-10,2019-09-10,2019-09-10,Story,Complete,Done,0
+FAB-22956,https://immediateco.atlassian.net/browse/FAB-22956,adjust security groups,2019-09-04,2019-09-04,2019-09-06,2019-09-18,2019-09-18,2019-09-19,Story,Complete,Done,0
+FAB-22955,https://immediateco.atlassian.net/browse/FAB-22955,run script for creating the production environment,2019-09-04,2019-09-04,2019-09-06,2019-09-12,2019-09-12,2019-09-12,Story,Complete,Done,0
+FAB-22953,https://immediateco.atlassian.net/browse/FAB-22953,update variables for production,2019-09-04,2019-09-04,2019-09-06,2019-09-17,2019-09-18,2019-09-19,Story,Complete,Done,0
+FAB-22952,https://immediateco.atlassian.net/browse/FAB-22952,mongo db peering for Production environment,2019-09-04,2019-09-04,2019-09-06,2019-09-12,2019-09-17,2019-09-19,Story,Complete,Done,0
+FAB-22951,https://immediateco.atlassian.net/browse/FAB-22951,mongo (ATLAS) db  cluster creation for production environment,2019-09-04,2019-09-04,2019-09-06,2019-09-10,2019-09-12,2019-09-12,Story,Complete,Done,0
+FAB-22950,https://immediateco.atlassian.net/browse/FAB-22950,Create and install a self signed certificates for Production environment,2019-09-04,2019-09-04,2019-09-06,2019-09-18,2019-09-18,2019-09-19,Story,Complete,Done,0
+FAB-22948,https://immediateco.atlassian.net/browse/FAB-22948,Create & deploy Production environment,,2019-09-05,2019-09-09,2019-09-12,,2019-09-19,Epic,Complete,Done,0
+FAB-22939,https://immediateco.atlassian.net/browse/FAB-22939,Investigate Technical Options for the Layout of the Mega Menu,2019-09-03,2019-09-03,2019-09-03,2019-09-13,2019-09-18,2019-09-18,Spike,Complete,Done,0
+FAB-22914,https://immediateco.atlassian.net/browse/FAB-22914,Edge Caching for headless applications,2019-09-02,,,,,,Epic,Define Task,,0
+FAB-22903,https://immediateco.atlassian.net/browse/FAB-22903,Headless SEO for Alpha,,,2019-09-05,2019-09-16,,2019-09-19,Epic,Complete,Done,0
+FAB-22898,https://immediateco.atlassian.net/browse/FAB-22898,Validation on client slug should not be case-sensitive,2019-08-30,2019-09-03,2019-09-03,2019-09-10,2019-09-11,2019-09-16,Story,Complete,Done,0
+FAB-22895,https://immediateco.atlassian.net/browse/FAB-22895,Identify regression scenarios for Glossary (Gherkin),2019-08-30,2019-08-30,2019-08-30,2019-11-05,2019-11-07,2019-11-07,Dev Task,Complete,Done,0
+FAB-22893,https://immediateco.atlassian.net/browse/FAB-22893,Slate Mega Menu,,,2019-08-30,2019-09-02,,2019-09-23,Discovery Design Story,Closed,Done,0
+FAB-22883,https://immediateco.atlassian.net/browse/FAB-22883,Deploy a verified container to remote environment (Codepipeline),,2019-08-29,2019-08-29,2019-09-24,,2019-11-20,Epic,Ready For Release,Done,0
+FAB-22881,https://immediateco.atlassian.net/browse/FAB-22881,Beta: Consolidate and Create Build Template for API Infrastructure,2019-10-24,,,,,,Epic,Define Task,,0
+FAB-22866,https://immediateco.atlassian.net/browse/FAB-22866,"To discuss the options for Dockerfiles, buildspec and base gold images for remote and local",2019-08-28,,,,,,Spike,Define Task,,0
+FAB-22838,https://immediateco.atlassian.net/browse/FAB-22838,Update Recipes Frontend to use new endpoint for Related Content requests,,,2019-08-27,2019-08-27,2019-09-03,2019-09-05,Sub-Task,Ready For Release,Done,0
+FAB-22837,https://immediateco.atlassian.net/browse/FAB-22837,Update Content Api to add list endpoint for multiple resource ids,,,,2019-08-30,2019-08-30,2019-09-05,Sub-Task,Ready For Release,Done,0
+FAB-22835,https://immediateco.atlassian.net/browse/FAB-22835,Update Content Api and Wordpress to save related post references,,,,2019-08-27,2019-08-29,2019-09-05,Sub-Task,Ready For Release,Done,0
+FAB-22811,https://immediateco.atlassian.net/browse/FAB-22811,Glossary: Fabric post,,,2019-09-03,2019-09-27,,2019-11-29,Epic,Complete,Done,0
+FAB-22810,https://immediateco.atlassian.net/browse/FAB-22810,Glossary: seasonal data,,,2019-08-23,2019-12-03,,,Epic,In Progress,,0
+FAB-22807,https://immediateco.atlassian.net/browse/FAB-22807,Phase 1 | Summarise feedback from user testing of My Hub,,,2019-08-23,2019-09-09,2019-09-10,2019-09-19,Discovery Story,Complete,Done,0
+FAB-22802,https://immediateco.atlassian.net/browse/FAB-22802,Determine the base structure for ssm_parameter usage across all Apps,2019-08-22,,,,,,Story,Define Task,,0
+FAB-22801,https://immediateco.atlassian.net/browse/FAB-22801,Provide Environment Variables for API (Postman) Testing,2019-08-27,2019-08-27,2019-08-27,2019-08-29,2019-09-04,2019-09-04,Story,Complete,Done,0
+FAB-22800,https://immediateco.atlassian.net/browse/FAB-22800,Fix the docker compose files,2019-08-27,2019-08-27,2019-08-27,,,,Story,Ready For Development,,0
+FAB-22797,https://immediateco.atlassian.net/browse/FAB-22797,remove secrets & Tokens from Terraform,2019-08-22,,,,,,Story,Define Task,,0
+FAB-22795,https://immediateco.atlassian.net/browse/FAB-22795,Create a defined relationship between Menu and Display locations,2019-08-22,2019-08-22,2019-08-22,2019-08-28,2019-09-04,2019-09-04,Spike,Complete,Done,0
+FAB-22784,https://immediateco.atlassian.net/browse/FAB-22784,Create 'good food editor' user in WP,2019-08-22,2019-08-22,2019-08-22,2019-08-28,2019-08-28,2019-08-29,Story,Complete,Done,0
+FAB-22783,https://immediateco.atlassian.net/browse/FAB-22783,Make sure recipes are only available on VPN,2019-08-22,2019-08-22,2019-08-23,2019-09-09,,2019-09-09,Spike,Closed,Done,0
+FAB-22780,https://immediateco.atlassian.net/browse/FAB-22780,Ensure ads are live for the alpha,2019-08-22,2019-08-22,2019-08-22,2019-09-05,2019-09-05,2019-09-05,Story,Complete,Done,0
+FAB-22776,https://immediateco.atlassian.net/browse/FAB-22776,Create ten recipes,2019-08-22,2019-08-22,2019-08-22,2019-08-28,2019-09-02,2019-09-04,Story,Complete,Done,5
+FAB-22775,https://immediateco.atlassian.net/browse/FAB-22775,Alpha header,2019-08-22,2019-08-22,2019-08-22,2019-08-27,2019-08-28,2019-09-05,Story,Complete,Done,2
+FAB-22774,https://immediateco.atlassian.net/browse/FAB-22774,Hide grey boxes,2019-08-22,2019-08-22,2019-08-22,2019-08-27,2019-08-27,2019-08-29,Story,Complete,Done,0
+FAB-22773,https://immediateco.atlassian.net/browse/FAB-22773,Alpha Prep,,,2019-08-23,2019-08-28,,2019-09-09,Epic,Complete,Done,0
+FAB-22771,https://immediateco.atlassian.net/browse/FAB-22771,Alpha: Build a test verified container (Code Build),,2019-08-23,2019-08-23,2019-08-23,,2019-09-06,Epic,Complete,Done,0
+FAB-22761,https://immediateco.atlassian.net/browse/FAB-22761,Recipe ingredient without a quantity displays as 'undefined',2019-08-21,2019-08-21,2019-08-22,2019-08-22,2019-08-22,2019-08-22,Bug,Complete,Done,0
+FAB-22746,https://immediateco.atlassian.net/browse/FAB-22746,Glossary landing pages,,,2019-08-20,2019-12-09,,,Epic,In Progress,,0
+FAB-22740,https://immediateco.atlassian.net/browse/FAB-22740,How do we build a Preview for headless content ?,2019-08-20,2019-08-20,2019-08-20,2019-09-16,2019-09-16,2019-09-17,Spike,Complete,Done,0
+FAB-22680,https://immediateco.atlassian.net/browse/FAB-22680,Cross Account CodePipeline Orchestration,2019-08-19,2019-08-19,2019-08-19,2019-10-23,2019-10-31,2019-10-31,Story,Complete,Done,0
+FAB-22671,https://immediateco.atlassian.net/browse/FAB-22671,UGR: Image Storage,2019-10-02,,,,,,Epic,Define Task,,0
+FAB-22661,https://immediateco.atlassian.net/browse/FAB-22661,Automatically update Task definitions to support fresh deployments,2019-08-19,2019-08-19,2019-08-19,,,2019-11-15,Story,Closed,Done,0
+FAB-22660,https://immediateco.atlassian.net/browse/FAB-22660,Deploy content-api service image to ECS using the commit hash as the image tag,2019-08-19,2019-08-19,2019-08-19,2019-11-12,2019-11-19,2019-11-20,Story,Ready For Release,Done,0
+FAB-22659,https://immediateco.atlassian.net/browse/FAB-22659,Settings Endpoints: Basic Recipe Front end,,,2019-08-15,2019-08-16,,,Epic,In Progress,,0
+FAB-22657,https://immediateco.atlassian.net/browse/FAB-22657,Support Feature Branch Process ,2019-08-19,2019-08-19,2019-08-19,2019-08-20,2019-08-29,2019-08-30,Story,Complete,Done,0
+FAB-22656,https://immediateco.atlassian.net/browse/FAB-22656,Error handling when posting read-only values,2019-08-15,,,,,,Story,Preparation,,0
+FAB-22653,https://immediateco.atlassian.net/browse/FAB-22653,Build the admin for Whisk shopping component text configuration thingy,2019-08-15,,,,,,Story,Define Task,,0
+FAB-22650,https://immediateco.atlassian.net/browse/FAB-22650,Recipe Add-Ons : Promotional widgets display on StepxStep headless,2019-08-15,2019-11-20,,,,,Epic,Ready For Shaping,,0
+FAB-22649,https://immediateco.atlassian.net/browse/FAB-22649,Recipe : Goes Well With,2019-08-20,2019-08-20,2019-08-20,2019-08-27,2019-08-30,2019-09-12,Story,Complete,Done,0
+FAB-22648,https://immediateco.atlassian.net/browse/FAB-22648,Recipe : Goes Well With,,2019-08-19,2019-08-23,2019-08-28,,2019-09-13,Epic,Complete,Done,0
+FAB-22645,https://immediateco.atlassian.net/browse/FAB-22645,Admin for Whisk shopping component text,2019-08-15,2019-10-23,,,,,UX Story,Ready For Shaping,,0
+FAB-22644,https://immediateco.atlassian.net/browse/FAB-22644,Recipe Add-Ons : Whisk Shopping component,2019-08-15,2019-10-23,,,,,Epic,Ready For Shaping,,0
+FAB-22640,https://immediateco.atlassian.net/browse/FAB-22640,Recipes : Media & refinement,,,2019-09-09,2019-09-30,,2019-10-14,Epic,Complete,Done,0
+FAB-22623,https://immediateco.atlassian.net/browse/FAB-22623,Add in Keywords Taxonomy,2019-08-13,,,,,,Story,Define Task,,0
+FAB-22602,https://immediateco.atlassian.net/browse/FAB-22602,B. introduce a configuration per site for … different boost levels?,2019-08-13,2019-08-21,,,,2019-08-29,Story,Closed,Done,0
+FAB-22601,https://immediateco.atlassian.net/browse/FAB-22601,B. There needs to be postman tests performed with all other post types after modifying the query,2019-08-13,2019-08-21,2019-08-29,,,,Story,Ready For Development,,0
+FAB-22600,https://immediateco.atlassian.net/browse/FAB-22600,B. modify the query in the search api to include new post type fields and boostings.,2019-08-13,2019-08-21,2019-08-29,,,,Story,Ready For Development,,0
+FAB-22595,https://immediateco.atlassian.net/browse/FAB-22595,Adapting search weightings for GF,,2019-08-13,2019-09-18,,,,Epic,Ready For Development,,0
+FAB-22593,https://immediateco.atlassian.net/browse/FAB-22593,Eyebrow Drop Down Menu - Desktop,2019-09-05,2019-11-19,2019-11-26,2019-12-04,2019-12-06,,Story,Ready For Review,,0
+FAB-22592,https://immediateco.atlassian.net/browse/FAB-22592,"Sticky Advert Logic - investigate, document, do",2019-09-05,2019-09-05,2019-09-10,2019-09-27,2019-10-10,2019-10-16,Story,Complete,Done,0
+FAB-22588,https://immediateco.atlassian.net/browse/FAB-22588,Reactions/UserIdentInt - Create Auth/Session Endpoint,2019-08-13,2019-09-26,,,,,Story,Ready For Shaping,,0
+FAB-22576,https://immediateco.atlassian.net/browse/FAB-22576,Reactions - Coordinate Deployment of URS Container to PRODUCTION,2019-11-14,2019-11-14,2019-11-15,,,,Story,Ready For Development,,0
+FAB-22571,https://immediateco.atlassian.net/browse/FAB-22571,Reactions/Rating - Create 'Feed Rating',2019-10-03,2019-10-03,2019-10-03,2019-10-11,2019-10-16,2019-10-17,Story,Complete,Done,0
+FAB-22570,https://immediateco.atlassian.net/browse/FAB-22570,Roll back on failed postman tests,2019-08-13,,,,,,Story,Define Task,,0
+FAB-22555,https://immediateco.atlassian.net/browse/FAB-22555,Reactions - Backend Service,,2019-08-13,2019-08-13,2019-08-13,,2019-11-14,Epic,Complete,Done,0
+FAB-22540,https://immediateco.atlassian.net/browse/FAB-22540,Admin for Header,,,2019-08-12,2019-08-13,2019-08-28,2019-09-02,Discovery Story,Complete,Done,0
+FAB-22537,https://immediateco.atlassian.net/browse/FAB-22537,Ensure we can build any environment from master,2019-08-12,2019-08-12,2019-08-12,2019-08-12,2019-08-16,2019-08-22,Story,Complete,Done,0
+FAB-22536,https://immediateco.atlassian.net/browse/FAB-22536,Cleanup existing WIP environments,2019-08-12,,,,,,Dev Task,Define Task,,0
+FAB-22534,https://immediateco.atlassian.net/browse/FAB-22534,Header Placeholder Component,2019-08-12,2019-08-12,2019-08-13,2019-09-09,2019-09-10,2019-09-12,Dev Task,Complete,Done,0
+FAB-22527,https://immediateco.atlassian.net/browse/FAB-22527,🎉Implement the Mega Menu🎉,2019-09-19,2019-09-19,2019-09-24,2019-10-21,2019-10-24,2019-11-08,Story,Ready For Release,Done,0
+FAB-22526,https://immediateco.atlassian.net/browse/FAB-22526,Header - Eyebrow menu (Desktop),2019-08-12,2019-08-12,2019-08-13,2019-09-09,2019-09-13,2019-09-19,Story,Complete,Done,0
+FAB-22525,https://immediateco.atlassian.net/browse/FAB-22525,Header - Basic Navigation (Top-level nav items),2019-08-12,2019-08-12,2019-08-13,2019-09-18,2019-09-18,2019-10-09,Story,Complete,Done,0
+FAB-22524,https://immediateco.atlassian.net/browse/FAB-22524,Header - Branded section,2019-08-12,2019-08-12,2019-08-13,2019-09-09,2019-09-13,2019-09-19,Story,Complete,Done,0
+FAB-22523,https://immediateco.atlassian.net/browse/FAB-22523,Mobile header bar,2019-08-12,2019-08-12,2019-08-13,2019-10-02,2019-10-10,2019-10-17,Story,Complete,Done,1
+FAB-22519,https://immediateco.atlassian.net/browse/FAB-22519,Define 'Menus' contract,2019-08-09,2019-08-09,2019-08-12,2019-08-13,2019-08-22,2019-08-22,Dev Task,Complete,Done,0
+FAB-22518,https://immediateco.atlassian.net/browse/FAB-22518,UGR Image Storage - What should we use for it?,2019-08-09,2019-08-09,2019-08-12,2019-09-17,2019-09-18,2019-09-18,Spike,Complete,Done,0
+FAB-22504,https://immediateco.atlassian.net/browse/FAB-22504,Gold image build to support node/php caching,2019-08-09,,,,,,Story,Define Task,,0
+FAB-22475,https://immediateco.atlassian.net/browse/FAB-22475,Conversion calculator widget design,2019-08-08,2019-08-08,2019-09-23,2019-09-25,2019-10-01,2019-10-04,Design Story,Complete,Done,0
+FAB-22474,https://immediateco.atlassian.net/browse/FAB-22474,Roast calculator widget UX,2019-08-08,2019-08-08,2019-08-19,2019-08-20,2019-08-27,2019-08-28,UX Story,Complete,Done,0
+FAB-22468,https://immediateco.atlassian.net/browse/FAB-22468,Glossary post should have schema override,2019-08-08,2019-08-08,2019-08-19,2019-10-24,2019-10-29,2019-10-31,Story,Complete,Done,0
+FAB-22466,https://immediateco.atlassian.net/browse/FAB-22466,Glossary post type should display ad slots,2019-08-08,2019-08-08,2019-08-30,2019-11-25,2019-11-27,2019-11-28,Story,Complete,Done,0
+FAB-22462,https://immediateco.atlassian.net/browse/FAB-22462,Return whole recipe data from the Content API directly,2019-08-08,2019-08-08,2019-08-08,2019-08-14,2019-08-21,2019-09-04,Story,Complete,Done,0
+FAB-22453,https://immediateco.atlassian.net/browse/FAB-22453,Fabric: Push any missing sub-resources,2019-08-23,2019-08-23,2019-08-23,2019-09-03,2019-09-03,2019-09-04,Story,Complete,Done,0
+FAB-22451,https://immediateco.atlassian.net/browse/FAB-22451,Update Postman tests in Content API,2019-08-12,2019-08-12,2019-08-12,2019-08-20,2019-08-29,2019-08-29,Dev Task,Complete,Done,0
+FAB-22448,https://immediateco.atlassian.net/browse/FAB-22448,"Elementor, embed and AMP friendly table widget plugin",2019-08-07,2019-08-07,2019-08-27,2019-08-27,2019-09-13,2019-09-13,Spike,Complete,Done,0
+FAB-22442,https://immediateco.atlassian.net/browse/FAB-22442,Admin : Publication Link of Recipes,2019-08-08,2019-08-08,2019-08-08,2019-09-02,2019-09-02,2019-09-04,Story,Complete,Done,0
+FAB-22434,https://immediateco.atlassian.net/browse/FAB-22434,Imperial to metric volumes/weights conversion widget(s),2019-08-07,2019-08-07,2019-08-19,2019-08-20,2019-09-10,2019-09-18,UX Story,Complete,Done,0
+FAB-22430,https://immediateco.atlassian.net/browse/FAB-22430,Admin for Seasonal Calendar table creator,2019-08-07,2019-08-07,,,,2019-09-11,UX Story,Descoped,,0
+FAB-22425,https://immediateco.atlassian.net/browse/FAB-22425,Kill Translation API,2019-08-08,2019-08-08,2019-08-08,2019-08-20,,2019-09-05,Epic,Complete,Done,0
+FAB-22422,https://immediateco.atlassian.net/browse/FAB-22422,Roast calculator widget design,2019-08-07,2019-08-07,2019-10-30,2019-10-30,2019-11-13,2019-11-15,Design Story,Complete,Done,0
+FAB-22417,https://immediateco.atlassian.net/browse/FAB-22417,facilitate running QA tests against multiple environments ,2019-08-07,2019-08-07,2019-08-07,2019-08-07,2019-08-08,2019-08-09,Story,Complete,Done,0
+FAB-22416,https://immediateco.atlassian.net/browse/FAB-22416,Add PHP tests,2019-08-07,2019-08-07,2019-08-07,2019-08-07,2019-08-08,2019-08-09,Story,Complete,Done,0
+FAB-22411,https://immediateco.atlassian.net/browse/FAB-22411,Admin: When creating and immediately deleting a taxonomy term headless-apis fails,2019-08-08,2019-08-08,2019-08-08,2019-09-18,2019-09-18,2019-09-19,Bug,Complete,Done,0
+FAB-22409,https://immediateco.atlassian.net/browse/FAB-22409,Glossary post type should have timely data fields,2019-08-06,2019-10-22,2019-11-04,2019-11-06,2019-11-07,2019-11-08,Story,Complete,Done,0
+FAB-22406,https://immediateco.atlassian.net/browse/FAB-22406,Recipes Admin : define the placement and styling for the publication taxonomy,,,2019-08-06,2019-08-06,2019-08-06,2019-08-07,Discovery Elaboration,Complete,Done,0
+FAB-22370,https://immediateco.atlassian.net/browse/FAB-22370,Investigate how to implement a JS based OAuth2 Client (with Identity),2019-08-02,,,,,,Spike,Define Task,,0
+FAB-22366,https://immediateco.atlassian.net/browse/FAB-22366,Additional Error Handling in Content API ,2019-09-03,2019-09-17,2019-09-17,2019-11-04,2019-11-04,2019-11-05,Story,Ready For Release,Done,0
+FAB-22365,https://immediateco.atlassian.net/browse/FAB-22365,Basic scope handling in Content API using voters,2019-08-29,2019-08-29,2019-08-29,2019-10-01,2019-10-09,2019-10-16,Story,Complete,Done,0
+FAB-22364,https://immediateco.atlassian.net/browse/FAB-22364,Add support for Identity Auth in Content API,2019-08-29,2019-08-29,2019-08-29,2019-09-09,2019-09-13,2019-09-17,Story,Complete,Done,0
+FAB-22363,https://immediateco.atlassian.net/browse/FAB-22363,Introduce Local Auth Abstraction in im-headless-apis,2019-09-03,2019-09-03,2019-09-03,,,2019-09-18,Story,Closed,Done,0
+FAB-22362,https://immediateco.atlassian.net/browse/FAB-22362,Swap out Mocked Auth for Identity Auth in im-headless-apis,2019-08-29,2019-08-29,2019-08-29,2019-09-25,2019-09-30,2019-10-01,Story,Complete,Done,0
+FAB-22338,https://immediateco.atlassian.net/browse/FAB-22338,Recipe-FE: When the value of a nutrition block is 0 the block doesn't show on the recipe,2019-08-08,2019-08-08,2019-08-08,2019-09-17,2019-09-17,2019-09-19,Bug,Complete,Done,0
+FAB-22327,https://immediateco.atlassian.net/browse/FAB-22327,SPEC: Slate footer,,,2019-08-05,2019-08-05,2019-08-05,2019-08-05,Discovery Design Story,Complete,Done,0
+FAB-22310,https://immediateco.atlassian.net/browse/FAB-22310,Create 'Footer_Settings' Resource,2019-08-20,2019-08-20,2019-08-27,2019-08-28,2019-08-30,2019-09-02,Story,Complete,Done,0
+FAB-22304,https://immediateco.atlassian.net/browse/FAB-22304,Create 'Menus' Resource,2019-08-15,2019-08-15,2019-08-19,2019-08-28,2019-09-11,2019-10-18,Story,Complete,Done,0
+FAB-22303,https://immediateco.atlassian.net/browse/FAB-22303,Create 'Advertisement' Resource,2019-08-15,2019-08-15,2019-08-15,2019-08-15,2019-08-29,2019-09-02,Story,Complete,Done,0
+FAB-22300,https://immediateco.atlassian.net/browse/FAB-22300,Navigation & IA of My Hub space,2019-07-30,,2019-08-05,2019-08-19,2019-08-22,2019-08-27,Discovery Story,Complete,Done,0
+FAB-22298,https://immediateco.atlassian.net/browse/FAB-22298,User ID storage and generation for use in member content URLs,2019-07-30,2019-10-17,,,,,Story,Ready For Shaping,,0
+FAB-22297,https://immediateco.atlassian.net/browse/FAB-22297,Member recipe URL generation,2019-07-30,2019-10-17,,,,,Epic,Ready For Shaping,,0
+FAB-22278,https://immediateco.atlassian.net/browse/FAB-22278,Remove need for frequent manual IP whitelisting,2019-08-07,2019-08-07,2019-08-12,2019-08-28,2019-09-02,2019-09-05,Story,Complete,Done,0
+FAB-22272,https://immediateco.atlassian.net/browse/FAB-22272,Admin: Deleting an ingredient term deletes the ingredient text,2019-08-08,2019-08-08,2019-08-08,2019-08-13,2019-08-16,2019-08-21,Bug,Complete,Done,0
+FAB-22263,https://immediateco.atlassian.net/browse/FAB-22263,Footer Placeholder Components,2019-07-30,2019-07-30,2019-07-30,2019-08-05,2019-08-05,2019-08-05,Dev Task,Complete,Done,0
+FAB-22262,https://immediateco.atlassian.net/browse/FAB-22262,Footer Brand Bar,2019-07-30,2019-07-30,2019-08-08,2019-08-21,2019-08-29,2019-09-03,Story,Complete,Done,0
+FAB-22261,https://immediateco.atlassian.net/browse/FAB-22261,Footer Corporate Bar,2019-07-30,2019-07-30,2019-08-08,2019-08-28,2019-09-04,2019-09-11,Story,Complete,Done,0
+FAB-22247,https://immediateco.atlassian.net/browse/FAB-22247,Deploy remote Settings API (as provided by Green),2019-07-29,2019-07-29,2019-07-29,2019-07-30,2019-08-01,2019-08-07,Story,Complete,Done,0
+FAB-22243,https://immediateco.atlassian.net/browse/FAB-22243,Add breadcrumb component to 'Recipe frontend' package,2019-07-29,2019-07-29,2019-07-29,2019-07-29,2019-08-06,2019-08-06,Story,Complete,Done,0
+FAB-22229,https://immediateco.atlassian.net/browse/FAB-22229,Recipe-fe: recipe timing on FE don't behave as the UX requirments,2019-07-25,2019-07-25,2019-07-25,2019-07-29,2019-07-29,2019-07-31,Bug,Complete,Done,0
+FAB-22221,https://immediateco.atlassian.net/browse/FAB-22221,Recipe-fe: Unicode characters are showing in Ingredients and Method,2019-07-25,2019-07-25,2019-07-25,2019-07-29,2019-07-29,2019-07-29,Bug,Complete,Done,0
+FAB-22220,https://immediateco.atlassian.net/browse/FAB-22220,Translation API: When you don't enter an ingredient term the api fatals,2019-07-25,2019-07-25,2019-07-25,2019-07-29,2019-07-29,2019-07-30,Bug,Complete,Done,0
+FAB-22219,https://immediateco.atlassian.net/browse/FAB-22219,Recipe images should be served at an appropriate size for the layout,2019-07-29,2019-07-29,2019-07-30,2019-09-23,2019-10-08,2019-10-14,Story,Complete,Done,0
+FAB-22218,https://immediateco.atlassian.net/browse/FAB-22218,Resized image URLs should not exceed source image dimensions,2019-07-30,2019-07-30,2019-07-30,2019-09-23,2019-09-23,2019-09-24,Story,Complete,Done,0
+FAB-22210,https://immediateco.atlassian.net/browse/FAB-22210,Present summary of analysis on My Hub & Saving/Collecting recipes,,,2019-07-25,2019-07-25,2019-07-26,2019-07-26,Discovery Story,Closed,Done,0
+FAB-22196,https://immediateco.atlassian.net/browse/FAB-22196,Service to Service Auth Integration for Content API,,,2019-09-03,2019-09-16,,2019-11-08,Epic,Ready For Release,Done,0
+FAB-22193,https://immediateco.atlassian.net/browse/FAB-22193,IP whitelist clean-up,2019-07-24,,,,,,Story,Define Task,,0
+FAB-22191,https://immediateco.atlassian.net/browse/FAB-22191, Create an environment for webOps (POC) x 2,2019-09-23,2019-09-23,2019-09-23,2019-09-23,2019-09-26,2019-10-01,Story,Complete,Done,0
+FAB-22190,https://immediateco.atlassian.net/browse/FAB-22190,Template for Access Control Lists (ACLs) for microservices,2019-07-24,,,,,,Story,Define Task,,0
+FAB-22188,https://immediateco.atlassian.net/browse/FAB-22188,inject commit hash into API version healthcheck,2019-09-23,2019-09-23,2019-09-23,2019-10-14,2019-10-17,2019-10-17,Story,Complete,Done,0
+FAB-22186,https://immediateco.atlassian.net/browse/FAB-22186,Docker Skeleton,2019-07-24,,,,,,Story,Define Task,,0
+FAB-22184,https://immediateco.atlassian.net/browse/FAB-22184,Content API : Add monitoring to automated sync,2019-07-24,,,,,,Story,Define Task,,0
+FAB-22182,https://immediateco.atlassian.net/browse/FAB-22182,Minimal logging (not monitoring),2019-07-24,,,,,,Story,Define Task,,0
+FAB-22181,https://immediateco.atlassian.net/browse/FAB-22181,Custom source repo for CI/CD,2019-09-24,2019-09-24,2019-09-24,2019-09-26,,2019-11-15,Spike,Closed,Done,0
+FAB-22180,https://immediateco.atlassian.net/browse/FAB-22180,Static Pipeline in same region,2019-07-25,2019-07-25,2019-07-25,2019-07-30,2019-08-08,2019-08-09,Story,Complete,Done,0
+FAB-22178,https://immediateco.atlassian.net/browse/FAB-22178,Ads: Permutive Recipe Requirements,2019-07-24,2019-09-09,,,,,Story,Ready For Shaping,,0
+FAB-22174,https://immediateco.atlassian.net/browse/FAB-22174,DESIGN: Slate footer,,,2019-07-24,2019-07-24,2019-08-01,2019-08-05,Discovery Design Story,Complete,Done,0
+FAB-22166,https://immediateco.atlassian.net/browse/FAB-22166,Permutive on headless recipe,2019-07-23,2019-09-09,,,,,Epic,Ready For Shaping,,0
+FAB-22144,https://immediateco.atlassian.net/browse/FAB-22144,Ads: IndexExchange,2019-07-23,2019-07-23,2019-07-23,2019-08-12,2019-08-12,2019-08-15,Story,Complete,Done,0
+FAB-22142,https://immediateco.atlassian.net/browse/FAB-22142,Ads: Recipe MPUs,2019-07-23,2019-07-23,2019-07-23,2019-08-12,2019-08-12,2019-08-19,Story,Complete,Done,0
+FAB-22141,https://immediateco.atlassian.net/browse/FAB-22141,Ads: Out of page unit,2019-07-23,2019-07-23,2019-07-23,2019-08-12,2019-08-15,2019-08-19,Story,Complete,Done,0
+FAB-22140,https://immediateco.atlassian.net/browse/FAB-22140,Ads: Header ad unit,2019-07-23,2019-07-23,2019-07-23,2019-08-12,2019-08-14,2019-08-19,Story,Complete,Done,0
+FAB-22139,https://immediateco.atlassian.net/browse/FAB-22139,Ads: Basic DFP Configuration,2019-07-23,2019-07-23,2019-07-23,2019-08-12,2019-08-12,2019-08-15,Story,Complete,Done,0
+FAB-22121,https://immediateco.atlassian.net/browse/FAB-22121,Recipe Add-Ons : Outbrain,,2019-08-06,2019-08-06,2019-09-24,,2019-10-03,Epic,Complete,Done,0
+FAB-22088,https://immediateco.atlassian.net/browse/FAB-22088,Schema for breadcrumb on recipes,2019-07-18,2019-07-18,2019-11-12,,,,Story,Ready For Development,,0
+FAB-22076,https://immediateco.atlassian.net/browse/FAB-22076,Schema tests for UGR storage API endpoints,2019-07-17,2019-07-17,2019-08-15,2019-08-15,2019-08-16,2019-08-21,Story,Complete,Done,0
+FAB-22024,https://immediateco.atlassian.net/browse/FAB-22024,DESIGN: add A-Z to individual glossary items,2019-07-15,2019-07-15,2019-07-15,2019-07-16,2019-07-16,2019-07-19,Design Story,Complete,Done,0
+FAB-22022,https://immediateco.atlassian.net/browse/FAB-22022,Review Infrastructure and Code Pipeline patterns,2019-07-15,2019-07-15,2019-07-15,2019-07-16,2019-07-22,2019-07-30,Spike,Complete,Done,0
+FAB-22011,https://immediateco.atlassian.net/browse/FAB-22011,Static assets aren't loading for Recipes front end,2019-07-15,2019-07-15,2019-07-15,2019-07-17,2019-07-19,2019-07-19,Bug,Complete,Done,0
+FAB-22004,https://immediateco.atlassian.net/browse/FAB-22004,Storybook: GF Tags text is too big,2019-07-12,2019-07-15,2019-07-15,2019-07-17,2019-07-17,2019-07-19,Bug,Complete,Done,0
+FAB-22003,https://immediateco.atlassian.net/browse/FAB-22003,Collections API: Deleting a collection causes a collection item to fatal,2019-07-12,2019-07-15,2019-07-15,2019-07-15,2019-07-15,2019-07-15,Bug,Complete,Done,0
+FAB-21980,https://immediateco.atlassian.net/browse/FAB-21980,Admin: One ingredient overrides all others ,2019-07-12,2019-07-15,2019-07-15,2019-07-15,2019-07-16,2019-07-19,Bug,Complete,Done,1
+FAB-21979,https://immediateco.atlassian.net/browse/FAB-21979,Investigate migration methods for Content API schema changes,2019-07-11,2019-07-11,2019-07-12,2019-08-07,2019-08-13,2019-08-13,Spike,Complete,Done,0
+FAB-21956,https://immediateco.atlassian.net/browse/FAB-21956,Add a way to see content API version from health check endpoint,2019-07-11,2019-07-11,2019-07-15,2019-07-23,2019-07-23,2019-07-24,Dev Task,Complete,Done,0
+FAB-21940,https://immediateco.atlassian.net/browse/FAB-21940,Make Image Shortcodes Behave as Regular Shortcodes on Fabric,2019-07-11,,,,,,Bug,Define Task,,0
+FAB-21939,https://immediateco.atlassian.net/browse/FAB-21939,Embed/Widget : Process image captions in content blocks,2019-07-11,2019-07-11,,,,,Story,Ready For Shaping,,0
+FAB-21928,https://immediateco.atlassian.net/browse/FAB-21928,Glossary A-Z navigation,2019-07-10,2019-08-08,2019-09-11,2019-10-22,2019-10-23,2019-10-30,Story,Complete,Done,0
+FAB-21927,https://immediateco.atlassian.net/browse/FAB-21927,Glossary item frontend,2019-07-10,2019-08-30,2019-08-30,2019-09-11,2019-09-24,2019-09-30,Story,Complete,Done,0
+FAB-21926,https://immediateco.atlassian.net/browse/FAB-21926,Glossary admin,2019-07-10,2019-08-06,2019-08-19,2019-09-10,2019-09-26,2019-09-27,Story,Complete,Done,0
+FAB-21907,https://immediateco.atlassian.net/browse/FAB-21907,Post Advertisement settings from WP to Settings API,2019-07-08,2019-07-08,2019-07-08,,,,Story,Ready For Development,,0
+FAB-21897,https://immediateco.atlassian.net/browse/FAB-21897,Pass remaining post settings through to the Content API,2019-09-17,2019-09-17,2019-09-17,2019-09-24,2019-09-25,2019-10-02,Story,Complete,Done,2
+FAB-21891,https://immediateco.atlassian.net/browse/FAB-21891,Mega Menu,,2019-09-05,2019-09-13,2019-09-13,,2019-11-08,Epic,Ready For Release,Done,0
+FAB-21809,https://immediateco.atlassian.net/browse/FAB-21809,Reactions - Deploy URS Container to STAGING environment,2019-07-03,2019-11-05,2019-11-15,2019-11-19,2019-11-19,2019-11-19,Story,Ready For Release,Done,0
+FAB-21808,https://immediateco.atlassian.net/browse/FAB-21808,Reactions - Set-up STAGING environment,2019-07-03,2019-07-03,2019-07-11,2019-10-01,2019-11-15,2019-12-03,Story,Ready For Release,Done,0
+FAB-21803,https://immediateco.atlassian.net/browse/FAB-21803,Reactions - Build Docker container,2019-07-03,2019-07-03,2019-07-04,2019-09-09,2019-09-10,2019-09-12,Story,Complete,Done,0
+FAB-21793,https://immediateco.atlassian.net/browse/FAB-21793,Expose Recipes by Slug from Translation,2019-07-03,2019-07-03,2019-07-23,2019-07-30,2019-07-31,2019-08-01,Story,Complete,Done,0
+FAB-21757,https://immediateco.atlassian.net/browse/FAB-21757,"Analysis of current flows for saving a recipe to my hub, and adding to a collection",,,2019-07-08,2019-07-08,2019-07-10,2019-07-18,Discovery Story,Complete,Done,0
+FAB-21756,https://immediateco.atlassian.net/browse/FAB-21756,Analysis of current flows within user hub,,,2019-07-08,2019-07-08,2019-07-10,2019-07-18,Discovery Story,Complete,Done,0
+FAB-21755,https://immediateco.atlassian.net/browse/FAB-21755,DESIGN specs: Slate Branded Section (Header),,,2019-07-02,2019-08-27,2019-08-27,2019-08-27,Discovery Design Story,Complete,Done,0
+FAB-21732,https://immediateco.atlassian.net/browse/FAB-21732,DESIGN specs: Static logged out Header (GoodFood),,,2019-07-02,2019-08-27,2019-08-29,2019-08-29,Discovery Design Story,Complete,Done,0
+FAB-21730,https://immediateco.atlassian.net/browse/FAB-21730,DESIGN specs: Slate Static logged out Header,,,2019-07-01,2019-07-03,2019-08-09,2019-08-27,Discovery Design Story,Complete,Done,0
+FAB-21691,https://immediateco.atlassian.net/browse/FAB-21691,"GF/Mig - User Reactions, Data and Avatars",,2019-11-13,2019-11-13,2019-11-13,,,Epic,In Progress,,0
+FAB-21649,https://immediateco.atlassian.net/browse/FAB-21649,Mock endpoints in the recipes frontend,,2019-06-26,,,,2019-07-22,Story,Closed,Done,0
+FAB-21625,https://immediateco.atlassian.net/browse/FAB-21625,Allow manipulated images on recipes frontend,2019-07-03,2019-07-03,2019-07-23,2019-07-31,2019-08-02,2019-08-15,Story,Complete,Done,0
+FAB-21619,https://immediateco.atlassian.net/browse/FAB-21619,Collections API Endpoints security,2019-06-25,,,,,,Story,Define Task,,0
+FAB-21582,https://immediateco.atlassian.net/browse/FAB-21582,Volume / weight conversion widget,2019-06-24,2019-11-21,2019-11-26,,,,Story,Ready For Development,,0
+FAB-21579,https://immediateco.atlassian.net/browse/FAB-21579,PHP cache read/write implementation,2019-06-24,,,,,,Story,Define Task,,0
+FAB-21578,https://immediateco.atlassian.net/browse/FAB-21578,Node cache read/write implementation,2019-06-24,,,,,,Story,Define Task,,0
+FAB-21576,https://immediateco.atlassian.net/browse/FAB-21576,Decide cache tooling and infrastructure,2019-06-27,2019-06-27,2019-09-17,,,,Spike,Ready For Development,,0
+FAB-21575,https://immediateco.atlassian.net/browse/FAB-21575,Decide on initial cache strategy for local environments,2019-06-27,2019-06-27,2019-09-17,,,,Spike,Ready For Development,,0
+FAB-21574,https://immediateco.atlassian.net/browse/FAB-21574,Decide on initial cache strategy for remote environments,2019-06-27,2019-06-27,2019-09-17,,,,Spike,Ready For Development,,0
+FAB-21573,https://immediateco.atlassian.net/browse/FAB-21573,Out of Process Caching,2019-06-24,,,,,,Epic,Define Task,,0
+FAB-21572,https://immediateco.atlassian.net/browse/FAB-21572,Conversion guides,2019-06-24,,2019-12-02,,,,Epic,Ready For Development,,0
+FAB-21569,https://immediateco.atlassian.net/browse/FAB-21569,Roast calculator ,2019-06-24,2019-11-21,2019-11-26,,,,Story,Ready For Development,,0
+FAB-21566,https://immediateco.atlassian.net/browse/FAB-21566,Featured pages widget,,2019-08-06,,,,,Epic,Ready For Shaping,,0
+FAB-21554,https://immediateco.atlassian.net/browse/FAB-21554,Glossary link,2019-09-30,2019-11-21,,,,2019-11-26,Story,Closed,Done,0
+FAB-21538,https://immediateco.atlassian.net/browse/FAB-21538,Code Pipeline | Content API,,2019-06-20,2019-06-26,2019-07-03,,2019-07-30,Epic,Closed,Done,0
+FAB-21529,https://immediateco.atlassian.net/browse/FAB-21529,Create Servings Sub Class for Recipe Parent Class,,2019-06-20,2019-07-23,2019-07-31,2019-07-31,2019-08-16,Dev Task,Complete,Done,0
+FAB-21524,https://immediateco.atlassian.net/browse/FAB-21524,Create fixtures for recipe UGR endpoint,2019-06-24,2019-07-03,2019-07-03,2019-10-15,2019-10-16,2019-10-16,Story,Complete,Done,0
+FAB-21509,https://immediateco.atlassian.net/browse/FAB-21509,Ad slots for editorial lists,2019-06-19,2019-07-01,2019-08-12,2019-08-15,2019-09-10,2019-09-11,Story,Complete,Done,0
+FAB-21508,https://immediateco.atlassian.net/browse/FAB-21508,Masthead Led Editorial List items count,2019-06-19,2019-07-15,2019-07-15,2019-07-22,2019-08-05,2019-08-07,Story,Complete,Done,0
+FAB-21507,https://immediateco.atlassian.net/browse/FAB-21507,Register List Partial Layout,2019-06-19,2019-07-01,2019-07-01,2019-07-08,2019-08-05,2019-08-07,Story,Complete,Done,0
+FAB-21490,https://immediateco.atlassian.net/browse/FAB-21490,List / collection frontend,2019-06-18,2019-06-18,2019-07-24,2019-07-24,,2019-11-29,Epic,Complete,Done,0
+FAB-21474,https://immediateco.atlassian.net/browse/FAB-21474,Add advanced fields to UGR Recipe endpoint,2019-06-19,2019-06-19,2019-06-19,2019-06-19,2019-08-16,2019-08-16,Story,Complete,Done,0
+FAB-21449,https://immediateco.atlassian.net/browse/FAB-21449,Glossary design,2019-06-17,2019-06-17,2019-06-17,2019-06-17,2019-06-26,2019-07-01,Design Story,Complete,Done,0
+FAB-21448,https://immediateco.atlassian.net/browse/FAB-21448,UX Discovery: Glossary admin,,,2019-06-17,2019-06-18,2019-07-14,2019-07-31,Discovery Story,Complete,Done,0
+FAB-21409,https://immediateco.atlassian.net/browse/FAB-21409,Sketches and ideas for My Hub,,,2019-06-24,2019-07-10,2019-07-16,2019-07-18,Discovery Story,Complete,Done,0
+FAB-21408,https://immediateco.atlassian.net/browse/FAB-21408,Competitor Analysis for Favouriting systems/functions,,,2019-06-16,2019-06-18,2019-06-27,2019-07-05,Discovery Story,Complete,Done,0
+FAB-21386,https://immediateco.atlassian.net/browse/FAB-21386,Content API : Maintain Data Integrity,,2019-06-13,2019-06-13,2019-07-17,,2019-07-30,Epic,Complete,Done,0
+FAB-21379,https://immediateco.atlassian.net/browse/FAB-21379,Update GF Taxonomies,2019-06-21,2019-07-01,2019-07-23,2019-08-05,2019-08-13,2019-08-15,Story,Complete,Done,0
+FAB-21349,https://immediateco.atlassian.net/browse/FAB-21349,Document work required for Alexa Translation API,2019-06-11,2019-06-13,2019-06-13,2019-10-11,2019-10-16,2019-10-17,Spike,Complete,Done,0
+FAB-21346,https://immediateco.atlassian.net/browse/FAB-21346,"Content API: For the Publication date taxonomy, duplicated terms are created in the content api on recipe publication ",2019-06-11,,,,,2019-09-18,Bug,Closed,Done,0
+FAB-21344,https://immediateco.atlassian.net/browse/FAB-21344,Make the User Collections API available remotely,2019-06-11,2019-06-11,2019-06-11,2019-11-21,2019-11-21,2019-11-25,Story,Ready For Release,Done,0
+FAB-21325,https://immediateco.atlassian.net/browse/FAB-21325,GF/Mig - Extraction,,2019-06-11,2019-06-11,2019-06-25,,2019-07-18,Epic,Ready For Release,Done,0
+FAB-21312,https://immediateco.atlassian.net/browse/FAB-21312,Collections: Integrate into Translation API,2019-06-11,2019-06-11,2019-06-11,,,2019-07-24,Story,Closed,Done,0
+FAB-21311,https://immediateco.atlassian.net/browse/FAB-21311,Collections: Set up API,2019-06-11,2019-06-11,2019-06-11,2019-06-17,2019-07-02,2019-07-11,Story,Complete,Done,0
+FAB-21280,https://immediateco.atlassian.net/browse/FAB-21280,Caching strategy,2019-06-11,2019-06-11,2019-06-11,2019-06-20,2019-06-24,2019-06-24,Spike,Complete,Done,0
+FAB-21279,https://immediateco.atlassian.net/browse/FAB-21279,Collections: Document data schema and endpoints,2019-06-11,2019-06-11,2019-06-11,2019-06-21,2019-06-25,2019-06-25,Story,Complete,Done,0
+FAB-21262,https://immediateco.atlassian.net/browse/FAB-21262,Improved Identity User Journeys,2019-06-12,,2019-09-06,2019-09-10,,,Epic,In Progress,,0
+FAB-21256,https://immediateco.atlassian.net/browse/FAB-21256,Create an endpoint for recipe domain,2019-06-12,2019-06-12,2019-06-17,2019-06-18,2019-06-20,2019-06-25,Dev Task,Complete,Done,0
+FAB-21255,https://immediateco.atlassian.net/browse/FAB-21255,Create a user endpoint for with basic fields,2019-06-12,2019-06-12,2019-06-17,2019-06-18,,2019-06-18,Dev Task,Closed,Done,0
+FAB-21222,https://immediateco.atlassian.net/browse/FAB-21222,Action Scheduler: Hide automated events by default,2019-06-06,,,,,2019-11-25,Story,Closed,Done,0
+FAB-21221,https://immediateco.atlassian.net/browse/FAB-21221,Action Scheduler: Log Failed Events,2019-06-06,,,,,,Story,Define Task,,0
+FAB-21219,https://immediateco.atlassian.net/browse/FAB-21219,Action Scheduler: Improve Retry Mechanism,2019-09-19,2019-11-26,2019-11-26,2019-11-26,2019-11-26,2019-11-27,Story,Ready For Release,Done,0
+FAB-21199,https://immediateco.atlassian.net/browse/FAB-21199,GF/Mig/EdCol - Transform & Load,,2019-09-09,2019-09-09,2019-09-09,,2019-10-02,Epic,Ready For Release,Done,0
+FAB-21198,https://immediateco.atlassian.net/browse/FAB-21198,GF/Mig - User Recipe Collections Transform & Load,2019-06-06,,,,,,Epic,Define Task,,0
+FAB-21186,https://immediateco.atlassian.net/browse/FAB-21186,Add migration script to Related articles plugin. ,2019-06-11,2019-06-12,2019-08-02,,,2019-11-21,Story,Closed,Done,0
+FAB-21168,https://immediateco.atlassian.net/browse/FAB-21168,Advertisement settings in Settings API,2019-06-05,2019-08-07,,,,,Epic,Ready For Shaping,,0
+FAB-21148,https://immediateco.atlassian.net/browse/FAB-21148,User ratings to display on search cards,2019-06-04,,,,,,Story,Preparation,,0
+FAB-21136,https://immediateco.atlassian.net/browse/FAB-21136,Update manual tests for Related and latest content widgets ,2019-06-03,2019-06-03,2019-06-03,,,,Story,Ready For Development,,0
+FAB-21128,https://immediateco.atlassian.net/browse/FAB-21128,Skinny List View for Search,,2019-06-05,2019-06-05,2019-06-06,,2019-09-02,Epic,Complete,Done,0
+FAB-21077,https://immediateco.atlassian.net/browse/FAB-21077,Sort filter for Good food recipes tab,2019-05-31,,,,,,Story,Preparation,,0
+FAB-21073,https://immediateco.atlassian.net/browse/FAB-21073,My GF | Summarise Feedback from Survey for My Good Food,2019-05-31,,,,,2019-09-09,Discovery Research,Closed,Done,0
+FAB-21072,https://immediateco.atlassian.net/browse/FAB-21072,Components : User Recipe,2019-06-17,2019-11-21,2019-11-26,2019-12-05,,,Story,In Progress,,0
+FAB-21066,https://immediateco.atlassian.net/browse/FAB-21066,Components : Masthead - User,2019-05-31,2019-11-21,2019-11-26,,,,Story,Ready For Development,,0
+FAB-21043,https://immediateco.atlassian.net/browse/FAB-21043,GF/Mig/EdRec - Transform Data using IFT ready for SXS Recipe,,,2019-06-27,2019-08-19,,2019-10-02,Epic,Ready For Release,Done,0
+FAB-21035,https://immediateco.atlassian.net/browse/FAB-21035,GF/Mig/EdRec - Extract Data,,2019-06-03,2019-06-06,2019-06-06,,2019-06-26,Epic,Ready For Release,Done,0
+FAB-21015,https://immediateco.atlassian.net/browse/FAB-21015,Display of User Recipes,,2019-05-29,2019-12-03,,,,Epic,Ready For Development,,0
+FAB-21014,https://immediateco.atlassian.net/browse/FAB-21014,User : Populate with API data,2019-11-21,,,,,,Story,Preparation,,0
+FAB-20999,https://immediateco.atlassian.net/browse/FAB-20999,Embed/Widget : Brightcove Embed,2019-06-05,2019-06-05,2019-06-05,2019-10-21,2019-10-30,2019-11-12,Story,Ready For Release,Done,0
+FAB-20981,https://immediateco.atlassian.net/browse/FAB-20981,Seasonal calendar,,,2019-05-28,2019-10-24,,,Epic,In Progress,,0
+FAB-20980,https://immediateco.atlassian.net/browse/FAB-20980,Seasonal calendar UX,2019-07-01,2019-07-01,2019-07-01,2019-10-31,2019-10-31,2019-10-31,UX Story,Complete,Done,0
+FAB-20948,https://immediateco.atlassian.net/browse/FAB-20948,Reactions - Admin Dashboard,,,,2019-05-24,,,Epic,In Progress,,0
+FAB-20946,https://immediateco.atlassian.net/browse/FAB-20946,Recipe : Basic Ads,,2019-06-12,2019-07-30,2019-08-20,,2019-08-21,Epic,Complete,Done,0
+FAB-20929,https://immediateco.atlassian.net/browse/FAB-20929,Square image div fix on widgets,2019-09-26,2019-09-30,2019-09-30,2019-10-21,2019-10-29,2019-10-30,Story,Complete,Done,0
+FAB-20792,https://immediateco.atlassian.net/browse/FAB-20792,Good food search ,2019-09-18,2019-10-23,2019-11-13,2019-11-26,,,Epic,In Progress,,0
+FAB-20787,https://immediateco.atlassian.net/browse/FAB-20787,Headless recipes in search for GF,2019-05-16,2019-05-16,,,,,Story,Ready For Shaping,,0
+FAB-20772,https://immediateco.atlassian.net/browse/FAB-20772,IA: User/member recipes & collections,,,2019-05-16,,,2019-08-01,Discovery Elaboration,Closed,Done,0
+FAB-20751,https://immediateco.atlassian.net/browse/FAB-20751,Update Contract for Good Food Recipe,2019-05-16,2019-05-16,2019-05-16,2019-06-06,2019-06-20,2019-06-26,Story,Complete,Done,0
+FAB-20750,https://immediateco.atlassian.net/browse/FAB-20750,Spike:Adapt search weighting for Recipes,2019-05-14,2019-07-18,2019-07-18,2019-08-01,2019-08-05,2019-08-05,Spike,Complete,Done,0
+FAB-20745,https://immediateco.atlassian.net/browse/FAB-20745,"User Collections : Agree expected contract, functionality & infrastructure requirements",2019-05-16,2019-05-16,2019-05-16,2019-06-10,2019-06-11,2019-06-11,Spike,Complete,Done,0
+FAB-20716,https://immediateco.atlassian.net/browse/FAB-20716,Create a theme provider package,2019-06-27,2019-06-27,2019-06-27,2019-07-15,2019-07-31,2019-08-01,Story,Complete,Done,0
+FAB-20669,https://immediateco.atlassian.net/browse/FAB-20669,Blacklisted tags should not show up on search ,2019-05-10,2019-05-10,2019-05-29,,,,Story,Ready For Development,,0
+FAB-20668,https://immediateco.atlassian.net/browse/FAB-20668,Good food synonym config file to be uploaded,2019-05-09,2019-05-09,2019-05-29,2019-06-05,2019-06-20,2019-06-20,Story,Complete,Done,0
+FAB-20641,https://immediateco.atlassian.net/browse/FAB-20641,Good food Search tabs to be configured,2019-05-08,2019-10-11,2019-11-15,2019-11-25,2019-11-25,,Story,Reviewed,,0
+FAB-20611,https://immediateco.atlassian.net/browse/FAB-20611,Recipe : Embeds & Widgets,,2019-06-12,2019-07-03,2019-07-03,,2019-08-15,Epic,Complete,Done,0
+FAB-20551,https://immediateco.atlassian.net/browse/FAB-20551,Embed/Widget : Process Highlight/Tip embeds in content blocks,2019-06-05,2019-06-05,2019-06-05,2019-07-30,2019-08-07,2019-08-15,Story,Complete,Done,0
+FAB-20550,https://immediateco.atlassian.net/browse/FAB-20550,Embed/Widget : Process Image short codes in content blocks,2019-06-05,2019-06-05,2019-06-05,2019-07-03,2019-07-15,2019-07-25,Story,Complete,Done,0
+FAB-20549,https://immediateco.atlassian.net/browse/FAB-20549,Recipe Add-Ons : Onward Journeys,,2019-05-01,,,,2019-10-31,Epic,Closed,Done,0
+FAB-20548,https://immediateco.atlassian.net/browse/FAB-20548,Components : Editorial Recipe,2019-05-31,2019-06-17,2019-06-17,2019-07-01,2019-07-10,2019-07-17,Story,Complete,Done,0
+FAB-20547,https://immediateco.atlassian.net/browse/FAB-20547,Components : Masthead,2019-05-31,2019-06-17,2019-06-17,2019-07-01,2019-07-01,2019-07-15,Story,Complete,Done,0
+FAB-20546,https://immediateco.atlassian.net/browse/FAB-20546,Components : Social share component,2019-05-09,2019-05-09,2019-06-05,2019-06-17,2019-06-19,2019-06-24,Story,Complete,Done,0
+FAB-20545,https://immediateco.atlassian.net/browse/FAB-20545,Components : Editor content,2019-05-09,2019-05-09,2019-05-09,2019-05-24,2019-05-31,2019-06-07,Story,Complete,Done,1
+FAB-20544,https://immediateco.atlassian.net/browse/FAB-20544,Components : Breadcrumb,2019-05-31,2019-05-31,2019-06-11,2019-07-16,2019-07-18,2019-07-24,Story,Complete,Done,0
+FAB-20543,https://immediateco.atlassian.net/browse/FAB-20543,Components : Grouped list,2019-05-09,2019-05-09,2019-05-09,2019-05-21,2019-05-30,2019-05-31,Story,Complete,Done,0
+FAB-20542,https://immediateco.atlassian.net/browse/FAB-20542,Components : Horizontal list ,2019-05-07,2019-05-07,2019-05-07,2019-05-07,2019-05-07,2019-05-08,Story,Complete,Done,0
+FAB-20541,https://immediateco.atlassian.net/browse/FAB-20541,Components : Highlight top tip,2019-05-14,2019-05-14,2019-05-14,2019-05-28,2019-05-30,2019-06-05,Story,Complete,Done,0
+FAB-20539,https://immediateco.atlassian.net/browse/FAB-20539,Components : Ratings,2019-05-31,2019-06-17,2019-06-17,2019-06-17,2019-06-24,2019-06-26,Story,Complete,Done,0
+FAB-20538,https://immediateco.atlassian.net/browse/FAB-20538,Components : whisk Shopping tools component,2019-05-09,2019-05-09,,,,,Story,Ready For Shaping,,0
+FAB-20537,https://immediateco.atlassian.net/browse/FAB-20537,Components : Roundel,2019-05-31,2019-05-31,,,,2019-06-17,Story,Closed,Done,0
+FAB-20536,https://immediateco.atlassian.net/browse/FAB-20536,Components : Tag,2019-05-07,2019-05-07,2019-05-07,2019-05-09,2019-05-14,2019-05-17,Story,Complete,Done,0
+FAB-20535,https://immediateco.atlassian.net/browse/FAB-20535,Components : Button,2019-05-31,2019-05-31,2019-06-11,2019-06-17,2019-06-17,2019-06-24,Story,Complete,Done,0
+FAB-20534,https://immediateco.atlassian.net/browse/FAB-20534,Components : Advert component,2019-05-31,2019-06-05,2019-06-05,2019-07-19,2019-07-19,2019-07-25,Story,Complete,Done,0
+FAB-20483,https://immediateco.atlassian.net/browse/FAB-20483,Migrating from old related content widget,2019-04-29,2019-04-29,2019-04-29,,,,Story,Ready For Development,,0
+FAB-20413,https://immediateco.atlassian.net/browse/FAB-20413,Simplified codepipeline for api services,2019-04-25,2019-06-13,2019-06-13,,,2019-06-26,Story,Closed,Done,0
+FAB-20368,https://immediateco.atlassian.net/browse/FAB-20368,Content-api: you cannot delete values of non-mandatory fields for the Author and Recipe objects,2019-05-17,2019-05-17,2019-05-20,2019-05-28,2019-05-29,2019-05-30,Bug (subtask),Complete,Done,0
+FAB-20346,https://immediateco.atlassian.net/browse/FAB-20346,DESIGN: Good food Mega Menu,2019-04-23,,,,,2019-09-09,Discovery Design Story,Closed,Done,0
+FAB-20327,https://immediateco.atlassian.net/browse/FAB-20327,Create Survey for My Good Food,2019-04-18,,2019-04-18,2019-04-23,2019-04-25,2019-05-02,Discovery Research,Closed,Done,0
+FAB-20267,https://immediateco.atlassian.net/browse/FAB-20267,FE Headless Cards,,2019-11-04,2019-11-04,2019-11-04,,2019-11-04,Epic,Closed,Done,0
+FAB-20258,https://immediateco.atlassian.net/browse/FAB-20258,Components : Swap GF icons,2019-04-16,2019-04-16,2019-04-16,2019-06-07,2019-06-07,2019-06-11,Story,Complete,Done,0
+FAB-20242,https://immediateco.atlassian.net/browse/FAB-20242,Remove unused code for landscape and portrait thumbnail fields,2019-04-16,2019-04-16,2019-04-16,,,2019-09-25,Technical Debt,Closed,Done,0
+FAB-20233,https://immediateco.atlassian.net/browse/FAB-20233,Can't Crop Square Thumbnail (Image Handler Off),2019-04-15,2019-04-15,,,,2019-09-25,Bug,Closed,Done,0
+FAB-20215,https://immediateco.atlassian.net/browse/FAB-20215,Components : Setup AWS Pipeline to Post CI reports as PR comments,2019-04-14,2019-04-14,2019-07-22,2019-07-22,2019-07-22,2019-07-22,Story,Complete,Done,0
+FAB-20198,https://immediateco.atlassian.net/browse/FAB-20198,SPIKE: Pattern for exposing widgets via APIs,2019-04-12,,,,,,Spike,Define Task,,0
+FAB-20184,https://immediateco.atlassian.net/browse/FAB-20184,"Recipes : define layouts for editorial, user, native and sponsored recipes ",,,2019-08-01,2019-08-05,2019-08-12,2019-08-22,Discovery Story,Complete,Done,0
+FAB-20135,https://immediateco.atlassian.net/browse/FAB-20135,Expose content by site & slug | ID,2019-04-11,2019-04-11,2019-04-30,2019-05-16,2019-05-16,2019-05-24,Story,Complete,Done,0
+FAB-20110,https://immediateco.atlassian.net/browse/FAB-20110,Fabric : Figure out what Wordpress does for us,2019-04-11,2019-04-11,2019-04-11,,,2019-08-20,Spike,Closed,Done,0
+FAB-20108,https://immediateco.atlassian.net/browse/FAB-20108,Discovery & Scope: MyGoodFood,2019-04-18,,2019-06-03,,,2019-06-14,Discovery Story,Closed,Done,0
+FAB-20007,https://immediateco.atlassian.net/browse/FAB-20007,Apps & Skills | Build legacy API,2019-04-04,,2019-11-22,,,,Epic,Ready For Development,,0
+FAB-20003,https://immediateco.atlassian.net/browse/FAB-20003,Components : Highlight top tip - Fabric,2019-05-31,2019-06-28,2019-07-04,2019-07-04,2019-07-04,2019-07-04,Story,Complete,Done,0
+FAB-19913,https://immediateco.atlassian.net/browse/FAB-19913,A/B TEST - Which wording for the save button garners more clicks,,,2019-04-18,2019-05-02,2019-05-29,2019-11-12,Discovery Experiment,Complete,Done,0
+FAB-19910,https://immediateco.atlassian.net/browse/FAB-19910,DESIGN: Good Food footer,2019-07-15,,2019-07-15,2019-08-05,2019-08-07,2019-08-09,Discovery Design Story,Complete,Done,0
+FAB-19887,https://immediateco.atlassian.net/browse/FAB-19887,Recipe : Components,,2019-05-01,2019-05-17,2019-05-17,,2019-08-07,Epic,Complete,Done,0
+FAB-19832,https://immediateco.atlassian.net/browse/FAB-19832,Components : Nutrition,2019-03-29,2019-04-04,2019-04-04,2019-04-15,2019-04-16,2019-04-25,Story,Complete,Done,0
+FAB-19765,https://immediateco.atlassian.net/browse/FAB-19765,Unsecured Draft Preview for Headless Recipes,2019-03-21,,,,,,Epic,Define Task,,0
+FAB-19745,https://immediateco.atlassian.net/browse/FAB-19745,Components : Grid Layout,2019-03-22,2019-03-22,2019-03-25,2019-04-29,2019-04-29,2019-05-02,Story,Complete,Done,0
+FAB-19731,https://immediateco.atlassian.net/browse/FAB-19731,Recipe : Editorial Recipes with Real Data,,,2019-04-08,2019-07-05,,2019-08-21,Epic,Complete,Done,0
+FAB-19675,https://immediateco.atlassian.net/browse/FAB-19675,Print my Recipe,,,2019-03-18,2019-12-06,,,Epic,In Progress,,0
+FAB-19673,https://immediateco.atlassian.net/browse/FAB-19673,301 Redirects for Slug changes,2019-03-18,,,,,,Story,Define Task,,0
+FAB-19658,https://immediateco.atlassian.net/browse/FAB-19658,Update Recipe : Editing a Published Recipe,2019-03-18,2019-05-17,2019-05-17,2019-06-04,,2019-06-27,Epic,Complete,Done,0
+FAB-19624,https://immediateco.atlassian.net/browse/FAB-19624,Investigate impact of API failure on data update,2019-03-14,2019-05-15,2019-05-15,2019-05-29,2019-05-30,2019-05-30,Spike,Complete,Done,0
+FAB-19622,https://immediateco.atlassian.net/browse/FAB-19622,Content API : Automated sync of data,2019-03-14,2019-04-30,2019-04-30,2019-07-19,2019-07-22,2019-07-25,Story,Complete,Done,0
+FAB-19621,https://immediateco.atlassian.net/browse/FAB-19621,Content API : Repeatable manual sync of existing data,2019-03-14,2019-04-30,2019-04-30,2019-07-16,2019-07-19,2019-07-24,Story,Complete,Done,0
+FAB-19615,https://immediateco.atlassian.net/browse/FAB-19615,Update data in content API,2019-03-14,2019-04-11,2019-04-30,2019-05-20,2019-05-29,2019-06-07,Story,Complete,Done,0
+FAB-19546,https://immediateco.atlassian.net/browse/FAB-19546,DESIGN: Standardise iconography across Fabric/GoodFood Designs,2019-05-07,,,,,,Discovery Design Story,Preparation,,0
+FAB-19447,https://immediateco.atlassian.net/browse/FAB-19447,DESIGN: Recipe sponsors & member recipes,,,2019-04-08,2019-04-15,2019-05-02,2019-07-05,Discovery Design Story,Complete,Done,0
+FAB-19432,https://immediateco.atlassian.net/browse/FAB-19432,Ads : Use new targeting package to generate DFP and Permutive targeting data in wcp-core (Risky),2019-03-06,,,,,2019-07-23,Story,Closed,Done,0
+FAB-19431,https://immediateco.atlassian.net/browse/FAB-19431,Ads : Pull targeting logic out of wcp-core and into a separate package (No risk),2019-03-06,,,,,2019-07-23,Story,Closed,Done,0
+FAB-19334,https://immediateco.atlassian.net/browse/FAB-19334,Glossary navigation,,2019-04-09,2019-08-14,2019-08-14,,,Epic,In Progress,,0
+FAB-19311,https://immediateco.atlassian.net/browse/FAB-19311,Ads : Style as per im-fabric (No risk),2019-03-04,,,,,2019-07-23,Story,Closed,Done,0
+FAB-19276,https://immediateco.atlassian.net/browse/FAB-19276,New Squarish IM Thumbnail meta field,,2019-09-25,2019-09-26,2019-09-26,,2019-11-06,Epic,Complete,Done,0
+FAB-19275,https://immediateco.atlassian.net/browse/FAB-19275,Migrate landscape and portrait thumbnails to new IM Thumbnail meta field ,2019-03-01,2019-03-01,2019-03-01,2019-04-12,2019-04-24,2019-05-14,Story,Complete,Done,0
+FAB-19261,https://immediateco.atlassian.net/browse/FAB-19261,Ads : DFP targeting settings to the recipes frontend,2019-02-28,2019-02-28,,,,2019-03-01,Story,Closed,Done,0
+FAB-19237,https://immediateco.atlassian.net/browse/FAB-19237,Ads : Add Lazy Loading for Ads to the Recipes Frontend,2019-04-03,2019-04-03,2019-04-08,2019-04-12,2019-04-12,2019-04-15,Story,Complete,Done,0
+FAB-19220,https://immediateco.atlassian.net/browse/FAB-19220,DESIGN: Good food header,2019-03-06,,2019-04-23,2019-05-10,2019-05-16,2019-06-27,Discovery Design Story,Closed,Done,0
+FAB-19032,https://immediateco.atlassian.net/browse/FAB-19032,UX Admin: Advertising - Magazine banner ,2019-03-06,,2019-07-15,2019-07-29,2019-08-01,2019-08-16,Discovery Elaboration,Complete,Done,0
+FAB-19010,https://immediateco.atlassian.net/browse/FAB-19010,"UX ADMIN: Recipe key features - Diet, planning & Nutrition",,,2019-03-06,2019-03-12,2019-07-16,2019-07-17,Discovery Elaboration,Complete,Done,0
+FAB-18987,https://immediateco.atlassian.net/browse/FAB-18987,Option to have square aspect ratio thumbnails,2019-02-20,2019-02-20,2019-03-01,2019-03-11,2019-04-12,2019-04-15,Story,Complete,Done,0
+FAB-18985,https://immediateco.atlassian.net/browse/FAB-18985,Handling of redirects when a slug changes,2019-02-27,,,,,,Spike,Define Task,,0
+FAB-18822,https://immediateco.atlassian.net/browse/FAB-18822,"My Hub : Create, edit and delete my Collections",2019-02-11,,,,,,Epic,Define Task,,0
+FAB-18819,https://immediateco.atlassian.net/browse/FAB-18819,BE MyGF 01 | User Collections API,2019-06-12,2019-06-12,2019-10-09,2019-10-09,,2019-10-09,Epic,Complete,Done,0
+FAB-18818,https://immediateco.atlassian.net/browse/FAB-18818,Recipe : Save to a Collection in my Hub,2019-02-11,,,,,,Epic,Define Task,,0
+FAB-18817,https://immediateco.atlassian.net/browse/FAB-18817,Recipe : Save a Recipe to My Hub,2019-02-11,2019-11-19,,,,,Epic,Ready For Shaping,,0
+FAB-18728,https://immediateco.atlassian.net/browse/FAB-18728,UGR Service Infrastructure,2019-11-21,,,,,,Epic,Define Task,,0
+FAB-18726,https://immediateco.atlassian.net/browse/FAB-18726,Recipe Add-Ons : SEO,2019-02-07,2019-10-02,,,,,Epic,Ready For Shaping,,0
+FAB-18725,https://immediateco.atlassian.net/browse/FAB-18725,UGR Service (API + Database),,,2019-02-07,2019-08-14,,,Epic,In Progress,,0
+FAB-18652,https://immediateco.atlassian.net/browse/FAB-18652,Ads : Enable index exchange support,2019-02-04,2019-04-03,2019-04-04,2019-04-11,2019-04-12,2019-04-15,Story,Complete,Done,0
+FAB-18651,https://immediateco.atlassian.net/browse/FAB-18651,Ads : Pass DFP and Permutive Targeting Data to the Recipes Frontend to Allow for Targeted Ads (Mid Risk),2019-02-04,,,,,2019-07-23,Story,Closed,Done,0
+FAB-18634,https://immediateco.atlassian.net/browse/FAB-18634,Recipes frontend 404 handling,2019-10-24,2019-11-04,2019-11-04,2019-12-02,,,Story,In Progress,,0
+FAB-18437,https://immediateco.atlassian.net/browse/FAB-18437,Recipe : Routing,,2019-03-22,2019-03-25,2019-03-25,,,Epic,On Hold,,0
+FAB-18386,https://immediateco.atlassian.net/browse/FAB-18386,Onward Journeys : Promo widget - Admin API & front-end component,2019-01-23,2019-11-13,,,,,Story,Ready For Shaping,,0
+FAB-18381,https://immediateco.atlassian.net/browse/FAB-18381,3rd Party : Outbrain,2019-06-05,2019-06-05,2019-06-05,2019-09-23,2019-10-02,2019-10-02,Story,Complete,Done,0
+FAB-18379,https://immediateco.atlassian.net/browse/FAB-18379,Print recipe from headless page ,2019-01-23,2019-11-26,,,,,Story,Ready For Shaping,,0
+FAB-18370,https://immediateco.atlassian.net/browse/FAB-18370,Editorial : Populate with API data,2019-01-23,2019-07-01,2019-07-01,2019-07-02,2019-07-08,2019-07-22,Story,Complete,Done,0
+FAB-18312,https://immediateco.atlassian.net/browse/FAB-18312,Recipe redirects,2019-01-21,,,,,,Story,Define Task,,0
+FAB-17767,https://immediateco.atlassian.net/browse/FAB-17767,Routing : Headless application routing,2018-12-20,2019-11-19,2019-11-19,2019-11-20,2019-11-25,2019-12-03,Story,Ready For Release,Done,0
+FAB-17703,https://immediateco.atlassian.net/browse/FAB-17703,Facebook and Twitter OG meta data,2018-12-21,2019-06-28,2019-07-16,,,,Story,Ready For Development,,0
+FAB-17702,https://immediateco.atlassian.net/browse/FAB-17702,SEO: Recipe Structured Data,2018-12-21,2019-10-28,2019-11-08,,,,Epic,Ready For Development,,0
+FAB-17699,https://immediateco.atlassian.net/browse/FAB-17699,Components : Images,2018-12-21,2019-04-18,2019-04-18,2019-04-29,2019-05-29,2019-05-30,Story,Complete,Done,0
+FAB-17557,https://immediateco.atlassian.net/browse/FAB-17557,Initial wireframes for member recipe creation,2018-12-11,2018-12-11,2018-12-11,2018-12-11,,2019-01-04,UX Story,Closed,Done,0
+FAB-17455,https://immediateco.atlassian.net/browse/FAB-17455,Usability testing in-house of member recipe creation,2018-12-06,2018-12-06,2018-12-06,2018-12-06,2018-12-17,2018-12-17,UX Story,Complete,Done,0
+FAB-17417,https://immediateco.atlassian.net/browse/FAB-17417,Legacy API Architecture,2018-12-05,,,,,,Spike,Define Task,,0
+FAB-17399,https://immediateco.atlassian.net/browse/FAB-17399,Roast Calculator,,2018-12-05,2019-12-02,,,,Epic,Ready For Development,,0
+FAB-17261,https://immediateco.atlassian.net/browse/FAB-17261,Design + UX audit of member recipe creation,2018-11-29,2018-11-29,2018-11-29,2018-11-29,2018-12-06,2018-12-06,UX Story,Complete,Done,0
+FAB-17251,https://immediateco.atlassian.net/browse/FAB-17251,Headless Footer,2018-11-29,2019-08-01,2019-08-08,2019-08-28,,2019-09-13,Epic,Complete,Done,0
+FAB-17181,https://immediateco.atlassian.net/browse/FAB-17181,Recipe Admin : Investigate moderation of user-generated content,2018-11-27,2018-11-27,2018-11-27,2018-11-29,2018-12-04,2018-12-11,Spike,Complete,Done,0
+FAB-17020,https://immediateco.atlassian.net/browse/FAB-17020,My Hub : Search my saved Recipes,2018-11-19,,,,,,Epic,Define Task,,0
+FAB-17017,https://immediateco.atlassian.net/browse/FAB-17017,Headless Header,2019-01-17,2019-08-12,2019-08-19,2019-09-13,,2019-10-31,Epic,Complete,Done,0
+FAB-16857,https://immediateco.atlassian.net/browse/FAB-16857,My Hub : Show my Collections,2018-11-14,2019-11-19,2019-12-05,,,,Epic,Ready For Development,,0
+FAB-16851,https://immediateco.atlassian.net/browse/FAB-16851,My Hub : Show my Saved Recipes,2018-11-13,2019-11-13,2019-11-25,2019-11-25,,,Epic,In Progress,,0
+FAB-16839,https://immediateco.atlassian.net/browse/FAB-16839,My Hub : User Hub Homepage,2018-11-13,2019-12-05,,,,,Epic,Ready For Shaping,,0
+FAB-16390,https://immediateco.atlassian.net/browse/FAB-16390,GoodFood Identity migration ,2018-10-17,2019-05-22,2019-09-26,2019-10-31,,,Epic,In Progress,,0
+FAB-5840,https://immediateco.atlassian.net/browse/FAB-5840,Slider filter control,2016-07-27,2019-05-21,,,,,Story,Ready For Shaping,,0

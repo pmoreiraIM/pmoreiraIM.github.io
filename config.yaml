@@ -1,0 +1,141 @@
+# How to connect to JIRA. Can also include `Username` and `Password`
+Connection:
+    Domain: https://immediateco.atlassian.net/ # your JIRA instance
+    Username: pedro.moreira@immediate.co.uk
+    Password: hPx7lmQTwKLNssV9dwF87DC4
+
+# What issues to search for. Uses JQL syntax.
+#Query: Project=ABC AND IssueType=Story AND (Resolution IS NULL OR Resolution IN (Completed, Withdrawn))
+#Query: project = "Fabric" AND fixVersion in ("GF | Sept", "GF | Nov",  "GF | Jan", "GF | Feb")
+Query: project = FAB AND type in (standardIssueTypes()) AND type != Epic AND fixVersion = "GF Migration"
+
+# The workflow we want to analyse. By convention, the first stage should be
+# the backlog / initial state, and the final stage should indicate the work
+# is done.
+#
+# We map analytics names to JIRA status names. It's possible to collapse
+# multiple JIRA statuses into a single workflow stage, as with `QA` below.
+# 		
+Workflow: 
+    Backlog: 
+        - Backlog
+        - Preparation
+        - Define Task
+    Committed: Ready For Shaping
+    Elaboration: 
+        - Ready For Development
+    Build: 
+        - In Progress
+        - On Hold
+    QA:
+        - Ready For Review
+        - Ready For Packaging
+        - Ready for Testing
+        - In Test
+        - Reviewed
+        - User Testing
+    Done: 
+        - Failed
+        - Ready For Release
+        - Closed
+        - Complete
+        - Descoped
+        - Done
+
+
+Defects query: issueType = Bug
+
+# What outputs to produce. These are all optional. If an option isn't set
+# the relevant metric will not be produced.
+Output:
+
+    # CSV files with raw data for input to other tools or further analysis in a spreadsheet
+    # If you use .json or .xlsx as the extension, you can get JSON data files or Excel
+    # spreadsheets instead
+
+    Cycle time data:
+        - cycletime.csv
+        - cycletime.json
+        - cycletime.xlsx
+    CFD data: cfd.csv
+    Scatterplot data: scatterplot.csv
+    Histogram data: histogram.csv
+    Throughput data: throughput.csv
+    Percentiles data: percentiles.csv
+    Impediments data: impediments.csv
+
+    # Several Settings
+    Quantiles:
+        - 0.5
+        - 0.85
+        - 0.95
+
+    # Various charts
+
+    Scatterplot chart: scatterplot.png
+    Scatterplot chart title: Cycle time scatter plot
+    Scatterplot window: 180
+    
+    Histogram chart: histogram.png
+    Histogram chart title: Cycle time histogram
+    Histogram window: 180
+    
+    CFD chart: cfd.png
+    CFD chart title: Cumulative Flow Diagram
+    CFD window: 180
+    
+    Throughput chart: throughput.png
+    Throughput chart title: Throughput trend
+    Throughput frequency: 2W-MON
+    Throughput window: 24
+    
+    Burnup chart: burnup.png
+    Burnup chart title: Burn-up
+    Burnup window: 180
+
+    Burnup forecast chart: burnup-forecast.png
+    Burnup forecast chart title: Burn-up forecast
+    Burnup forecast window: 180
+
+    Burnup forecast chart trials: 100 # number of Monte Carlo trials to run to estimate completion date
+    Burnup forecast chart throughput window: 180 # Days in the past to use for calculating historical throughput
+    # Burnup forecast chart throughput window end: 2018-06-01 # Calculate throughput window to this date (defaults to today)
+    # Burnup forecast chart target: 100 # items to complete in total; by default uses the current size of the backlog
+    Burnup forecast chart deadline: 2020-03-01 # deadline date, in ISO format; if not set, no deadline is drawn.
+    Burnup forecast chart deadline confidence: .85 # percentile to use to compare forecast to deadline
+    
+    WIP chart: wip.png
+    WIP chart title: Work in Progress
+    WIP frequency: 2W-MON
+    WIP window: 24
+
+    Ageing WIP chart: ageing-wip.png
+    Ageing WIP chart title: Ageing WIP
+
+    Net flow chart: net-flow.png
+    Net flow chart title: Net flow
+    Net flow frequency: 2W-MON
+    Net flow window: 24
+
+    
+    Impediments chart: impediments.png
+    Impediments chart title: Number of impediments
+
+    Impediments days chart: impediments-days.png
+    Impediments days chart title: Total impeded days
+
+    Impediments status chart: impediments-status.png
+    Impediments status chart title: Number of impediments by status
+
+    Impediments status days chart: impediments-status-days.png
+    Impediments status days chart title: Total impeded days by status
+
+    Impediments window: 180
+
+
+    Progress report: progress-teams.html
+    Progress report title: GF Migration Progress Report
+    Progress report epic min stories field: Story count
+    Progress report epic query template: project = FAB AND type = Epic AND resolution IS EMPTY ORDER BY created
+    Progress report story query template: project = FAB AND type = Story AND "Epic link" = {epic}
+    Progress report epic team field: Team

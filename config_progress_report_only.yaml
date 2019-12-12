@@ -1,0 +1,107 @@
+# How to connect to JIRA. Can also include `Username` and `Password`
+Connection:
+    Domain: https://immediateco.atlassian.net/ # your JIRA instance
+    Username: pedro.moreira@immediate.co.uk
+    Password: hPx7lmQTwKLNssV9dwF87DC4
+
+# What issues to search for. Uses JQL syntax.
+#Query: Project=ABC AND IssueType=Story AND (Resolution IS NULL OR Resolution IN (Completed, Withdrawn))
+#Query: project = "Fabric" AND fixVersion in ("GF | Sept", "GF | Nov",  "GF | Jan", "GF | Feb")
+#Query: project = FAB AND type in (standardIssueTypes()) AND type != Epic AND fixVersion = "GF Migration"
+
+# The workflow we want to analyse. By convention, the first stage should be
+# the backlog / initial state, and the final stage should indicate the work
+# is done.
+#
+# We map analytics names to JIRA status names. It's possible to collapse
+# multiple JIRA statuses into a single workflow stage, as with `Backlog` below.
+# 		
+Workflow: 
+    Backlog:
+        - Backlog
+        - Preparation
+        - Define Task
+        - Ready For Shaping
+        - Ready For Development
+    Doing: 
+        - In Progress
+        - On Hold
+        - Ready For Review
+        - Ready For Packaging
+        - Ready for Testing
+        - In Test
+        - Reviewed
+        - User Testing
+    Done: 
+        - Failed
+        - Ready For Release
+        - Closed
+        - Complete
+        - Descoped
+        - Done
+
+
+Defects query: issueType = Bug
+
+# What outputs to produce. These are all optional. If an option isn't set
+# the relevant metric will not be produced.
+Output:
+
+    # CSV files with raw data for input to other tools or further analysis in a spreadsheet
+    # If you use .json or .xlsx as the extension, you can get JSON data files or Excel
+    # spreadsheets instead
+
+    # Several Settings
+    Quantiles:
+        - 0.5
+        - 0.85
+        - 0.95
+
+    # Progress Report Charts
+
+    Progress report: progress-teams.html
+    Progress report title: GF Migration Progress Report
+    Progress report epic query template: project = FAB AND type = Epic AND fixVersion in ({outcome})
+    Progress report story query template: project = FAB AND type in (standardIssueTypes()) AND type != Epic AND fixVersion in ({outcome}) AND Team = {team} AND "Epic link" = {epic}
+    Progress report epic team field: Team
+
+    Progress report teams:
+      - Name: Bazinga
+        WIP: 5
+        Throughput samples: project = FAB AND type in (standardIssueTypes())  AND fixVersion = "GF Migration" AND Team = {team}
+        Throughput samples window: 24
+      - Name: Blue - Publishing
+        WIP: 5
+        Throughput samples: project = FAB AND type in (standardIssueTypes())  AND fixVersion = "GF Migration" AND Team = {team}
+        Throughput samples window: 24
+      - Name: Death Metal
+        WIP: 5
+        Throughput samples: project = FAB AND type in (standardIssueTypes())  AND fixVersion = "GF Migration" AND Team = {team}
+        Throughput samples window: 24
+      - Name: Green - Publishing
+        WIP: 5
+        Throughput samples: project = FAB AND type in (standardIssueTypes())  AND fixVersion = "GF Migration" AND Team = {team}
+        Throughput samples window: 24
+      - Name: Gryffindor
+        WIP: 5
+        Throughput samples: project = FAB AND type in (standardIssueTypes())  AND fixVersion = "GF Migration" AND Team = {team}
+        Throughput samples window: 24
+      - Name: No Team
+        WIP: 5
+        Throughput samples: project = FAB AND type in (standardIssueTypes())  AND fixVersion = "GF Migration" AND Team = {team}
+        Throughput samples window: 24
+      - Name: The Avengers
+        WIP: 5
+        Throughput samples: project = FAB AND type in (standardIssueTypes())  AND fixVersion = "GF Migration" AND Team = {team}
+        Throughput samples window: 24
+      - Name: Thundercats
+        WIP: 5
+        Throughput samples: project = FAB AND type in (standardIssueTypes())  AND fixVersion = "GF Migration" AND Team = {team}
+        Throughput samples window: 24
+        
+    Progress report outcomes:
+      - Name: GF | Jan
+        Deadline: 2020-01-31
+      - Name: GF | Feb
+        Deadline: 2020-02-29
+          

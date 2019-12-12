@@ -1,0 +1,6 @@
+bin/
+fabric_agile_metrics.xlsx
+lib/
+pyenv.cfg
+.DS_Store
+pyvenv.cfg
