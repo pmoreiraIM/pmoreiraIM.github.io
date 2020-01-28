@@ -23,9 +23,9 @@ Workflow:
         - Define Task
         - Ready For Shaping
         - Ready For Development
+        - On Hold
     Doing: 
         - In Progress
-        - On Hold
         - Ready For Review
         - Ready For Packaging
         - Ready for Testing
@@ -61,43 +61,47 @@ Output:
 
     Progress report: progress-teams.html
     Progress report title: GF Migration Progress Report
-    Progress report epic query template: project = FAB AND type = Epic AND fixVersion in ({outcome})
+    Progress report epic query template: project = FAB AND type = Epic AND fixVersion in ({outcome}) and status not in (Complete, Closed, Done, "Ready For Release")
     Progress report story query template: project = FAB AND type in (standardIssueTypes()) AND type != Epic AND fixVersion in ({outcome}) AND Team = {team} AND "Epic link" = {epic}
     Progress report epic team field: Team
 
     Progress report teams:
       - Name: Bazinga
         WIP: 5
-        Throughput samples: project = FAB AND type in (standardIssueTypes())  AND fixVersion = "GF Migration" AND Team = {team}
+        Throughput samples: project = FAB AND type in (standardIssueTypes())  AND fixVersion = "GF Migration" AND Team = {team} and status in (Complete, Closed, Done, "Ready For Release")
         Throughput samples window: 24
       - Name: Blue - Publishing
         WIP: 5
-        Throughput samples: project = FAB AND type in (standardIssueTypes())  AND fixVersion = "GF Migration" AND Team = {team}
+        Throughput samples: project = FAB AND type in (standardIssueTypes())  AND fixVersion = "GF Migration" AND Team = {team} and status in (Complete, Closed, Done, "Ready For Release")
         Throughput samples window: 24
       - Name: Death Metal
         WIP: 5
-        Throughput samples: project = FAB AND type in (standardIssueTypes())  AND fixVersion = "GF Migration" AND Team = {team}
+        Throughput samples: project = FAB AND type in (standardIssueTypes())  AND fixVersion = "GF Migration" AND Team = {team} and status in (Complete, Closed, Done, "Ready For Release")
         Throughput samples window: 24
       - Name: Green - Publishing
         WIP: 5
-        Throughput samples: project = FAB AND type in (standardIssueTypes())  AND fixVersion = "GF Migration" AND Team = {team}
+        Throughput samples: project = FAB AND type in (standardIssueTypes())  AND fixVersion = "GF Migration" AND Team = {team} and status in (Complete, Closed, Done, "Ready For Release")
         Throughput samples window: 24
       - Name: Gryffindor
         WIP: 5
-        Throughput samples: project = FAB AND type in (standardIssueTypes())  AND fixVersion = "GF Migration" AND Team = {team}
+        Throughput samples: project = FAB AND type in (standardIssueTypes())  AND fixVersion = "GF Migration" AND Team = {team} and status in (Complete, Closed, Done, "Ready For Release")
         Throughput samples window: 24
       - Name: No Team
         WIP: 5
-        Throughput samples: project = FAB AND type in (standardIssueTypes())  AND fixVersion = "GF Migration" AND Team = {team}
+        Throughput samples: project = FAB AND type in (standardIssueTypes())  AND fixVersion = "GF Migration" AND Team = {team} and status in (Complete, Closed, Done, "Ready For Release")
         Throughput samples window: 24
       - Name: The Avengers
         WIP: 5
-        Throughput samples: project = FAB AND type in (standardIssueTypes())  AND fixVersion = "GF Migration" AND Team = {team}
+        Throughput samples: project = FAB AND type in (standardIssueTypes())  AND fixVersion = "GF Migration" AND Team = {team} and status in (Complete, Closed, Done, "Ready For Release")
         Throughput samples window: 24
       - Name: Thundercats
         WIP: 5
-        Throughput samples: project = FAB AND type in (standardIssueTypes())  AND fixVersion = "GF Migration" AND Team = {team}
+        Throughput samples: project = FAB AND type in (standardIssueTypes())  AND fixVersion = "GF Migration" AND Team = {team} and status in (Complete, Closed, Done, "Ready For Release")
         Throughput samples window: 24
+      - Name: YLD Ops
+        WIP: 5
+        Throughput samples: project = FAB AND type in (standardIssueTypes())  AND fixVersion = "GF Migration" AND Team = {team} and status in (Complete, Closed, Done, "Ready For Release")
+        Throughput samples window: 12
         
     Progress report outcomes:
       - Name: GF | Jan
