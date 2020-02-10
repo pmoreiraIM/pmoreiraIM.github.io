@@ -1,6 +1,12 @@
 bin/
 fabric_agile_metrics.xlsx
-lib/
+lib/*
+!lib/python3.7/
+
+lib/python3.7/site-packages/*
+!lib/python3.7/site-packages/jira_agile_metrics/
+
+
 pyenv.cfg
 .DS_Store
 pyvenv.cfg
