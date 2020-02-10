@@ -86,10 +86,7 @@ Output:
         WIP: 5
         Throughput samples: project = FAB AND type in (standardIssueTypes())  AND fixVersion = "GF Migration" AND Team = {team} and status in (Complete, Closed, Done, "Ready For Release")
         Throughput samples window: 24
-      - Name: No Team
-        WIP: 5
-        Throughput samples: project = FAB AND type in (standardIssueTypes())  AND fixVersion = "GF Migration" AND Team = {team} and status in (Complete, Closed, Done, "Ready For Release")
-        Throughput samples window: 24
+      
       - Name: The Avengers
         WIP: 5
         Throughput samples: project = FAB AND type in (standardIssueTypes())  AND fixVersion = "GF Migration" AND Team = {team} and status in (Complete, Closed, Done, "Ready For Release")
