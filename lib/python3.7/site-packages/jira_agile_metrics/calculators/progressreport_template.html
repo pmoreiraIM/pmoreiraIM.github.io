@@ -382,7 +382,7 @@
                                 </tr>
                             </thead>
                             <tbody>
-                                {% for epic in outcome.epics %}
+                                {% for epic in outcome.epics | sort(attribute='team.name') %}
                                     {% if epic.stories_done != epic.stories_done + epic.stories_in_progress + epic.stories_in_backlog %}
                                         <tr>
                                             <td><a class="epic-link" href="{{ jira_url }}/browse/{{ epic.key }}" target="_blank">{{ epic.key }}: {{ epic.summary }}</a></td>
