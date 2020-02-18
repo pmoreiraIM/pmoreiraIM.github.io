@@ -1,8 +1,8 @@
 # How to connect to JIRA. Can also include `Username` and `Password`
 Connection:
     Domain: https://immediateco.atlassian.net/ # your JIRA instance
-    Username: pedro.moreira@immediate.co.uk
-    Password: hPx7lmQTwKLNssV9dwF87DC4
+    Username: hossein.taheri@immediate.co.uk
+    Password: 3FOKCqbLBgaxi5zExRIr69BA
 
 # What issues to search for. Uses JQL syntax.
 #Query: Project=ABC AND IssueType=Story AND (Resolution IS NULL OR Resolution IN (Completed, Withdrawn))
