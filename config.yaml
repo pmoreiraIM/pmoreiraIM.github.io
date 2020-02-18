@@ -2,7 +2,7 @@
 Connection:
     Domain: https://immediateco.atlassian.net/ # your JIRA instance
     Username: hossein.taheri@immediate.co.uk
-    Password: 3FOKCqbLBgaxi5zExRIr69BA
+    Password: xxxxxxxxxxx
 
 # What issues to search for. Uses JQL syntax.
 #Query: Project=ABC AND IssueType=Story AND (Resolution IS NULL OR Resolution IN (Completed, Withdrawn))
